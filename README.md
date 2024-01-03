@@ -1,0 +1,2 @@
+# mag
+warframe discord bot
