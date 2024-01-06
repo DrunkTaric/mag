@@ -1,7 +1,8 @@
 {
 	"scripts": {
 		"build": "tsc",
-		"run": "node out/main.js"
+		"start": "node out/main.js",
+		"dev": "concurrently \"tsc --watch\" \"nodemon out/main.js\""
 	},
 	"dependencies": {
 		"@supabase/supabase-js": "^2.39.2",
@@ -10,6 +11,8 @@
 	},
 	"devDependencies": {
 		"@types/node": "^20.10.6",
+		"concurrently": "^8.2.2",
+		"nodemon": "^3.0.2",
 		"typescript": "^5.3.3"
 	}
 }
