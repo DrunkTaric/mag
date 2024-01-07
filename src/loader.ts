@@ -1,5 +1,8 @@
 import fs from "node:fs"
 import path from "node:path"
+import { RESTPostAPIChatInputApplicationCommandsJSONBody, TextChannel } from "discord.js";
+
+
 export function getCommands() {
 	const foldersPath = path.join(__dirname, 'commands');
 	const commandFolders = fs.readdirSync(foldersPath);
@@ -20,4 +23,26 @@ export function getCommands() {
 			}
 		}
 	}
+}
+
+function getEvents() {
+	const foldersPath = path.join(__dirname, 'events');
+	const eventsFiles = fs.readdirSync(foldersPath);
+	let events: any[] = [];
+	for (const file of eventsFiles) {
+		const event = require(path.join(foldersPath, file));
+		events.push(event);
+	}
+	return events
+}
+
+
+export function LoadEvents(channel: TextChannel | undefined) {
+	//let events = getEvents();
+	channel?.send("Loading events...")
+		.then(message => console.log(`Sent message: ${message.content}`))
+		.catch(console.error);
+	// setInterval(() => {
+		// LoadEvents(channel);
+	// }, 500)
 }
