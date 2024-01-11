@@ -1,5 +1,5 @@
-import { scheduleJob } from "node-schedule"
 import { EmbedBuilder, TextChannel } from "discord.js"
+import corn from "node-cron"
 import path from "node:path"
 import fs from "node:fs"
 
@@ -20,7 +20,7 @@ export async function getRotations(channel: TextChannel | undefined) {
             Rewards:
             ${rotation.rewards.join("\n")}
         `, inline: true })
-        let job = scheduleJob(rotation.name, rotation.time, async () => {
+        let job = corn.schedule(rotation.time, async () => {
             console.log("Rotations: " + rotation.name)
             rotations.map(async (rot) => { if(rot.name == rotation.name) rot.value = `
                 Current:
