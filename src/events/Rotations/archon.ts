@@ -5,17 +5,20 @@ module.exports = {
     name: 'Archon',
     alone: false,
     api: async () => {
-        const list: {[key: string]: string} = {"Archon Boreal": "Blue Shard", "Archon Amar": "Red Shard", "Archon Nira": "Yellow Shard"}
+        const list: {[key: string]: string} = {
+            "Archon Boreal": `${process.env["BLUE_SHARD"]} Blue Shard`, 
+            "Archon Amar": `${process.env["RED_SHARD"]} Red Shard`, 
+            "Archon Nira": `${process.env["YELLOW_SHARD"]} Yellow Shard`
+        }
         try {
             const { data } = await axios.get("https://api.warframestat.us/pc/en/archonHunt")
-            if (data.error) { return "Blue Shard" }
-            console.log(data["boss"])
+            if (data.error) { return list["Archon Boreal"] }
             return list[data["boss"]]
         }catch(_) {
-            return "Blue Shard"
+            return list["Archon Boreal"]
         }
     },
-    time: 1000 * 60 * 60 * 24,
+    time: '*/1 * * * *',
     rewards: [
         `${process.env["BLUE_SHARD"]} Blue Shard`,
         `${process.env["RED_SHARD"]} Red Shard`,
