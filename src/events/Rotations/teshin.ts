@@ -13,7 +13,7 @@ module.exports = {
             return "Umbra Forma"
         }
     },
-    time: 1000 * 60, //* 60 * 24,
+    time: '*/2 * * * *',
     rewards: [
         `${process.env["UMBRA_FORMA"]} Umbra Forma ${process.env["STEEL_ESSENCE"]} 150`,
         `${process.env["KUVA"]} 50,000 Kuva ${process.env["STEEL_ESSENCE"]} 55`,
