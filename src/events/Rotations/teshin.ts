@@ -1,10 +1,10 @@
 import 'dotenv/config'
 import axios from 'axios';
+import { Rotation } from '../../types';
 
 module.exports = {
     name: 'Teshin',
-    alone: false,
-    api: async () => {
+    api: async (rotation: Rotation) => {
         try {
             const { data } = await axios.get("https://api.warframestat.us/pc/en/steelPath/")
             if (data.error) { return "Umbra Forma" }

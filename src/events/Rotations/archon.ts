@@ -1,10 +1,10 @@
 import 'dotenv/config'
 import axios from 'axios';
+import { Rotation } from '../../types';
 
 module.exports = {
     name: 'Archon',
-    alone: false,
-    api: async () => {
+    api: async (rotation: Rotation) => {
         const list: {[key: string]: string} = {
             "Archon Boreal": `${process.env["BLUE_SHARD"]} Blue Shard`, 
             "Archon Amar": `${process.env["RED_SHARD"]} Red Shard`, 
