@@ -2,10 +2,9 @@ import { EmbedBuilder, TextChannel } from "discord.js"
 import corn from "node-cron"
 import path from "node:path"
 import fs from "node:fs"
+import { editMessage, sendMessage } from "../../utils/discord";
+import { Schedule } from "../../types";
 
-
-export async function getRotations(channel: TextChannel | undefined) {
-    let message = await channel?.send("Rotations");
 function PullFiles() {
     let files = []
     const filesPath = path.join(__dirname);
@@ -18,11 +17,19 @@ function PullFiles() {
     }
     return files
 }
+
+function makeSchedules(schedules: { [key: string]: Schedule[] }, channel: TextChannel | undefined) {
+    if (!schedules) { return; }
+    if (!channel) { return; }
+    for (const [key, value] of Object.entries(schedules)) {
+        corn.schedule(key, async () => {
+            for (const schedule of value) {
+                editMessage(new EmbedBuilder().setTitle(schedule.name).setColor(0x0099FF).addFields({ name: schedule.name, value: await schedule.callback() }), schedule.message);
+                console.log("Updated Rotation: " + schedule.name)
+            }
+            console.log("=================")
         })
     }
-    message?.edit({ embeds: [
-        new EmbedBuilder()
-            .setColor(0x0099FF)
-            .addFields(rotations)
-    ]});
+
+}
 }
