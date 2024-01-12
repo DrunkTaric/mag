@@ -32,4 +32,20 @@ function makeSchedules(schedules: { [key: string]: Schedule[] }, channel: TextCh
     }
 
 }
+
+export async function getRotations(channel: TextChannel | undefined) {
+    let schedules: { [key: string]: Schedule[] } = {}
+    const files = PullFiles();
+
+    for (const rotation of files) {
+        let rotation_message = await sendMessage(new EmbedBuilder().setTitle(rotation.name).setColor(0x0099FF).addFields({ name: rotation.name, value: await rotation.api() }), channel);
+        if (schedules[rotation.time] == undefined) {
+            schedules[rotation.time] = []
+        }
+        schedules[rotation.time].push({ name: rotation.name, message: rotation_message, callback: rotation.api })
+    }
+
+    console.log(JSON.stringify(schedules))
+
+    makeSchedules(schedules, channel)
 }
