@@ -2,7 +2,7 @@ import { EmbedBuilder, TextChannel } from "discord.js"
 import corn from "node-cron"
 import path from "node:path"
 import fs from "node:fs"
-import { editMessage, sendMessage } from "../../utils/discord";
+import { editMessage, sendMessage } from "../../utils";
 import { Schedule } from "../../types";
 
 function PullFiles() {
