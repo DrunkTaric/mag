@@ -1,6 +1,7 @@
 import fs from "node:fs"
 import path from "node:path"
-import { RESTPostAPIChatInputApplicationCommandsJSONBody, TextChannel } from "discord.js";
+import { EmbedBuilder, Message, RESTPostAPIChatInputApplicationCommandsJSONBody, TextChannel } from "discord.js";
+import { getRotations } from "./events/Rotations/loader";
 
 
 export function getCommands() {
@@ -28,20 +29,26 @@ export function getCommands() {
 function getEvents() {
 	const foldersPath = path.join(__dirname, 'events');
 	const eventsFiles = fs.readdirSync(foldersPath);
-	let events: any[] = [];
-	for (const file of eventsFiles) {
-		const event = require(path.join(foldersPath, file));
-		events.push(event);
+	let events: { [key: string]: EmbedBuilder[] } = {};
+	for (const folder of eventsFiles) {
+		const commandsPath = path.join(foldersPath, folder);
+		const commandFiles = fs.readdirSync(commandsPath).filter(file => file.endsWith('.js'));
+		events[folder] = []
+		for (const file of commandFiles) {
+			const filePath = path.join(commandsPath, file);
+			events[folder].push(require(filePath));
+		}
 	}
 	return events
 }
 
 
-export function LoadEvents(channel: TextChannel | undefined) {
-	//let events = getEvents();
-	channel?.send("Loading events...")
-		.then(message => console.log(`Sent message: ${message.content}`))
-		.catch(console.error);
+export async function LoadEvents(channel: TextChannel | undefined) {
+	let events = getEvents();
+	for (let message of await channel?.messages.fetch() || []) {
+		message[1].delete()	
+	}
+	await getRotations(channel)
 	// setInterval(() => {
 		// LoadEvents(channel);
 	// }, 500)
