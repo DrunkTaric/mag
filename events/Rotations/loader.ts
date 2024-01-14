@@ -11,7 +11,7 @@ function PullFiles() {
     const file_names = fs.readdirSync(filesPath);
 
     for (const file_name of file_names) {
-        if (file_name == "loader.js") { continue; }
+        if (file_name == "loader.ts") { continue; }
         const filePath = path.join(filesPath, file_name);
         let file = require(filePath);
         files.push(file)
