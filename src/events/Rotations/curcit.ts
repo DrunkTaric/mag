@@ -1,16 +1,17 @@
 import 'dotenv/config'
 import axios from 'axios';
 import { Rotation } from '../../types';
+import { structureMessage } from '../../utils';
 
 module.exports = {
     name: 'Duviri Curcit',
     api: async (rotation: Rotation) => {
         try {
             const { data } = await axios.get("https://api.warframestat.us/pc/en/duviriCycle/")
-            if (data.error) { return "Braton" }
-            return data["choices"][1]["choices"][0]
+            if (data.error) { return structureMessage(rotation.rewards, "Braton")  }
+            return structureMessage(rotation.rewards, data["choices"][1]["choices"][0]) 
         }catch(_) {
-            return "Braton"
+            return structureMessage(rotation.rewards, "Braton") 
         }
     },
     time: '*/2 * * * *',

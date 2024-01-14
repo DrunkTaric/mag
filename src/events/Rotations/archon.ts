@@ -1,6 +1,7 @@
 import 'dotenv/config'
 import axios from 'axios';
 import { Rotation } from '../../types';
+import { structureMessage } from '../../utils';
 
 module.exports = {
     name: 'Archon',
@@ -12,10 +13,10 @@ module.exports = {
         }
         try {
             const { data } = await axios.get("https://api.warframestat.us/pc/en/archonHunt")
-            if (data.error) { return list["Archon Boreal"] }
-            return list[data["boss"]]
+            if (data.error) { return structureMessage(rotation.rewards, list["Archon Boreal"]) }
+            return structureMessage(rotation.rewards, list[data["currentBoss"]])
         }catch(_) {
-            return list["Archon Boreal"]
+            return structureMessage(rotation.rewards, list["Archon Boreal"])
         }
     },
     time: '*/1 * * * *',
