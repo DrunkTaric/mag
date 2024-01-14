@@ -1,7 +1,7 @@
 import fs from "node:fs"
 import path from "node:path"
-import { EmbedBuilder, Message, RESTPostAPIChatInputApplicationCommandsJSONBody, TextChannel } from "discord.js";
-import { getRotations } from "./events/Rotations/loader";
+import { makeRotations } from "./events/Rotations/loader";
+import { EmbedBuilder, RESTPostAPIChatInputApplicationCommandsJSONBody, TextChannel } from "discord.js";
 
 
 export function getCommands() {
@@ -48,8 +48,5 @@ export async function LoadEvents(channel: TextChannel | undefined) {
 	for (let message of await channel?.messages.fetch() || []) {
 		message[1].delete()	
 	}
-	await getRotations(channel)
-	// setInterval(() => {
-		// LoadEvents(channel);
-	// }, 500)
+	await makeRotations(channel)
 }
