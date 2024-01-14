@@ -27,6 +27,10 @@ client.on('interactionCreate', async interaction => {
     if (interaction.commandName === 'ping') {
       await interaction.reply('Pong!');
     }
+
+	if (interaction.commandName === 'build') {
+		await interaction.reply(await interaction.options.get('name')?.value as string);
+	  }
 });
 
 client.on("messageCreate", message => {
@@ -36,6 +40,7 @@ client.on("messageCreate", message => {
 async function main() {
 	try {
 		console.log("Starting Registering commands...")
+		console.log(getCommands())
 		await rest.put(
 			Routes.applicationGuildCommands(
 				process.env.CLIENT_ID || "",

@@ -24,6 +24,8 @@ export function getCommands() {
 			}
 		}
 	}
+
+	return commands
 }
 
 function getEvents() {
