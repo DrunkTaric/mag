@@ -12,6 +12,17 @@ export async function editMessage(msg: string | EmbedBuilder, message: Message<t
         return await message?.edit({ embeds: [msg] })
     }
     return await message?.edit(msg)
+}
+
+export function getRewardsAsString(list: string[]) {
+    let rewards = ""
+
+    for (let i = 0; i < list.length; i++) {
+        rewards += `**${list[i]}**\n`
+    }
+
+    return rewards
+}
 
 export function structureMessage(rewards: string[] | string[][], current: string) {
     let message = "";
