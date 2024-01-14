@@ -14,6 +14,24 @@ export async function editMessage(msg: string | EmbedBuilder, message: Message<t
     return await message?.edit(msg)
 }
 
+export function getIndex(list : string[][] | string[], current: string) {
+    if (Array.isArray(list[0])) {
+        for (let i = 0; i < list.length; i++) {
+            if (list[i].includes(current)) {
+                return i
+            }
+        }
+    }
+
+    for (let i = 0; i < list.length; i++) {
+        if (list[i] == current) {
+            return i
+        }
+    }
+
+    return 0
+}
+
 export function getRewardsAsString(list: string[]) {
     let rewards = ""
 
