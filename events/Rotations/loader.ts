@@ -52,7 +52,7 @@ export async function makeRotations(channel: TextChannel | undefined) {
         if (schedules[rotation.time] == undefined) {
             schedules[rotation.time] = []
         }
-        schedules[rotation.time].push({ name: rotation.name, message: rotation_message, callback: rotation.api })
+        schedules[rotation.time].push({ name: rotation.name, message: rotation_message, rotation: rotation, callback: rotation.api })
     }
 
     makeSchedules(schedules, channel)
