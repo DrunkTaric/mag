@@ -14,7 +14,7 @@ module.exports = {
         try {
             const { data } = await axios.get("https://api.warframestat.us/pc/en/archonHunt")
             if (data.error) { return structureMessage(rotation.rewards, list["Archon Boreal"]) }
-            return structureMessage(rotation.rewards, list[data["currentBoss"]])
+            return structureMessage(rotation.rewards, list[data["boss"]])
         }catch(_) {
             return structureMessage(rotation.rewards, list["Archon Boreal"])
         }
