@@ -16,8 +16,8 @@ const client = new Client({ intents: [
 	GatewayIntentBits.MessageContent
 ]});
 
-client.once('ready', async () => {
-    console.log(`Logged in as ${client.user?.tag}!`);
+client.on('ready', async () => {
+	console.log(`Logged in as ${client.user?.tag}!`);
 	await LoadEvents(client.channels.cache.get(process.env.CHANNEL_ID || "") as TextChannel | undefined); 
 });
 
@@ -30,17 +30,12 @@ client.on('interactionCreate', async interaction => {
 
 	if (interaction.commandName === 'build') {
 		await interaction.reply(await interaction.options.get('name')?.value as string);
-	  }
+	}
 });
-
-client.on("messageCreate", message => {
-	//console.log(message.content)
-})
 
 async function main() {
 	try {
 		console.log("Starting Registering commands...")
-		console.log(getCommands())
 		await rest.put(
 			Routes.applicationGuildCommands(
 				process.env.CLIENT_ID || "",
@@ -52,7 +47,7 @@ async function main() {
 	}catch (error) {
 		console.error(error)
 	}
-	client.login(process.env.BOT_TOKEN);
+	await client.login(process.env.BOT_TOKEN);
 }
 
 main()
