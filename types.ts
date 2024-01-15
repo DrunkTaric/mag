@@ -4,11 +4,12 @@ export interface Rotation {
     name: string
     time: string
     rewards: string[] | string[][]
-    api: () => Promise<string>
+    api: (rotation: Rotation) => Promise<string>
 }
 
 export interface Schedule {
     name: string
     message: Message<true> | undefined
-    callback: () => Promise<string>
+    rotation: Rotation
+    callback: (rotation: Rotation) => Promise<string>
 }
