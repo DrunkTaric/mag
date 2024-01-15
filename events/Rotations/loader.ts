@@ -25,13 +25,21 @@ function makeSchedules(schedules: { [key: string]: Schedule[] }, channel: TextCh
     if (!channel) { return; }
 
     for (const [key, value] of Object.entries(schedules)) {
-        corn.schedule(key, async () => {
-            for (const schedule of value) {
-                editMessage(new EmbedBuilder().setTitle(schedule.name).setColor(0x0099FF).addFields({ name: schedule.name, value: await schedule.callback() }), schedule.message);
-                console.log("Updated Rotation: " + schedule.name)
-            }
-            console.log("=================")
-        })
+        try {
+            corn.schedule(key, async () => {
+                try {
+                    for (const schedule of value) {
+                        await editMessage(new EmbedBuilder().setTitle(schedule.name).setColor(0x0099FF).addFields({ name: schedule.name, value: await schedule.callback(schedule.rotation) }), schedule.message);
+                        console.log("Updated Rotation: " + schedule.name)
+                    }
+                    console.log("=================")
+                }catch (error) {
+                    console.error(error)
+                }
+            })
+        }catch (error) {
+            console.error(error)
+        }
     }
 }
 
