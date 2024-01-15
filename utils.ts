@@ -26,7 +26,7 @@ export function getIndex(list : string[][] | string[], current: string) {
     }
 
     for (let i = 0; i < list.length; i++) {
-        if (list[i] == current) {
+        if (list[i].includes(current)) {
             return i
         }
     }
