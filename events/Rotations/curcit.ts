@@ -2,25 +2,18 @@ import 'dotenv/config'
 import axios from 'axios';
 import { Rotation } from '../../types';
 import { structureMessage } from '../../utils/rotations';
+import { CurcitRewards } from '../../static';
 
 module.exports = {
     name: 'Duviri Curcit',
-    api: async (rotation: Rotation) => {
+    api: async () => {
         try {
             const { data } = await axios.get("https://api.warframestat.us/pc/en/duviriCycle/")
-            if (data.error) { return structureMessage(rotation.rewards, "Braton")  }
-            return structureMessage(rotation.rewards, data["choices"][1]["choices"][0]) 
+            if (data.error) { return structureMessage(CurcitRewards, "Braton")  }
+            return structureMessage(CurcitRewards, data["choices"][1]["choices"][0]) 
         }catch(_) {
-            return structureMessage(rotation.rewards, "Braton") 
+            return structureMessage(CurcitRewards, "Braton") 
         }
     },
     time: '*/2 * * * *',
-    rewards: [
-        [`Braton Incarnon Genesis`, `Lato Incarnon Genesis`, `Skana Incarnon Genesis`, `Paris Incarnon Genesis`, `Kunai Incarnon Genesis`],
-        [`Boar Incarnon Genesis`, `Gammacor Incarnon Genesis`, `Angstrum Incarnon Genesis`, `Gorgon Incarnon Genesis`, `Anku Incarnon Genesis`],
-        [`Bo Incarnon Genesis`, `Latron Incarnon Genesis`, `Furis Incarnon Genesis`, `Furax Incarnon Genesis`, `Strun Incarnon Genesis`],
-        [`Lex Incarnon Genesis`, `Magistar Incarnon Genesis`, `Boltor Incarnon Genesis`, `Bronco Incarnon Genesis`, `Ceramic Dagger Incarnon Genesis`],
-        [`Torid Incarnon Genesis`, `Dual Toxocyst Incarnon Genesis`, `Dual Ichor Incarnon Genesis`, `Miter Incarnon Genesis`, `Atomos Incarnon Genesis`],
-        [`Zylok Incarnon Genesis`, `Sibear Incarnon Genesis`, `Dread Incarnon Genesis`, `Despair Incarnon Genesis`, `Hate Incarnon Genesis`],
-    ],
 }

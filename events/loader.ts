@@ -2,7 +2,7 @@ import { EmbedBuilder, TextChannel } from "discord.js"
 import corn from "node-cron"
 import path from "node:path"
 import fs from "node:fs"
-import { editMessage, sendMessage } from "../utils";
+import { editMessage, sendMessage } from "../utils/discord";
 import { Schedule } from "../types";
 
 function PullFiles() {
@@ -33,7 +33,7 @@ function makeSchedules(schedules: { [key: string]: Schedule[] }, channel: TextCh
             corn.schedule(key, async () => {
                 try {
                     for (const schedule of value) {
-                        await editMessage(new EmbedBuilder().setTitle(schedule.name).setColor(0x0099FF).addFields({ name: schedule.name, value: await schedule.callback(schedule.rotation) }), schedule.message);
+                        await editMessage(new EmbedBuilder().setTitle(schedule.name).setColor(0x0099FF).addFields({ name: schedule.name, value: await schedule.callback() }), schedule.message);
                         console.log("Updated Rotation: " + schedule.name)
                     }
                     console.log("=================")
@@ -52,7 +52,7 @@ export async function makeRotations(channel: TextChannel | undefined) {
     const files = PullFiles();
 
     for (const rotation of files) {
-        let rotation_message = await sendMessage(new EmbedBuilder().setTitle(rotation.name).setColor(0x0099FF).addFields({ name: rotation.name, value: await rotation.api(rotation) }), channel);
+        let rotation_message = await sendMessage(new EmbedBuilder().setTitle(rotation.name).setColor(0x0099FF).addFields({ name: rotation.name, value: await rotation.api() }), channel);
         if (schedules[rotation.time] == undefined) {
             schedules[rotation.time] = []
         }
