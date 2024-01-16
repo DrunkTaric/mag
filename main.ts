@@ -1,8 +1,10 @@
 import 'dotenv/config'
-import { REST, Routes, TextChannel } from 'discord.js'
-import { LoadEvents, getCommands } from './loader'
+import { TextChannel } from 'discord.js'
+import { LoadEvents } from './events/loader'
+import { handleCommmands, registerCommands } from './commands/loader'
 import { createClient } from '@supabase/supabase-js'
 import { Client, GatewayIntentBits } from 'discord.js';
+import { clearChannel } from './utils'
 
 if (!process.env.BOT_TOKEN) { throw new Error('Missing BOT_TOKEN in .env') }
 if (!process.env.SUPABASE_URL) { throw new Error('Missing SUPABASE_URL in .env') }
@@ -18,23 +20,13 @@ const client = new Client({ intents: [
 
 client.on('ready', async () => {
 	console.log(`Logged in as ${client.user?.tag}!`);
+	handleCommmands(client)
+	await clearChannel(client.channels.cache.get(process.env.CHANNEL_ID || "") as TextChannel | undefined);
 	await LoadEvents(client.channels.cache.get(process.env.CHANNEL_ID || "") as TextChannel | undefined); 
 });
 
 async function main() {
-	try {
-		console.log("Starting Registering commands...")
-		await rest.put(
-			Routes.applicationGuildCommands(
-				process.env.CLIENT_ID || "",
-				process.env.GUILD_ID || "",
-			),
-			{ body: getCommands() }
-		)
-		console.log("Finished Registering commands...")
-	}catch (error) {
-		console.error(error)
-	}
+	await registerCommands()
 	await client.login(process.env.BOT_TOKEN);
 }
 
