@@ -21,18 +21,6 @@ client.on('ready', async () => {
 	await LoadEvents(client.channels.cache.get(process.env.CHANNEL_ID || "") as TextChannel | undefined); 
 });
 
-client.on('interactionCreate', async interaction => {
-    if (!interaction.isChatInputCommand()) return;
-
-    if (interaction.commandName === 'ping') {
-      await interaction.reply('Pong!');
-    }
-
-	if (interaction.commandName === 'build') {
-		await interaction.reply(await interaction.options.get('name')?.value as string);
-	}
-});
-
 async function main() {
 	try {
 		console.log("Starting Registering commands...")
