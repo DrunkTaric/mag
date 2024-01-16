@@ -1,7 +1,7 @@
 import 'dotenv/config'
 import axios from 'axios';
 import { Rotation } from '../../types';
-import { structureMessage } from '../../utils';
+import { structureMessage } from '../../utils/rotations';
 
 module.exports = {
     name: 'Archon',
