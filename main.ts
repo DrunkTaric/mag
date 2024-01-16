@@ -4,7 +4,7 @@ import { LoadEvents } from './events/loader'
 import { handleCommmands, registerCommands } from './commands/loader'
 import { createClient } from '@supabase/supabase-js'
 import { Client, GatewayIntentBits } from 'discord.js';
-import { clearChannel } from './utils'
+import { clearChannel } from './utils/discord';
 
 if (!process.env.BOT_TOKEN) { throw new Error('Missing BOT_TOKEN in .env') }
 if (!process.env.SUPABASE_URL) { throw new Error('Missing SUPABASE_URL in .env') }
