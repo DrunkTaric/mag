@@ -13,3 +13,8 @@ export interface Schedule {
     rotation: Rotation
     callback: (rotation: Rotation) => Promise<string>
 }
+
+export interface MetaData {
+    name: string
+    description: string
+}
