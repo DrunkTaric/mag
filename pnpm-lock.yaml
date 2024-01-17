@@ -26,6 +26,9 @@ dependencies:
   ts-node:
     specifier: ^10.9.2
     version: 10.9.2(@types/node@20.10.6)(typescript@5.3.3)
+  warframe-items:
+    specifier: ^1.1261.10
+    version: 1.1261.10
 
 devDependencies:
   '@types/jest':
@@ -2862,6 +2865,10 @@ packages:
     dependencies:
       makeerror: 1.0.12
     dev: true
+
+  /warframe-items@1.1261.10:
+    resolution: {integrity: sha512-DEzZ4ApyNwIrtrguhPw4oE3O+tWH2/zUqD7isBFCWdnkiK3Z08O74k9IAz8qurdK12nlr+DW51CGjSv5rPPUzg==}
+    dev: false
 
   /webidl-conversions@3.0.1:
     resolution: {integrity: sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ==}
