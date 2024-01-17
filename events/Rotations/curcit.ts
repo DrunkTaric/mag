@@ -1,8 +1,7 @@
 import 'dotenv/config'
 import axios from 'axios';
-import { Rotation } from '../../types';
 import { structureMessage } from '../../utils/rotations';
-import { CurcitRewards } from '../../static';
+import CurcitRewards from '../../public/rewards/curcit';
 
 module.exports = {
     name: 'Duviri Curcit',

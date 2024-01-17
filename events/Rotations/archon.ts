@@ -1,6 +1,6 @@
 import 'dotenv/config'
 import axios from 'axios';
-import { ArchonRewards } from '../../static';
+import ArchonRewards from '../../public/rewards/archon';
 import { structureMessage } from '../../utils/rotations';
 
 const list = [ "Archon Boreal", "Archon Amar", "Archon Nira" ]

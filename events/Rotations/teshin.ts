@@ -1,8 +1,7 @@
 import 'dotenv/config'
 import axios from 'axios';
-import { Rotation } from '../../types';
 import { structureMessage } from '../../utils/rotations';
-import { TeshinRewards } from '../../static';
+import TeshinRewards from '../../public/rewards/teshin';
 
 module.exports = {
     name: 'Teshin',
