@@ -8,7 +8,8 @@ const Links = {
     "melee": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Melee.json",
     "primary": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Primary.json",
     "secondary": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Secondary.json",
-    "warframe": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Warframes.json"
+    "warframe": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Warframes.json",
+    "mods": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Mods.json"
 }
 
 function structureItem(item: any) {

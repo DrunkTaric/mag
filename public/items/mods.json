@@ -1,0 +1,6566 @@
+[
+  {
+    "name": "Abating Link",
+    "image": "abating-link.jpg"
+  },
+  {
+    "name": "Abundant Mutation",
+    "image": "abundant-mutation.jpg"
+  },
+  {
+    "name": "Accelerated Blast",
+    "image": "accelerated-blast.jpg"
+  },
+  {
+    "name": "Accelerated Deflection",
+    "image": "accelerated-deflection.jpg"
+  },
+  {
+    "name": "Accelerated Isotope",
+    "image": "accelerated-isotope.jpg"
+  },
+  {
+    "name": "Accumulating Whipclaw",
+    "image": "accumulating-whipclaw.jpg"
+  },
+  {
+    "name": "Acid Shells",
+    "image": "acid-shells.jpg"
+  },
+  {
+    "name": "Acidic Spittle",
+    "image": "acidic-spittle.jpg"
+  },
+  {
+    "name": "Adaptation",
+    "image": "adaptation.jpg"
+  },
+  {
+    "name": "Adaptation",
+    "image": "adaptation.jpg"
+  },
+  {
+    "name": "Adept Surge",
+    "image": "adept-surge.jpg"
+  },
+  {
+    "name": "Adhesive Blast",
+    "image": "adhesive-blast.jpg"
+  },
+  {
+    "name": "Adrenaline Boost",
+    "image": "adrenaline-boost.jpg"
+  },
+  {
+    "name": "Aerial Ace",
+    "image": "aerial-ace.jpg"
+  },
+  {
+    "name": "Aerial Bond",
+    "image": "aerial-bond.jpg"
+  },
+  {
+    "name": "Aerial Prospectus",
+    "image": "aerial-prospectus.jpg"
+  },
+  {
+    "name": "Aero Agility",
+    "image": "aero-agility.jpg"
+  },
+  {
+    "name": "Aero Periphery",
+    "image": "aero-periphery.jpg"
+  },
+  {
+    "name": "Aero Vantage",
+    "image": "aero-vantage.jpg"
+  },
+  {
+    "name": "Aerodynamic",
+    "image": "aerodynamic.jpg"
+  },
+  {
+    "name": "Affinity Spike",
+    "image": "affinity-spike.jpg"
+  },
+  {
+    "name": "Afterburn",
+    "image": "afterburn.jpg"
+  },
+  {
+    "name": "Afterburner",
+    "image": "afterburner.jpg"
+  },
+  {
+    "name": "Agile Aim",
+    "image": "agile-aim.jpg"
+  },
+  {
+    "name": "Agility Drift",
+    "image": "agility-drift.jpg"
+  },
+  {
+    "name": "Air Martial",
+    "image": "air-martial.jpg"
+  },
+  {
+    "name": "Air Recon",
+    "image": "air-recon.jpg"
+  },
+  {
+    "name": "Air Thrusters",
+    "image": "air-thrusters.jpg"
+  },
+  {
+    "name": "Air Time",
+    "image": "air-time.jpg"
+  },
+  {
+    "name": "Airburst Rounds",
+    "image": "airburst-rounds.jpg"
+  },
+  {
+    "name": "Amalgam Argonak Metal Auger",
+    "image": "amalgam-argonak-metal-auger.jpg"
+  },
+  {
+    "name": "Amalgam Barrel Diffusion",
+    "image": "amalgam-barrel-diffusion.jpg"
+  },
+  {
+    "name": "Amalgam Daikyu Target Acquired",
+    "image": "amalgam-daikyu-target-acquired.jpg"
+  },
+  {
+    "name": "Amalgam Furax Body Count",
+    "image": "amalgam-furax-body-count.jpg"
+  },
+  {
+    "name": "Amalgam Javlok Magazine Warp",
+    "image": "amalgam-javlok-magazine-warp.jpg"
+  },
+  {
+    "name": "Amalgam Organ Shatter",
+    "image": "amalgam-organ-shatter.jpg"
+  },
+  {
+    "name": "Amalgam Ripkas True Steel",
+    "image": "amalgam-ripkas-true-steel.jpg"
+  },
+  {
+    "name": "Amalgam Serration",
+    "image": "amalgam-serration.jpg"
+  },
+  {
+    "name": "Amalgam Shotgun Barrage",
+    "image": "amalgam-shotgun-barrage.jpg"
+  },
+  {
+    "name": "Amar's Anguish",
+    "image": "amar's-anguish.jpg"
+  },
+  {
+    "name": "Amar's Contempt",
+    "image": "amar's-contempt.jpg"
+  },
+  {
+    "name": "Amar's Hatred",
+    "image": "amar's-hatred.jpg"
+  },
+  {
+    "name": "Amarsetmod",
+    "image": "amarsetmod.png"
+  },
+  {
+    "name": "Ambush",
+    "image": "ambush.jpg"
+  },
+  {
+    "name": "Ambush Optics",
+    "image": "ambush-optics.jpg"
+  },
+  {
+    "name": "Ammo Case",
+    "image": "ammo-case.jpg"
+  },
+  {
+    "name": "Ammo Chain",
+    "image": "ammo-chain.jpg"
+  },
+  {
+    "name": "Ammo Drum",
+    "image": "ammo-drum.jpg"
+  },
+  {
+    "name": "Ammo Drum",
+    "image": "ammo-drum.jpg"
+  },
+  {
+    "name": "Ammo Drum",
+    "image": "ammo-drum.jpg"
+  },
+  {
+    "name": "Ammo Stock",
+    "image": "ammo-stock.jpg"
+  },
+  {
+    "name": "Ammo Stock",
+    "image": "ammo-stock.jpg"
+  },
+  {
+    "name": "Amp Spike",
+    "image": "amp-spike.jpg"
+  },
+  {
+    "name": "Anabolic Pollination",
+    "image": "anabolic-pollination.jpg"
+  },
+  {
+    "name": "Anchored Glide",
+    "image": "anchored-glide.jpg"
+  },
+  {
+    "name": "Anemic Agility",
+    "image": "anemic-agility.jpg"
+  },
+  {
+    "name": "Animal Instinct",
+    "image": "animal-instinct.jpg"
+  },
+  {
+    "name": "Anti-Flak Plating",
+    "image": "anti-flak-plating.jpg"
+  },
+  {
+    "name": "Anti-Grav Array",
+    "image": "anti-grav-array.jpg"
+  },
+  {
+    "name": "Anti-Grav Grenade",
+    "image": "anti-grav-grenade.jpg"
+  },
+  {
+    "name": "Anticipation",
+    "image": "anticipation.jpg"
+  },
+  {
+    "name": "Antimatter Absorb",
+    "image": "antimatter-absorb.jpg"
+  },
+  {
+    "name": "Antimatter Mine",
+    "image": "antimatter-mine.jpg"
+  },
+  {
+    "name": "Antitoxin",
+    "image": "antitoxin.jpg"
+  },
+  {
+    "name": "Antitoxin",
+    "image": "antitoxin.jpg"
+  },
+  {
+    "name": "Antitoxin",
+    "image": "antitoxin.jpg"
+  },
+  {
+    "name": "Apex Predator",
+    "image": "apex-predator.jpg"
+  },
+  {
+    "name": "Arc Coil",
+    "image": "arc-coil.jpg"
+  },
+  {
+    "name": "Archgun Ace",
+    "image": "archgun-ace.jpg"
+  },
+  {
+    "name": "Archgun Riven Mod",
+    "image": "archgun-riven-mod.png"
+  },
+  {
+    "name": "Archgun Riven Mod",
+    "image": "archgun-riven-mod.jpg"
+  },
+  {
+    "name": "Archon Continuity",
+    "image": "archon-continuity.jpg"
+  },
+  {
+    "name": "Archon Flow",
+    "image": "archon-flow.jpg"
+  },
+  {
+    "name": "Archon Flow",
+    "image": "archon-flow.jpg"
+  },
+  {
+    "name": "Archon Intensify",
+    "image": "archon-intensify.jpg"
+  },
+  {
+    "name": "Archon Intensify",
+    "image": "archon-intensify.jpg"
+  },
+  {
+    "name": "Archon Stretch",
+    "image": "archon-stretch.jpg"
+  },
+  {
+    "name": "Archon Stretch",
+    "image": "archon-stretch.jpg"
+  },
+  {
+    "name": "Archon Vitality",
+    "image": "archon-vitality.jpg"
+  },
+  {
+    "name": "Argent Scourge",
+    "image": "argent-scourge.jpg"
+  },
+  {
+    "name": "Argon Plating",
+    "image": "argon-plating.jpg"
+  },
+  {
+    "name": "Argon Scope",
+    "image": "argon-scope.jpg"
+  },
+  {
+    "name": "Armored Acrobatics",
+    "image": "armored-acrobatics.jpg"
+  },
+  {
+    "name": "Armored Agility",
+    "image": "armored-agility.jpg"
+  },
+  {
+    "name": "Armored Evade",
+    "image": "armored-evade.jpg"
+  },
+  {
+    "name": "Armored Recovery",
+    "image": "armored-recovery.jpg"
+  },
+  {
+    "name": "Arrow Mutation",
+    "image": "arrow-mutation.jpg"
+  },
+  {
+    "name": "Arrow Mutation",
+    "image": "arrow-mutation.jpg"
+  },
+  {
+    "name": "Arrow Mutation",
+    "image": "arrow-mutation.jpg"
+  },
+  {
+    "name": "Artillery Cheap Shot",
+    "image": "artillery-cheap-shot.png"
+  },
+  {
+    "name": "Ashensetmod",
+    "image": "ashensetmod.png"
+  },
+  {
+    "name": "Assault Mode",
+    "image": "assault-mode.jpg"
+  },
+  {
+    "name": "Assimilate",
+    "image": "assimilate.jpg"
+  },
+  {
+    "name": "Astral Autopsy",
+    "image": "astral-autopsy.jpg"
+  },
+  {
+    "name": "Astral Bond",
+    "image": "astral-bond.jpg"
+  },
+  {
+    "name": "Astral Slash",
+    "image": "astral-slash.jpg"
+  },
+  {
+    "name": "Astral Twilight",
+    "image": "astral-twilight.jpg"
+  },
+  {
+    "name": "Atlantis Vulcan",
+    "image": "atlantis-vulcan.jpg"
+  },
+  {
+    "name": "Atomic Fallout",
+    "image": "atomic-fallout.jpg"
+  },
+  {
+    "name": "Auger Strike",
+    "image": "auger-strike.jpg"
+  },
+  {
+    "name": "Augmented Sonar",
+    "image": "augmented-sonar.jpg"
+  },
+  {
+    "name": "Augur Accord",
+    "image": "augur-accord.jpg"
+  },
+  {
+    "name": "Augur Message",
+    "image": "augur-message.jpg"
+  },
+  {
+    "name": "Augur Pact",
+    "image": "augur-pact.jpg"
+  },
+  {
+    "name": "Augur Reach",
+    "image": "augur-reach.jpg"
+  },
+  {
+    "name": "Augur Secrets",
+    "image": "augur-secrets.jpg"
+  },
+  {
+    "name": "Augur Seeker",
+    "image": "augur-seeker.jpg"
+  },
+  {
+    "name": "Augursetmod",
+    "image": "augursetmod.png"
+  },
+  {
+    "name": "Auto Breach",
+    "image": "auto-breach.jpg"
+  },
+  {
+    "name": "Auto Omni",
+    "image": "auto-omni.jpg"
+  },
+  {
+    "name": "Automatic Trigger",
+    "image": "automatic-trigger.jpg"
+  },
+  {
+    "name": "Auxiliary Power",
+    "image": "auxiliary-power.jpg"
+  },
+  {
+    "name": "Avenging Truth",
+    "image": "avenging-truth.jpg"
+  },
+  {
+    "name": "Aviator",
+    "image": "aviator.jpg"
+  },
+  {
+    "name": "Aviator",
+    "image": "aviator.jpg"
+  },
+  {
+    "name": "Aviator",
+    "image": "aviator.jpg"
+  },
+  {
+    "name": "Balefire Surge",
+    "image": "balefire-surge.jpg"
+  },
+  {
+    "name": "Ballista Measure",
+    "image": "ballista-measure.jpg"
+  },
+  {
+    "name": "Ballistic Bullseye",
+    "image": "ballistic-bullseye.jpg"
+  },
+  {
+    "name": "Bane Of Corpus",
+    "image": "bane-of-corpus.jpg"
+  },
+  {
+    "name": "Bane Of Corpus",
+    "image": "bane-of-corpus.jpg"
+  },
+  {
+    "name": "Bane Of Corpus",
+    "image": "bane-of-corpus.jpg"
+  },
+  {
+    "name": "Bane Of Corrupted",
+    "image": "bane-of-corrupted.jpg"
+  },
+  {
+    "name": "Bane Of Grineer",
+    "image": "bane-of-grineer.jpg"
+  },
+  {
+    "name": "Bane Of Grineer",
+    "image": "bane-of-grineer.jpg"
+  },
+  {
+    "name": "Bane Of Grineer",
+    "image": "bane-of-grineer.jpg"
+  },
+  {
+    "name": "Bane Of Infested",
+    "image": "bane-of-infested.jpg"
+  },
+  {
+    "name": "Bane Of Infested",
+    "image": "bane-of-infested.jpg"
+  },
+  {
+    "name": "Bane Of Infested",
+    "image": "bane-of-infested.jpg"
+  },
+  {
+    "name": "Bane Of The Murmur",
+    "image": "bane-of-the-murmur.jpg"
+  },
+  {
+    "name": "Barrel Diffusion",
+    "image": "barrel-diffusion.jpg"
+  },
+  {
+    "name": "Barrel Diffusion",
+    "image": "barrel-diffusion.jpg"
+  },
+  {
+    "name": "Barrel Diffusion",
+    "image": "barrel-diffusion.jpg"
+  },
+  {
+    "name": "Basilisk Gaze",
+    "image": "basilisk-gaze.jpg"
+  },
+  {
+    "name": "Basilisk Scales",
+    "image": "basilisk-scales.jpg"
+  },
+  {
+    "name": "Battering Maneuver",
+    "image": "battering-maneuver.jpg"
+  },
+  {
+    "name": "Battle Forge",
+    "image": "battle-forge.png"
+  },
+  {
+    "name": "Battle Stations",
+    "image": "battle-stations.png"
+  },
+  {
+    "name": "Beguiling Lantern",
+    "image": "beguiling-lantern.jpg"
+  },
+  {
+    "name": "Berserker Fury",
+    "image": "berserker-fury.jpg"
+  },
+  {
+    "name": "Berserker Fury",
+    "image": "berserker-fury.jpg"
+  },
+  {
+    "name": "Berserker Fury",
+    "image": "berserker-fury.jpg"
+  },
+  {
+    "name": "Bhisaj-Bal",
+    "image": "bhisaj-bal.jpg"
+  },
+  {
+    "name": "Bite",
+    "image": "bite.jpg"
+  },
+  {
+    "name": "Biting Frost",
+    "image": "biting-frost.jpg"
+  },
+  {
+    "name": "Biting Piranha",
+    "image": "biting-piranha.jpg"
+  },
+  {
+    "name": "Blackout Pulse",
+    "image": "blackout-pulse.png"
+  },
+  {
+    "name": "Blade Of Truth",
+    "image": "blade-of-truth.jpg"
+  },
+  {
+    "name": "Bladed Rounds",
+    "image": "bladed-rounds.jpg"
+  },
+  {
+    "name": "Blast Shield",
+    "image": "blast-shield.jpg"
+  },
+  {
+    "name": "Blaze",
+    "image": "blaze.jpg"
+  },
+  {
+    "name": "Blazing Dash",
+    "image": "blazing-dash.jpg"
+  },
+  {
+    "name": "Blazing Pillage",
+    "image": "blazing-pillage.jpg"
+  },
+  {
+    "name": "Blazing Steel",
+    "image": "blazing-steel.jpg"
+  },
+  {
+    "name": "Bleeding Edge",
+    "image": "bleeding-edge.jpg"
+  },
+  {
+    "name": "Bleeding Willow",
+    "image": "bleeding-willow.jpg"
+  },
+  {
+    "name": "Blending Talons",
+    "image": "blending-talons.jpg"
+  },
+  {
+    "name": "Blind Justice",
+    "image": "blind-justice.jpg"
+  },
+  {
+    "name": "Blind Rage",
+    "image": "blind-rage.jpg"
+  },
+  {
+    "name": "Blind Shot",
+    "image": "blind-shot.jpg"
+  },
+  {
+    "name": "Blinding Reave",
+    "image": "blinding-reave.jpg"
+  },
+  {
+    "name": "Blood For Ammo",
+    "image": "blood-for-ammo.jpg"
+  },
+  {
+    "name": "Blood For Energy",
+    "image": "blood-for-energy.jpg"
+  },
+  {
+    "name": "Blood For Life",
+    "image": "blood-for-life.jpg"
+  },
+  {
+    "name": "Blood Forge",
+    "image": "blood-forge.jpg"
+  },
+  {
+    "name": "Blood Rush",
+    "image": "blood-rush.jpg"
+  },
+  {
+    "name": "Blunderbuss",
+    "image": "blunderbuss.jpg"
+  },
+  {
+    "name": "Blunderbuss",
+    "image": "blunderbuss.jpg"
+  },
+  {
+    "name": "Body Count",
+    "image": "body-count.jpg"
+  },
+  {
+    "name": "Bomb The Landin'",
+    "image": "bomb-the-landin'.jpg"
+  },
+  {
+    "name": "Bonebladesetmod",
+    "image": "bonebladesetmod.png"
+  },
+  {
+    "name": "Bore",
+    "image": "bore.jpg"
+  },
+  {
+    "name": "Boreal's Anguish",
+    "image": "boreal's-anguish.jpg"
+  },
+  {
+    "name": "Boreal's Contempt",
+    "image": "boreal's-contempt.jpg"
+  },
+  {
+    "name": "Boreal's Hatred",
+    "image": "boreal's-hatred.jpg"
+  },
+  {
+    "name": "Borealsetmod",
+    "image": "borealsetmod.png"
+  },
+  {
+    "name": "Botanist",
+    "image": "botanist.jpg"
+  },
+  {
+    "name": "Bounty Hunter",
+    "image": "bounty-hunter.jpg"
+  },
+  {
+    "name": "Brain Storm",
+    "image": "brain-storm.jpg"
+  },
+  {
+    "name": "Breach Loader",
+    "image": "breach-loader.jpg"
+  },
+  {
+    "name": "Breach Quanta",
+    "image": "breach-quanta.png"
+  },
+  {
+    "name": "Brief Respite",
+    "image": "brief-respite.jpg"
+  },
+  {
+    "name": "Bright Purity",
+    "image": "bright-purity.jpg"
+  },
+  {
+    "name": "Broad Eye",
+    "image": "broad-eye.jpg"
+  },
+  {
+    "name": "Brutal Tide",
+    "image": "brutal-tide.jpg"
+  },
+  {
+    "name": "Bullet Dance",
+    "image": "bullet-dance.jpg"
+  },
+  {
+    "name": "Burdened Magazine",
+    "image": "burdened-magazine.jpg"
+  },
+  {
+    "name": "Burning Wasp",
+    "image": "burning-wasp.jpg"
+  },
+  {
+    "name": "Bursting Mass",
+    "image": "bursting-mass.jpg"
+  },
+  {
+    "name": "Butcher's Revelry",
+    "image": "butcher's-revelry.jpg"
+  },
+  {
+    "name": "Buzz Kill",
+    "image": "buzz-kill.jpg"
+  },
+  {
+    "name": "Calculated Redirection",
+    "image": "calculated-redirection.jpg"
+  },
+  {
+    "name": "Calculated Shot",
+    "image": "calculated-shot.jpg"
+  },
+  {
+    "name": "Calculated Spring",
+    "image": "calculated-spring.jpg"
+  },
+  {
+    "name": "Calculated Victory",
+    "image": "calculated-victory.jpg"
+  },
+  {
+    "name": "Calm & Frenzy",
+    "image": "calm-&-frenzy.jpg"
+  },
+  {
+    "name": "Cannonade",
+    "image": "cannonade.jpg"
+  },
+  {
+    "name": "Capacitance",
+    "image": "capacitance.jpg"
+  },
+  {
+    "name": "Carnis Carapace",
+    "image": "carnis-carapace.jpg"
+  },
+  {
+    "name": "Carnis Mandible",
+    "image": "carnis-mandible.jpg"
+  },
+  {
+    "name": "Carnis Stinger",
+    "image": "carnis-stinger.jpg"
+  },
+  {
+    "name": "Carving Mantis",
+    "image": "carving-mantis.jpg"
+  },
+  {
+    "name": "Cat's Eye",
+    "image": "cat's-eye.jpg"
+  },
+  {
+    "name": "Cataclysmic Continuum",
+    "image": "cataclysmic-continuum.jpg"
+  },
+  {
+    "name": "Catalyzer Link",
+    "image": "catalyzer-link.jpg"
+  },
+  {
+    "name": "Catalyzing Shields",
+    "image": "catalyzing-shields.jpg"
+  },
+  {
+    "name": "Catapult",
+    "image": "catapult.jpg"
+  },
+  {
+    "name": "Cathode Current",
+    "image": "cathode-current.jpg"
+  },
+  {
+    "name": "Caustic Strike",
+    "image": "caustic-strike.jpg"
+  },
+  {
+    "name": "Cautious Shot",
+    "image": "cautious-shot.jpg"
+  },
+  {
+    "name": "Celestial Nightfall",
+    "image": "celestial-nightfall.jpg"
+  },
+  {
+    "name": "Celestial Stomp",
+    "image": "celestial-stomp.jpg"
+  },
+  {
+    "name": "Chained Sling",
+    "image": "chained-sling.jpg"
+  },
+  {
+    "name": "Champion's Blessing",
+    "image": "champion's-blessing.jpg"
+  },
+  {
+    "name": "Chaos Sphere",
+    "image": "chaos-sphere.jpg"
+  },
+  {
+    "name": "Charged Bullets",
+    "image": "charged-bullets.jpg"
+  },
+  {
+    "name": "Charged Chamber",
+    "image": "charged-chamber.jpg"
+  },
+  {
+    "name": "Charged Chamber",
+    "image": "charged-chamber.jpg"
+  },
+  {
+    "name": "Charged Shell",
+    "image": "charged-shell.jpg"
+  },
+  {
+    "name": "Charged Shell",
+    "image": "charged-shell.jpg"
+  },
+  {
+    "name": "Charm",
+    "image": "charm.jpg"
+  },
+  {
+    "name": "Chilling Globe",
+    "image": "chilling-globe.jpg"
+  },
+  {
+    "name": "Chilling Grasp",
+    "image": "chilling-grasp.jpg"
+  },
+  {
+    "name": "Chilling Grasp",
+    "image": "chilling-grasp.jpg"
+  },
+  {
+    "name": "Chilling Reload",
+    "image": "chilling-reload.jpg"
+  },
+  {
+    "name": "Chromatic Blade",
+    "image": "chromatic-blade.jpg"
+  },
+  {
+    "name": "Clashing Forest",
+    "image": "clashing-forest.jpg"
+  },
+  {
+    "name": "Cleanse Corpus",
+    "image": "cleanse-corpus.jpg"
+  },
+  {
+    "name": "Cleanse Corpus",
+    "image": "cleanse-corpus.jpg"
+  },
+  {
+    "name": "Cleanse Corrupted",
+    "image": "cleanse-corrupted.jpg"
+  },
+  {
+    "name": "Cleanse Grineer",
+    "image": "cleanse-grineer.jpg"
+  },
+  {
+    "name": "Cleanse Grineer",
+    "image": "cleanse-grineer.jpg"
+  },
+  {
+    "name": "Cleanse Infested",
+    "image": "cleanse-infested.jpg"
+  },
+  {
+    "name": "Cleanse Infested",
+    "image": "cleanse-infested.jpg"
+  },
+  {
+    "name": "Cleanse The Murmur",
+    "image": "cleanse-the-murmur.jpg"
+  },
+  {
+    "name": "Cleaving Whirlwind",
+    "image": "cleaving-whirlwind.jpg"
+  },
+  {
+    "name": "Coaction Drift",
+    "image": "coaction-drift.jpg"
+  },
+  {
+    "name": "Coiling Viper",
+    "image": "coiling-viper.jpg"
+  },
+  {
+    "name": "Cold Arrival",
+    "image": "cold-arrival.jpg"
+  },
+  {
+    "name": "Cold Snap",
+    "image": "cold-snap.jpg"
+  },
+  {
+    "name": "Collision Force",
+    "image": "collision-force.jpg"
+  },
+  {
+    "name": "Combat Discipline",
+    "image": "combat-discipline.jpg"
+  },
+  {
+    "name": "Combat Reload",
+    "image": "combat-reload.jpg"
+  },
+  {
+    "name": "Combo Fury",
+    "image": "combo-fury.jpg"
+  },
+  {
+    "name": "Combo Killer",
+    "image": "combo-killer.jpg"
+  },
+  {
+    "name": "Combustion Beam",
+    "image": "combustion-beam.jpg"
+  },
+  {
+    "name": "Combustion Rounds",
+    "image": "combustion-rounds.jpg"
+  },
+  {
+    "name": "Comet Blast",
+    "image": "comet-blast.jpg"
+  },
+  {
+    "name": "Comet Rounds",
+    "image": "comet-rounds.jpg"
+  },
+  {
+    "name": "Companion Weapon Riven Mod",
+    "image": "companion-weapon-riven-mod.jpg"
+  },
+  {
+    "name": "Concealed Explosives",
+    "image": "concealed-explosives.jpg"
+  },
+  {
+    "name": "Concentrated Arrow",
+    "image": "concentrated-arrow.jpg"
+  },
+  {
+    "name": "Concussion Rounds",
+    "image": "concussion-rounds.jpg"
+  },
+  {
+    "name": "Concussion Rounds",
+    "image": "concussion-rounds.jpg"
+  },
+  {
+    "name": "Concussion Rounds",
+    "image": "concussion-rounds.jpg"
+  },
+  {
+    "name": "Condition Overload",
+    "image": "condition-overload.jpg"
+  },
+  {
+    "name": "Condition's Perfection",
+    "image": "condition's-perfection.jpg"
+  },
+  {
+    "name": "Conductive Blade",
+    "image": "conductive-blade.jpg"
+  },
+  {
+    "name": "Conductor",
+    "image": "conductor.jpg"
+  },
+  {
+    "name": "Conic Nozzle",
+    "image": "conic-nozzle.png"
+  },
+  {
+    "name": "Constitution",
+    "image": "constitution.jpg"
+  },
+  {
+    "name": "Contagion Cloud",
+    "image": "contagion-cloud.jpg"
+  },
+  {
+    "name": "Contagious Bond",
+    "image": "contagious-bond.jpg"
+  },
+  {
+    "name": "Contagious Spread",
+    "image": "contagious-spread.jpg"
+  },
+  {
+    "name": "Contagious Spread",
+    "image": "contagious-spread.jpg"
+  },
+  {
+    "name": "Contagious Spread",
+    "image": "contagious-spread.jpg"
+  },
+  {
+    "name": "Containment Breach",
+    "image": "containment-breach.jpg"
+  },
+  {
+    "name": "Contamination Casing",
+    "image": "contamination-casing.jpg"
+  },
+  {
+    "name": "Contamination Wave",
+    "image": "contamination-wave.jpg"
+  },
+  {
+    "name": "Continuity",
+    "image": "continuity.jpg"
+  },
+  {
+    "name": "Continuity",
+    "image": "continuity.jpg"
+  },
+  {
+    "name": "Continuous Misery",
+    "image": "continuous-misery.jpg"
+  },
+  {
+    "name": "Controlled Slide",
+    "image": "controlled-slide.jpg"
+  },
+  {
+    "name": "Convulsion",
+    "image": "convulsion.jpg"
+  },
+  {
+    "name": "Convulsion",
+    "image": "convulsion.jpg"
+  },
+  {
+    "name": "Convulsion",
+    "image": "convulsion.jpg"
+  },
+  {
+    "name": "Coolant Leak",
+    "image": "coolant-leak.jpg"
+  },
+  {
+    "name": "Cordon",
+    "image": "cordon.jpg"
+  },
+  {
+    "name": "Corrosive Projection",
+    "image": "corrosive-projection.jpg"
+  },
+  {
+    "name": "Corrupt Charge",
+    "image": "corrupt-charge.jpg"
+  },
+  {
+    "name": "Counter Pulse",
+    "image": "counter-pulse.jpg"
+  },
+  {
+    "name": "Counterbalance",
+    "image": "counterbalance.jpg"
+  },
+  {
+    "name": "Countermeasures",
+    "image": "countermeasures.png"
+  },
+  {
+    "name": "Counterweight",
+    "image": "counterweight.jpg"
+  },
+  {
+    "name": "Covert Bond",
+    "image": "covert-bond.jpg"
+  },
+  {
+    "name": "Covert Lethality",
+    "image": "covert-lethality.jpg"
+  },
+  {
+    "name": "Crash Course",
+    "image": "crash-course.jpg"
+  },
+  {
+    "name": "Crash Shot",
+    "image": "crash-shot.jpg"
+  },
+  {
+    "name": "Crashing Havoc",
+    "image": "crashing-havoc.jpg"
+  },
+  {
+    "name": "Crashing Timber",
+    "image": "crashing-timber.jpg"
+  },
+  {
+    "name": "Creeping Bullseye",
+    "image": "creeping-bullseye.jpg"
+  },
+  {
+    "name": "Creeping Terrify",
+    "image": "creeping-terrify.jpg"
+  },
+  {
+    "name": "Crescent Charge",
+    "image": "crescent-charge.jpg"
+  },
+  {
+    "name": "Crescent Devolution",
+    "image": "crescent-devolution.jpg"
+  },
+  {
+    "name": "Crimson Dervish",
+    "image": "crimson-dervish.jpg"
+  },
+  {
+    "name": "Crimson Fugue",
+    "image": "crimson-fugue.png"
+  },
+  {
+    "name": "Crippling Dash",
+    "image": "crippling-dash.jpg"
+  },
+  {
+    "name": "Critical Deceleration",
+    "image": "critical-deceleration.jpg"
+  },
+  {
+    "name": "Critical Delay",
+    "image": "critical-delay.jpg"
+  },
+  {
+    "name": "Critical Focus",
+    "image": "critical-focus.jpg"
+  },
+  {
+    "name": "Critical Mutation",
+    "image": "critical-mutation.jpg"
+  },
+  {
+    "name": "Critical Precision",
+    "image": "critical-precision.jpg"
+  },
+  {
+    "name": "Critical Surge",
+    "image": "critical-surge.jpg"
+  },
+  {
+    "name": "Crossing Snakes",
+    "image": "crossing-snakes.jpg"
+  },
+  {
+    "name": "Crowd Dispersion",
+    "image": "crowd-dispersion.jpg"
+  },
+  {
+    "name": "Cruising Speed",
+    "image": "cruising-speed.png"
+  },
+  {
+    "name": "Crushing Ruin",
+    "image": "crushing-ruin.jpg"
+  },
+  {
+    "name": "Cryo Coating",
+    "image": "cryo-coating.jpg"
+  },
+  {
+    "name": "Cryo Rounds",
+    "image": "cryo-rounds.jpg"
+  },
+  {
+    "name": "Cryo Rounds",
+    "image": "cryo-rounds.jpg"
+  },
+  {
+    "name": "Cunning Aspect",
+    "image": "cunning-aspect.jpg"
+  },
+  {
+    "name": "Cunning Drift",
+    "image": "cunning-drift.jpg"
+  },
+  {
+    "name": "Cutting Edge",
+    "image": "cutting-edge.jpg"
+  },
+  {
+    "name": "Cyclone Kraken",
+    "image": "cyclone-kraken.jpg"
+  },
+  {
+    "name": "Damzav-Vati",
+    "image": "damzav-vati.jpg"
+  },
+  {
+    "name": "Dead Eye",
+    "image": "dead-eye.jpg"
+  },
+  {
+    "name": "Deadly Efficiency",
+    "image": "deadly-efficiency.jpg"
+  },
+  {
+    "name": "Deadly Maneuvers",
+    "image": "deadly-maneuvers.jpg"
+  },
+  {
+    "name": "Deadly Sequence",
+    "image": "deadly-sequence.jpg"
+  },
+  {
+    "name": "Death Blossom",
+    "image": "death-blossom.png"
+  },
+  {
+    "name": "Deceptive Bond",
+    "image": "deceptive-bond.jpg"
+  },
+  {
+    "name": "Decisive Judgement",
+    "image": "decisive-judgement.jpg"
+  },
+  {
+    "name": "Deep Freeze",
+    "image": "deep-freeze.jpg"
+  },
+  {
+    "name": "Deep Freeze",
+    "image": "deep-freeze.jpg"
+  },
+  {
+    "name": "Deep Freeze",
+    "image": "deep-freeze.jpg"
+  },
+  {
+    "name": "Defensive Fire",
+    "image": "defensive-fire.png"
+  },
+  {
+    "name": "Defiled Reckoning",
+    "image": "defiled-reckoning.jpg"
+  },
+  {
+    "name": "Defiled Snapdragon",
+    "image": "defiled-snapdragon.jpg"
+  },
+  {
+    "name": "Deft Tempo",
+    "image": "deft-tempo.jpg"
+  },
+  {
+    "name": "Depleted Reload",
+    "image": "depleted-reload.jpg"
+  },
+  {
+    "name": "Desiccation's Curse",
+    "image": "desiccation's-curse.jpg"
+  },
+  {
+    "name": "Despoil",
+    "image": "despoil.jpg"
+  },
+  {
+    "name": "Detect Vulnerability",
+    "image": "detect-vulnerability.jpg"
+  },
+  {
+    "name": "Diamond Skin",
+    "image": "diamond-skin.jpg"
+  },
+  {
+    "name": "Diamond Skin",
+    "image": "diamond-skin.jpg"
+  },
+  {
+    "name": "Diamond Skin",
+    "image": "diamond-skin.jpg"
+  },
+  {
+    "name": "Dig",
+    "image": "dig.jpg"
+  },
+  {
+    "name": "Directed Convergence",
+    "image": "directed-convergence.jpg"
+  },
+  {
+    "name": "Disarming Blast",
+    "image": "disarming-blast.jpg"
+  },
+  {
+    "name": "Disarming Purity",
+    "image": "disarming-purity.jpg"
+  },
+  {
+    "name": "Disarming Sling",
+    "image": "disarming-sling.jpg"
+  },
+  {
+    "name": "Discharge Strike",
+    "image": "discharge-strike.jpg"
+  },
+  {
+    "name": "Discipline's Merit",
+    "image": "discipline's-merit.jpg"
+  },
+  {
+    "name": "Disorienting Blast",
+    "image": "disorienting-blast.jpg"
+  },
+  {
+    "name": "Dispatch Overdrive",
+    "image": "dispatch-overdrive.jpg"
+  },
+  {
+    "name": "Disruptor",
+    "image": "disruptor.jpg"
+  },
+  {
+    "name": "Disruptor",
+    "image": "disruptor.jpg"
+  },
+  {
+    "name": "Disruptor",
+    "image": "disruptor.jpg"
+  },
+  {
+    "name": "Distilled Contamination",
+    "image": "distilled-contamination.jpg"
+  },
+  {
+    "name": "Diversified Denial",
+    "image": "diversified-denial.jpg"
+  },
+  {
+    "name": "Dividing Blades",
+    "image": "dividing-blades.jpg"
+  },
+  {
+    "name": "Dizzying Rounds",
+    "image": "dizzying-rounds.jpg"
+  },
+  {
+    "name": "Double Tap",
+    "image": "double-tap.jpg"
+  },
+  {
+    "name": "Double-Barrel Drift",
+    "image": "double-barrel-drift.jpg"
+  },
+  {
+    "name": "Draining Bite",
+    "image": "draining-bite.jpg"
+  },
+  {
+    "name": "Draining Gloom",
+    "image": "draining-gloom.jpg"
+  },
+  {
+    "name": "Dread Ward",
+    "image": "dread-ward.jpg"
+  },
+  {
+    "name": "Dreamer's Wrath",
+    "image": "dreamer's-wrath.jpg"
+  },
+  {
+    "name": "Drifting Contact",
+    "image": "drifting-contact.jpg"
+  },
+  {
+    "name": "Dual Rounds",
+    "image": "dual-rounds.jpg"
+  },
+  {
+    "name": "Duality",
+    "image": "duality.jpg"
+  },
+  {
+    "name": "Duplex Bond",
+    "image": "duplex-bond.jpg"
+  },
+  {
+    "name": "Eagle Eye",
+    "image": "eagle-eye.jpg"
+  },
+  {
+    "name": "Eagle Eye",
+    "image": "eagle-eye.jpg"
+  },
+  {
+    "name": "Eagle Eye",
+    "image": "eagle-eye.jpg"
+  },
+  {
+    "name": "Efficient Beams",
+    "image": "efficient-beams.jpg"
+  },
+  {
+    "name": "Efficient Transferral",
+    "image": "efficient-transferral.jpg"
+  },
+  {
+    "name": "Eject Magazine",
+    "image": "eject-magazine.jpg"
+  },
+  {
+    "name": "Electrified Barrel",
+    "image": "electrified-barrel.jpg"
+  },
+  {
+    "name": "Electro Pulse",
+    "image": "electro-pulse.jpg"
+  },
+  {
+    "name": "Electromagnetic Shielding",
+    "image": "electromagnetic-shielding.jpg"
+  },
+  {
+    "name": "Elemental Sandstorm",
+    "image": "elemental-sandstorm.jpg"
+  },
+  {
+    "name": "Eleventh Storm",
+    "image": "eleventh-storm.jpg"
+  },
+  {
+    "name": "Embedded Catalyzer",
+    "image": "embedded-catalyzer.jpg"
+  },
+  {
+    "name": "Emergent Aftermath",
+    "image": "emergent-aftermath.jpg"
+  },
+  {
+    "name": "Emp Aura",
+    "image": "emp-aura.jpg"
+  },
+  {
+    "name": "Empowered Blades",
+    "image": "empowered-blades.jpg"
+  },
+  {
+    "name": "Empowered Quiver",
+    "image": "empowered-quiver.jpg"
+  },
+  {
+    "name": "Endless Lullaby",
+    "image": "endless-lullaby.jpg"
+  },
+  {
+    "name": "Endoparasitic Vector",
+    "image": "endoparasitic-vector.jpg"
+  },
+  {
+    "name": "Endurance Drift",
+    "image": "endurance-drift.jpg"
+  },
+  {
+    "name": "Enduring Affliction",
+    "image": "enduring-affliction.jpg"
+  },
+  {
+    "name": "Enduring Strike",
+    "image": "enduring-strike.jpg"
+  },
+  {
+    "name": "Enduring Tides",
+    "image": "enduring-tides.jpg"
+  },
+  {
+    "name": "Enemy Radar",
+    "image": "enemy-radar.jpg"
+  },
+  {
+    "name": "Enemy Sense",
+    "image": "enemy-sense.jpg"
+  },
+  {
+    "name": "Enemy Sense",
+    "image": "enemy-sense.jpg"
+  },
+  {
+    "name": "Enemy Sense",
+    "image": "enemy-sense.jpg"
+  },
+  {
+    "name": "Energizing Shot",
+    "image": "energizing-shot.jpg"
+  },
+  {
+    "name": "Energy Amplifier",
+    "image": "energy-amplifier.jpg"
+  },
+  {
+    "name": "Energy Channel",
+    "image": "energy-channel.jpg"
+  },
+  {
+    "name": "Energy Channel",
+    "image": "energy-channel.jpg"
+  },
+  {
+    "name": "Energy Channel",
+    "image": "energy-channel.jpg"
+  },
+  {
+    "name": "Energy Conversion",
+    "image": "energy-conversion.jpg"
+  },
+  {
+    "name": "Energy Field",
+    "image": "energy-field.jpg"
+  },
+  {
+    "name": "Energy Generator",
+    "image": "energy-generator.jpg"
+  },
+  {
+    "name": "Energy Inversion",
+    "image": "energy-inversion.jpg"
+  },
+  {
+    "name": "Energy Nexus",
+    "image": "energy-nexus.jpg"
+  },
+  {
+    "name": "Energy Pulse",
+    "image": "energy-pulse.jpg"
+  },
+  {
+    "name": "Energy Siphon",
+    "image": "energy-siphon.jpg"
+  },
+  {
+    "name": "Energy Transfer",
+    "image": "energy-transfer.jpg"
+  },
+  {
+    "name": "Enhanced Durability",
+    "image": "enhanced-durability.jpg"
+  },
+  {
+    "name": "Enhanced Vitality",
+    "image": "enhanced-vitality.jpg"
+  },
+  {
+    "name": "Enraged",
+    "image": "enraged.jpg"
+  },
+  {
+    "name": "Entropy Burst",
+    "image": "entropy-burst.jpg"
+  },
+  {
+    "name": "Entropy Detonation",
+    "image": "entropy-detonation.jpg"
+  },
+  {
+    "name": "Entropy Flight",
+    "image": "entropy-flight.jpg"
+  },
+  {
+    "name": "Entropy Spike",
+    "image": "entropy-spike.jpg"
+  },
+  {
+    "name": "Enveloping Cloud",
+    "image": "enveloping-cloud.jpg"
+  },
+  {
+    "name": "Equilibrium",
+    "image": "equilibrium.jpg"
+  },
+  {
+    "name": "Equilibrium",
+    "image": "equilibrium.jpg"
+  },
+  {
+    "name": "Equilibrium Audit",
+    "image": "equilibrium-audit.jpg"
+  },
+  {
+    "name": "Eroding Blight",
+    "image": "eroding-blight.jpg"
+  },
+  {
+    "name": "Escape Velocity",
+    "image": "escape-velocity.jpg"
+  },
+  {
+    "name": "Eternal Gaze",
+    "image": "eternal-gaze.jpg"
+  },
+  {
+    "name": "Eternal War",
+    "image": "eternal-war.jpg"
+  },
+  {
+    "name": "Evasive Denial",
+    "image": "evasive-denial.jpg"
+  },
+  {
+    "name": "Everlasting Ward",
+    "image": "everlasting-ward.jpg"
+  },
+  {
+    "name": "Executing Dash",
+    "image": "executing-dash.jpg"
+  },
+  {
+    "name": "Eximus Advantage",
+    "image": "eximus-advantage.jpg"
+  },
+  {
+    "name": "Exothermic",
+    "image": "exothermic.jpg"
+  },
+  {
+    "name": "Expel Corpus",
+    "image": "expel-corpus.jpg"
+  },
+  {
+    "name": "Expel Corpus",
+    "image": "expel-corpus.jpg"
+  },
+  {
+    "name": "Expel Corrupted",
+    "image": "expel-corrupted.jpg"
+  },
+  {
+    "name": "Expel Grineer",
+    "image": "expel-grineer.jpg"
+  },
+  {
+    "name": "Expel Grineer",
+    "image": "expel-grineer.jpg"
+  },
+  {
+    "name": "Expel Infested",
+    "image": "expel-infested.jpg"
+  },
+  {
+    "name": "Expel Infested",
+    "image": "expel-infested.jpg"
+  },
+  {
+    "name": "Expel The Murmur",
+    "image": "expel-the-murmur.jpg"
+  },
+  {
+    "name": "Explosive Demise",
+    "image": "explosive-demise.jpg"
+  },
+  {
+    "name": "Explosive Legerdemain",
+    "image": "explosive-legerdemain.jpg"
+  },
+  {
+    "name": "Exposing Harpoon",
+    "image": "exposing-harpoon.jpg"
+  },
+  {
+    "name": "Extend",
+    "image": "extend.jpg"
+  },
+  {
+    "name": "Extreme Velocity",
+    "image": "extreme-velocity.jpg"
+  },
+  {
+    "name": "Failsafe",
+    "image": "failsafe.jpg"
+  },
+  {
+    "name": "Fanged Fusillade",
+    "image": "fanged-fusillade.jpg"
+  },
+  {
+    "name": "Far Sling",
+    "image": "far-sling.jpg"
+  },
+  {
+    "name": "Fass",
+    "image": "fass.png"
+  },
+  {
+    "name": "Fass Canticle",
+    "image": "fass-canticle.png"
+  },
+  {
+    "name": "Fast Deflection",
+    "image": "fast-deflection.jpg"
+  },
+  {
+    "name": "Fast Deflection",
+    "image": "fast-deflection.jpg"
+  },
+  {
+    "name": "Fast Hands",
+    "image": "fast-hands.jpg"
+  },
+  {
+    "name": "Fast Hands",
+    "image": "fast-hands.jpg"
+  },
+  {
+    "name": "Fatal Acceleration",
+    "image": "fatal-acceleration.jpg"
+  },
+  {
+    "name": "Fatal Attraction",
+    "image": "fatal-attraction.jpg"
+  },
+  {
+    "name": "Fatal Teleport",
+    "image": "fatal-teleport.jpg"
+  },
+  {
+    "name": "Fateful Truth",
+    "image": "fateful-truth.jpg"
+  },
+  {
+    "name": "Feathered Arrows",
+    "image": "feathered-arrows.jpg"
+  },
+  {
+    "name": "Femursetmod",
+    "image": "femursetmod.png"
+  },
+  {
+    "name": "Ferocity",
+    "image": "ferocity.jpg"
+  },
+  {
+    "name": "Fetch",
+    "image": "fetch.jpg"
+  },
+  {
+    "name": "Fever Strike",
+    "image": "fever-strike.jpg"
+  },
+  {
+    "name": "Fever Strike",
+    "image": "fever-strike.jpg"
+  },
+  {
+    "name": "Final Act",
+    "image": "final-act.jpg"
+  },
+  {
+    "name": "Final Harbinger",
+    "image": "final-harbinger.jpg"
+  },
+  {
+    "name": "Final Tap",
+    "image": "final-tap.jpg"
+  },
+  {
+    "name": "Finishing Touch",
+    "image": "finishing-touch.jpg"
+  },
+  {
+    "name": "Finishing Touch",
+    "image": "finishing-touch.jpg"
+  },
+  {
+    "name": "Finishing Touch",
+    "image": "finishing-touch.jpg"
+  },
+  {
+    "name": "Fire Suppression",
+    "image": "fire-suppression.png"
+  },
+  {
+    "name": "Fireball Frenzy",
+    "image": "fireball-frenzy.jpg"
+  },
+  {
+    "name": "Fired Up",
+    "image": "fired-up.jpg"
+  },
+  {
+    "name": "Firestorm",
+    "image": "firestorm.jpg"
+  },
+  {
+    "name": "Firewalker",
+    "image": "firewalker.jpg"
+  },
+  {
+    "name": "Firewall",
+    "image": "firewall.jpg"
+  },
+  {
+    "name": "Fizzbang Flourish",
+    "image": "fizzbang-flourish.jpg"
+  },
+  {
+    "name": "Flailing Branch",
+    "image": "flailing-branch.jpg"
+  },
+  {
+    "name": "Flak Shot",
+    "image": "flak-shot.jpg"
+  },
+  {
+    "name": "Flame Blast",
+    "image": "flame-blast.jpg"
+  },
+  {
+    "name": "Flame Gland",
+    "image": "flame-gland.jpg"
+  },
+  {
+    "name": "Flame Repellent",
+    "image": "flame-repellent.jpg"
+  },
+  {
+    "name": "Flame Repellent",
+    "image": "flame-repellent.jpg"
+  },
+  {
+    "name": "Flame Repellent",
+    "image": "flame-repellent.jpg"
+  },
+  {
+    "name": "Flechette",
+    "image": "flechette.jpg"
+  },
+  {
+    "name": "Flechette",
+    "image": "flechette.jpg"
+  },
+  {
+    "name": "Flechette",
+    "image": "flechette.jpg"
+  },
+  {
+    "name": "Fleeting Expertise",
+    "image": "fleeting-expertise.jpg"
+  },
+  {
+    "name": "Flow",
+    "image": "flow.jpg"
+  },
+  {
+    "name": "Flow",
+    "image": "flow.jpg"
+  },
+  {
+    "name": "Flow Burn",
+    "image": "flow-burn.png"
+  },
+  {
+    "name": "Flux Overdrive",
+    "image": "flux-overdrive.jpg"
+  },
+  {
+    "name": "Focus Energy",
+    "image": "focus-energy.jpg"
+  },
+  {
+    "name": "Focus Radon",
+    "image": "focus-radon.jpg"
+  },
+  {
+    "name": "Focused Acceleration",
+    "image": "focused-acceleration.jpg"
+  },
+  {
+    "name": "Focused Defense",
+    "image": "focused-defense.jpg"
+  },
+  {
+    "name": "Focused Prospectus",
+    "image": "focused-prospectus.jpg"
+  },
+  {
+    "name": "Follow Through",
+    "image": "follow-through.jpg"
+  },
+  {
+    "name": "Fomorian Accelerant",
+    "image": "fomorian-accelerant.jpg"
+  },
+  {
+    "name": "Form Up",
+    "image": "form-up.png"
+  },
+  {
+    "name": "Fortifying Fire",
+    "image": "fortifying-fire.png"
+  },
+  {
+    "name": "Fortitude",
+    "image": "fortitude.jpg"
+  },
+  {
+    "name": "Forward Artillery",
+    "image": "forward-artillery.png"
+  },
+  {
+    "name": "Four Riders",
+    "image": "four-riders.jpg"
+  },
+  {
+    "name": "Fracturing Crush",
+    "image": "fracturing-crush.jpg"
+  },
+  {
+    "name": "Fracturing Wind",
+    "image": "fracturing-wind.jpg"
+  },
+  {
+    "name": "Frail Momentum",
+    "image": "frail-momentum.jpg"
+  },
+  {
+    "name": "Freeze Force",
+    "image": "freeze-force.jpg"
+  },
+  {
+    "name": "Frigid Blast",
+    "image": "frigid-blast.jpg"
+  },
+  {
+    "name": "Frost Jaw",
+    "image": "frost-jaw.jpg"
+  },
+  {
+    "name": "Frostbite",
+    "image": "frostbite.jpg"
+  },
+  {
+    "name": "Full Capacity",
+    "image": "full-capacity.jpg"
+  },
+  {
+    "name": "Full Contact",
+    "image": "full-contact.jpg"
+  },
+  {
+    "name": "Fulmination",
+    "image": "fulmination.jpg"
+  },
+  {
+    "name": "Funnel Clouds",
+    "image": "funnel-clouds.jpg"
+  },
+  {
+    "name": "Furious Javelin",
+    "image": "furious-javelin.jpg"
+  },
+  {
+    "name": "Furor",
+    "image": "furor.jpg"
+  },
+  {
+    "name": "Fury",
+    "image": "fury.jpg"
+  },
+  {
+    "name": "Fury",
+    "image": "fury.jpg"
+  },
+  {
+    "name": "Fused Reservoir",
+    "image": "fused-reservoir.jpg"
+  },
+  {
+    "name": "Gaia's Tragedy",
+    "image": "gaia's-tragedy.jpg"
+  },
+  {
+    "name": "Gale Kick",
+    "image": "gale-kick.jpg"
+  },
+  {
+    "name": "Galeforce Dawn",
+    "image": "galeforce-dawn.jpg"
+  },
+  {
+    "name": "Galvanized Acceleration",
+    "image": "galvanized-acceleration.jpg"
+  },
+  {
+    "name": "Galvanized Aptitude",
+    "image": "galvanized-aptitude.jpg"
+  },
+  {
+    "name": "Galvanized Chamber",
+    "image": "galvanized-chamber.jpg"
+  },
+  {
+    "name": "Galvanized Crosshairs",
+    "image": "galvanized-crosshairs.jpg"
+  },
+  {
+    "name": "Galvanized Diffusion",
+    "image": "galvanized-diffusion.jpg"
+  },
+  {
+    "name": "Galvanized Hell",
+    "image": "galvanized-hell.jpg"
+  },
+  {
+    "name": "Galvanized Savvy",
+    "image": "galvanized-savvy.jpg"
+  },
+  {
+    "name": "Galvanized Scope",
+    "image": "galvanized-scope.jpg"
+  },
+  {
+    "name": "Galvanized Shot",
+    "image": "galvanized-shot.jpg"
+  },
+  {
+    "name": "Gemini Cross",
+    "image": "gemini-cross.jpg"
+  },
+  {
+    "name": "Ghost",
+    "image": "ghost.jpg"
+  },
+  {
+    "name": "Gilded Truth",
+    "image": "gilded-truth.jpg"
+  },
+  {
+    "name": "Glacial Edge",
+    "image": "glacial-edge.jpg"
+  },
+  {
+    "name": "Gladiator Aegis",
+    "image": "gladiator-aegis.jpg"
+  },
+  {
+    "name": "Gladiator Finesse",
+    "image": "gladiator-finesse.jpg"
+  },
+  {
+    "name": "Gladiator Might",
+    "image": "gladiator-might.jpg"
+  },
+  {
+    "name": "Gladiator Resolve",
+    "image": "gladiator-resolve.jpg"
+  },
+  {
+    "name": "Gladiator Rush",
+    "image": "gladiator-rush.jpg"
+  },
+  {
+    "name": "Gladiator Vice",
+    "image": "gladiator-vice.jpg"
+  },
+  {
+    "name": "Gladiatorsetmod",
+    "image": "gladiatorsetmod.png"
+  },
+  {
+    "name": "Gleaming Blight",
+    "image": "gleaming-blight.jpg"
+  },
+  {
+    "name": "Gleaming Talon",
+    "image": "gleaming-talon.jpg"
+  },
+  {
+    "name": "Gnashing Payara",
+    "image": "gnashing-payara.jpg"
+  },
+  {
+    "name": "Gorgon Frenzy",
+    "image": "gorgon-frenzy.jpg"
+  },
+  {
+    "name": "Gourmand",
+    "image": "gourmand.jpg"
+  },
+  {
+    "name": "Granum's Nemesis",
+    "image": "granum's-nemesis.png"
+  },
+  {
+    "name": "Greedy Pull",
+    "image": "greedy-pull.jpg"
+  },
+  {
+    "name": "Grim Fury",
+    "image": "grim-fury.jpg"
+  },
+  {
+    "name": "Grinloked",
+    "image": "grinloked.jpg"
+  },
+  {
+    "name": "Growing Power",
+    "image": "growing-power.jpg"
+  },
+  {
+    "name": "Guardian",
+    "image": "guardian.jpg"
+  },
+  {
+    "name": "Guardian Blast",
+    "image": "guardian-blast.jpg"
+  },
+  {
+    "name": "Guardian Break",
+    "image": "guardian-break.jpg"
+  },
+  {
+    "name": "Guardian Derision",
+    "image": "guardian-derision.jpg"
+  },
+  {
+    "name": "Guardian Shell",
+    "image": "guardian-shell.jpg"
+  },
+  {
+    "name": "Guardian Shell",
+    "image": "guardian-shell.jpg"
+  },
+  {
+    "name": "Guided Effigy",
+    "image": "guided-effigy.jpg"
+  },
+  {
+    "name": "Guided Ordnance",
+    "image": "guided-ordnance.jpg"
+  },
+  {
+    "name": "Gun Glide",
+    "image": "gun-glide.jpg"
+  },
+  {
+    "name": "Gunslinger",
+    "image": "gunslinger.jpg"
+  },
+  {
+    "name": "Gunslinger",
+    "image": "gunslinger.jpg"
+  },
+  {
+    "name": "Gunslinger",
+    "image": "gunslinger.jpg"
+  },
+  {
+    "name": "Hall Of Malevolence",
+    "image": "hall-of-malevolence.jpg"
+  },
+  {
+    "name": "Hallowed Eruption",
+    "image": "hallowed-eruption.jpg"
+  },
+  {
+    "name": "Hallowed Reckoning",
+    "image": "hallowed-reckoning.jpg"
+  },
+  {
+    "name": "Hammer Shot",
+    "image": "hammer-shot.jpg"
+  },
+  {
+    "name": "Handspring",
+    "image": "handspring.jpg"
+  },
+  {
+    "name": "Handspring",
+    "image": "handspring.jpg"
+  },
+  {
+    "name": "Handspring",
+    "image": "handspring.jpg"
+  },
+  {
+    "name": "Hard Engage",
+    "image": "hard-engage.jpg"
+  },
+  {
+    "name": "Hard Reset",
+    "image": "hard-reset.jpg"
+  },
+  {
+    "name": "Hardened Wellspring",
+    "image": "hardened-wellspring.jpg"
+  },
+  {
+    "name": "Harkonar Scope",
+    "image": "harkonar-scope.jpg"
+  },
+  {
+    "name": "Harrowed Hook",
+    "image": "harrowed-hook.jpg"
+  },
+  {
+    "name": "Hastened Deflection",
+    "image": "hastened-deflection.jpg"
+  },
+  {
+    "name": "Hastened Steps",
+    "image": "hastened-steps.jpg"
+  },
+  {
+    "name": "Hata-Satya",
+    "image": "hata-satya.jpg"
+  },
+  {
+    "name": "Hawk Eye",
+    "image": "hawk-eye.jpg"
+  },
+  {
+    "name": "Hawk Eye",
+    "image": "hawk-eye.jpg"
+  },
+  {
+    "name": "Hawk Eye",
+    "image": "hawk-eye.jpg"
+  },
+  {
+    "name": "Hawksetmod",
+    "image": "hawksetmod.png"
+  },
+  {
+    "name": "Healing Flame",
+    "image": "healing-flame.jpg"
+  },
+  {
+    "name": "Healing Return",
+    "image": "healing-return.jpg"
+  },
+  {
+    "name": "Health Conversion",
+    "image": "health-conversion.jpg"
+  },
+  {
+    "name": "Heartseeker",
+    "image": "heartseeker.jpg"
+  },
+  {
+    "name": "Hearty Nourishment",
+    "image": "hearty-nourishment.jpg"
+  },
+  {
+    "name": "Heated Charge",
+    "image": "heated-charge.jpg"
+  },
+  {
+    "name": "Heated Charge",
+    "image": "heated-charge.jpg"
+  },
+  {
+    "name": "Heavy Caliber",
+    "image": "heavy-caliber.jpg"
+  },
+  {
+    "name": "Heavy Impact",
+    "image": "heavy-impact.jpg"
+  },
+  {
+    "name": "Heavy Impact",
+    "image": "heavy-impact.jpg"
+  },
+  {
+    "name": "Heavy Impact",
+    "image": "heavy-impact.jpg"
+  },
+  {
+    "name": "Heavy Trauma",
+    "image": "heavy-trauma.jpg"
+  },
+  {
+    "name": "Heavy Trauma",
+    "image": "heavy-trauma.jpg"
+  },
+  {
+    "name": "Heavy Warhead",
+    "image": "heavy-warhead.jpg"
+  },
+  {
+    "name": "Heightened Reflexes",
+    "image": "heightened-reflexes.jpg"
+  },
+  {
+    "name": "Hell's Chamber",
+    "image": "hell's-chamber.jpg"
+  },
+  {
+    "name": "Hell's Chamber",
+    "image": "hell's-chamber.jpg"
+  },
+  {
+    "name": "Hell's Chamber",
+    "image": "hell's-chamber.jpg"
+  },
+  {
+    "name": "Hellfire",
+    "image": "hellfire.jpg"
+  },
+  {
+    "name": "Hellfire",
+    "image": "hellfire.jpg"
+  },
+  {
+    "name": "Hellfire",
+    "image": "hellfire.jpg"
+  },
+  {
+    "name": "Helminth Ferocity",
+    "image": "helminth-ferocity.jpg"
+  },
+  {
+    "name": "Hemorrhage",
+    "image": "hemorrhage.jpg"
+  },
+  {
+    "name": "High Noon",
+    "image": "high-noon.jpg"
+  },
+  {
+    "name": "High Voltage",
+    "image": "high-voltage.jpg"
+  },
+  {
+    "name": "Hit And Run",
+    "image": "hit-and-run.jpg"
+  },
+  {
+    "name": "Hollow Point",
+    "image": "hollow-point.jpg"
+  },
+  {
+    "name": "Hollowed Bullets",
+    "image": "hollowed-bullets.jpg"
+  },
+  {
+    "name": "Holster Amp",
+    "image": "holster-amp.jpg"
+  },
+  {
+    "name": "Homing Fang",
+    "image": "homing-fang.jpg"
+  },
+  {
+    "name": "Hornet Strike",
+    "image": "hornet-strike.jpg"
+  },
+  {
+    "name": "Hornet Strike",
+    "image": "hornet-strike.jpg"
+  },
+  {
+    "name": "Hornet Strike",
+    "image": "hornet-strike.jpg"
+  },
+  {
+    "name": "Howl",
+    "image": "howl.jpg"
+  },
+  {
+    "name": "Hunt",
+    "image": "hunt.jpg"
+  },
+  {
+    "name": "Hunter Adrenaline",
+    "image": "hunter-adrenaline.jpg"
+  },
+  {
+    "name": "Hunter Command",
+    "image": "hunter-command.jpg"
+  },
+  {
+    "name": "Hunter Munitions",
+    "image": "hunter-munitions.jpg"
+  },
+  {
+    "name": "Hunter Recovery",
+    "image": "hunter-recovery.jpg"
+  },
+  {
+    "name": "Hunter Synergy",
+    "image": "hunter-synergy.jpg"
+  },
+  {
+    "name": "Hunter Track",
+    "image": "hunter-track.jpg"
+  },
+  {
+    "name": "Hunter's Bonesaw",
+    "image": "hunter's-bonesaw.jpg"
+  },
+  {
+    "name": "Huntersetmod",
+    "image": "huntersetmod.png"
+  },
+  {
+    "name": "Hush",
+    "image": "hush.jpg"
+  },
+  {
+    "name": "Hushed Invisibility",
+    "image": "hushed-invisibility.jpg"
+  },
+  {
+    "name": "Hydraulic Barrel",
+    "image": "hydraulic-barrel.jpg"
+  },
+  {
+    "name": "Hydraulic Chamber",
+    "image": "hydraulic-chamber.jpg"
+  },
+  {
+    "name": "Hydraulic Crosshairs",
+    "image": "hydraulic-crosshairs.jpg"
+  },
+  {
+    "name": "Hydraulic Gauge",
+    "image": "hydraulic-gauge.jpg"
+  },
+  {
+    "name": "Hyperion Thrusters",
+    "image": "hyperion-thrusters.jpg"
+  },
+  {
+    "name": "Hyperstrike",
+    "image": "hyperstrike.png"
+  },
+  {
+    "name": "Hypothermic Shell",
+    "image": "hypothermic-shell.jpg"
+  },
+  {
+    "name": "Hysterical Assault",
+    "image": "hysterical-assault.jpg"
+  },
+  {
+    "name": "Hysterical Fixation",
+    "image": "hysterical-fixation.jpg"
+  },
+  {
+    "name": "Iatric Mycelium",
+    "image": "iatric-mycelium.jpg"
+  },
+  {
+    "name": "Ice Spring",
+    "image": "ice-spring.jpg"
+  },
+  {
+    "name": "Ice Storm",
+    "image": "ice-storm.jpg"
+  },
+  {
+    "name": "Ice Wave Impedance",
+    "image": "ice-wave-impedance.jpg"
+  },
+  {
+    "name": "Icy Avalanche",
+    "image": "icy-avalanche.jpg"
+  },
+  {
+    "name": "Immolated Radiance",
+    "image": "immolated-radiance.jpg"
+  },
+  {
+    "name": "Impaler Munitions",
+    "image": "impaler-munitions.jpg"
+  },
+  {
+    "name": "Impenetrable Offense",
+    "image": "impenetrable-offense.jpg"
+  },
+  {
+    "name": "Incendiary Coat",
+    "image": "incendiary-coat.jpg"
+  },
+  {
+    "name": "Incendiary Coat",
+    "image": "incendiary-coat.jpg"
+  },
+  {
+    "name": "Incendiary Coat",
+    "image": "incendiary-coat.jpg"
+  },
+  {
+    "name": "Indomitable Matrix",
+    "image": "indomitable-matrix.png"
+  },
+  {
+    "name": "Inertia Dampeners",
+    "image": "inertia-dampeners.jpg"
+  },
+  {
+    "name": "Infected Clip",
+    "image": "infected-clip.jpg"
+  },
+  {
+    "name": "Infected Clip",
+    "image": "infected-clip.jpg"
+  },
+  {
+    "name": "Infected Clip",
+    "image": "infected-clip.jpg"
+  },
+  {
+    "name": "Infectious Bite",
+    "image": "infectious-bite.jpg"
+  },
+  {
+    "name": "Infectious Injection",
+    "image": "infectious-injection.jpg"
+  },
+  {
+    "name": "Infested Impedance",
+    "image": "infested-impedance.jpg"
+  },
+  {
+    "name": "Infiltrate",
+    "image": "infiltrate.jpg"
+  },
+  {
+    "name": "Inner Gaze",
+    "image": "inner-gaze.jpg"
+  },
+  {
+    "name": "Inner Might",
+    "image": "inner-might.jpg"
+  },
+  {
+    "name": "Insatiable",
+    "image": "insatiable.jpg"
+  },
+  {
+    "name": "Insulation",
+    "image": "insulation.jpg"
+  },
+  {
+    "name": "Insulation",
+    "image": "insulation.jpg"
+  },
+  {
+    "name": "Insulation",
+    "image": "insulation.jpg"
+  },
+  {
+    "name": "Intensify",
+    "image": "intensify.jpg"
+  },
+  {
+    "name": "Intensify",
+    "image": "intensify.jpg"
+  },
+  {
+    "name": "Intensify",
+    "image": "intensify.jpg"
+  },
+  {
+    "name": "Internal Bleeding",
+    "image": "internal-bleeding.jpg"
+  },
+  {
+    "name": "Intrepid Stand",
+    "image": "intrepid-stand.jpg"
+  },
+  {
+    "name": "Intruder",
+    "image": "intruder.jpg"
+  },
+  {
+    "name": "Intruder",
+    "image": "intruder.jpg"
+  },
+  {
+    "name": "Intruder Stasis",
+    "image": "intruder-stasis.png"
+  },
+  {
+    "name": "Investigator",
+    "image": "investigator.jpg"
+  },
+  {
+    "name": "Ion Burn",
+    "image": "ion-burn.png"
+  },
+  {
+    "name": "Ion Infusion",
+    "image": "ion-infusion.jpg"
+  },
+  {
+    "name": "Iron Phoenix",
+    "image": "iron-phoenix.jpg"
+  },
+  {
+    "name": "Iron Shrapnel",
+    "image": "iron-shrapnel.jpg"
+  },
+  {
+    "name": "Ironclad Charge",
+    "image": "ironclad-charge.jpg"
+  },
+  {
+    "name": "Ironclad Flight",
+    "image": "ironclad-flight.jpg"
+  },
+  {
+    "name": "Ironclad Matrix",
+    "image": "ironclad-matrix.png"
+  },
+  {
+    "name": "Irradiating Disarm",
+    "image": "irradiating-disarm.jpg"
+  },
+  {
+    "name": "Jagged Edge",
+    "image": "jagged-edge.jpg"
+  },
+  {
+    "name": "Jagged Edge",
+    "image": "jagged-edge.jpg"
+  },
+  {
+    "name": "Jagged Edge",
+    "image": "jagged-edge.jpg"
+  },
+  {
+    "name": "Jahu",
+    "image": "jahu.png"
+  },
+  {
+    "name": "Jahu Canticle",
+    "image": "jahu-canticle.png"
+  },
+  {
+    "name": "Jet Stream",
+    "image": "jet-stream.jpg"
+  },
+  {
+    "name": "Jolt",
+    "image": "jolt.jpg"
+  },
+  {
+    "name": "Jugulus Barbs",
+    "image": "jugulus-barbs.jpg"
+  },
+  {
+    "name": "Jugulus Carapace",
+    "image": "jugulus-carapace.jpg"
+  },
+  {
+    "name": "Jugulus Spines",
+    "image": "jugulus-spines.jpg"
+  },
+  {
+    "name": "Juice",
+    "image": "juice.jpg"
+  },
+  {
+    "name": "Justice Blades",
+    "image": "justice-blades.jpg"
+  },
+  {
+    "name": "Kavat's Grace",
+    "image": "kavat's-grace.jpg"
+  },
+  {
+    "name": "Khra",
+    "image": "khra.png"
+  },
+  {
+    "name": "Khra Canticle",
+    "image": "khra-canticle.png"
+  },
+  {
+    "name": "Kill Switch",
+    "image": "kill-switch.jpg"
+  },
+  {
+    "name": "Killer’S Rush",
+    "image": "killer’s-rush.jpg"
+  },
+  {
+    "name": "Killing Blow",
+    "image": "killing-blow.jpg"
+  },
+  {
+    "name": "Kinetic Collision",
+    "image": "kinetic-collision.jpg"
+  },
+  {
+    "name": "Kinetic Diversion",
+    "image": "kinetic-diversion.jpg"
+  },
+  {
+    "name": "Kinetic Friction",
+    "image": "kinetic-friction.jpg"
+  },
+  {
+    "name": "Kinetic Ricochet",
+    "image": "kinetic-ricochet.jpg"
+  },
+  {
+    "name": "Kitgun Riven Mod",
+    "image": "kitgun-riven-mod.png"
+  },
+  {
+    "name": "Kitgun Riven Mod",
+    "image": "kitgun-riven-mod.jpg"
+  },
+  {
+    "name": "Larva Burst",
+    "image": "larva-burst.jpg"
+  },
+  {
+    "name": "Laser Sight",
+    "image": "laser-sight.jpg"
+  },
+  {
+    "name": "Lashing Coil",
+    "image": "lashing-coil.jpg"
+  },
+  {
+    "name": "Last Gasp",
+    "image": "last-gasp.jpg"
+  },
+  {
+    "name": "Last Herald",
+    "image": "last-herald.jpg"
+  },
+  {
+    "name": "Lasting Covenant",
+    "image": "lasting-covenant.jpg"
+  },
+  {
+    "name": "Lasting Purity",
+    "image": "lasting-purity.jpg"
+  },
+  {
+    "name": "Lasting Sting",
+    "image": "lasting-sting.jpg"
+  },
+  {
+    "name": "Lethal Levitation",
+    "image": "lethal-levitation.jpg"
+  },
+  {
+    "name": "Lethal Momentum",
+    "image": "lethal-momentum.jpg"
+  },
+  {
+    "name": "Lethal Torrent",
+    "image": "lethal-torrent.jpg"
+  },
+  {
+    "name": "Lie In Wait",
+    "image": "lie-in-wait.jpg"
+  },
+  {
+    "name": "Life Strike",
+    "image": "life-strike.jpg"
+  },
+  {
+    "name": "Lightning Dash",
+    "image": "lightning-dash.jpg"
+  },
+  {
+    "name": "Lightning Dash",
+    "image": "lightning-dash.jpg"
+  },
+  {
+    "name": "Lightning Rod",
+    "image": "lightning-rod.jpg"
+  },
+  {
+    "name": "Lightning Rod",
+    "image": "lightning-rod.jpg"
+  },
+  {
+    "name": "Lightning Rod",
+    "image": "lightning-rod.jpg"
+  },
+  {
+    "name": "Lingering Torment",
+    "image": "lingering-torment.jpg"
+  },
+  {
+    "name": "Link Fiber",
+    "image": "link-fiber.jpg"
+  },
+  {
+    "name": "Link Redirection",
+    "image": "link-redirection.jpg"
+  },
+  {
+    "name": "Link Vitality",
+    "image": "link-vitality.jpg"
+  },
+  {
+    "name": "Live Wire",
+    "image": "live-wire.jpg"
+  },
+  {
+    "name": "Loaded Capacity",
+    "image": "loaded-capacity.jpg"
+  },
+  {
+    "name": "Lock And Load",
+    "image": "lock-and-load.jpg"
+  },
+  {
+    "name": "Lohk",
+    "image": "lohk.png"
+  },
+  {
+    "name": "Lohk Canticle",
+    "image": "lohk-canticle.png"
+  },
+  {
+    "name": "Loose Chamber",
+    "image": "loose-chamber.jpg"
+  },
+  {
+    "name": "Loose Hatch",
+    "image": "loose-hatch.jpg"
+  },
+  {
+    "name": "Loose Magazine",
+    "image": "loose-magazine.jpg"
+  },
+  {
+    "name": "Loot Detector",
+    "image": "loot-detector.jpg"
+  },
+  {
+    "name": "Looter",
+    "image": "looter.jpg"
+  },
+  {
+    "name": "Loyal Companion",
+    "image": "loyal-companion.jpg"
+  },
+  {
+    "name": "Lucky Shot",
+    "image": "lucky-shot.jpg"
+  },
+  {
+    "name": "Mach Crash",
+    "image": "mach-crash.jpg"
+  },
+  {
+    "name": "Mad Stack",
+    "image": "mad-stack.jpg"
+  },
+  {
+    "name": "Madurai Transmute Core",
+    "image": "madurai-transmute-core.jpg"
+  },
+  {
+    "name": "Mafic Rain",
+    "image": "mafic-rain.jpg"
+  },
+  {
+    "name": "Mag Locks",
+    "image": "mag-locks.jpg"
+  },
+  {
+    "name": "Magazine Extension",
+    "image": "magazine-extension.jpg"
+  },
+  {
+    "name": "Magazine Warp",
+    "image": "magazine-warp.jpg"
+  },
+  {
+    "name": "Magazine Warp",
+    "image": "magazine-warp.jpg"
+  },
+  {
+    "name": "Maglev",
+    "image": "maglev.jpg"
+  },
+  {
+    "name": "Maglev",
+    "image": "maglev.jpg"
+  },
+  {
+    "name": "Magma Chamber",
+    "image": "magma-chamber.jpg"
+  },
+  {
+    "name": "Magnetic Blast",
+    "image": "magnetic-blast.jpg"
+  },
+  {
+    "name": "Magnetic Boost",
+    "image": "magnetic-boost.jpg"
+  },
+  {
+    "name": "Magnetic Flare",
+    "image": "magnetic-flare.jpg"
+  },
+  {
+    "name": "Magnetized Discharge",
+    "image": "magnetized-discharge.jpg"
+  },
+  {
+    "name": "Magnum Force",
+    "image": "magnum-force.jpg"
+  },
+  {
+    "name": "Maim",
+    "image": "maim.jpg"
+  },
+  {
+    "name": "Maiming Strike",
+    "image": "maiming-strike.jpg"
+  },
+  {
+    "name": "Malicious Code",
+    "image": "malicious-code.jpg"
+  },
+  {
+    "name": "Malicious Raptor",
+    "image": "malicious-raptor.jpg"
+  },
+  {
+    "name": "Malignant Force",
+    "image": "malignant-force.jpg"
+  },
+  {
+    "name": "Manifold Bond",
+    "image": "manifold-bond.jpg"
+  },
+  {
+    "name": "Mark Of The Beast",
+    "image": "mark-of-the-beast.jpg"
+  },
+  {
+    "name": "Marked Target",
+    "image": "marked-target.jpg"
+  },
+  {
+    "name": "Martial Fury",
+    "image": "martial-fury.jpg"
+  },
+  {
+    "name": "Martyr Symbiosis",
+    "image": "martyr-symbiosis.jpg"
+  },
+  {
+    "name": "Master Key",
+    "image": "master-key.jpg"
+  },
+  {
+    "name": "Master Thief",
+    "image": "master-thief.jpg"
+  },
+  {
+    "name": "Master Thief",
+    "image": "master-thief.jpg"
+  },
+  {
+    "name": "Master Thief",
+    "image": "master-thief.jpg"
+  },
+  {
+    "name": "Master's Edge",
+    "image": "master's-edge.jpg"
+  },
+  {
+    "name": "Maul",
+    "image": "maul.jpg"
+  },
+  {
+    "name": "Maximum Capacity",
+    "image": "maximum-capacity.jpg"
+  },
+  {
+    "name": "Measured Burst",
+    "image": "measured-burst.jpg"
+  },
+  {
+    "name": "Mecha Empowered",
+    "image": "mecha-empowered.jpg"
+  },
+  {
+    "name": "Mecha Overdrive",
+    "image": "mecha-overdrive.jpg"
+  },
+  {
+    "name": "Mecha Pulse",
+    "image": "mecha-pulse.jpg"
+  },
+  {
+    "name": "Mecha Recharge",
+    "image": "mecha-recharge.jpg"
+  },
+  {
+    "name": "Mechasetmod",
+    "image": "mechasetmod.png"
+  },
+  {
+    "name": "Medi-Pet Kit",
+    "image": "medi-pet-kit.jpg"
+  },
+  {
+    "name": "Medi-Ray",
+    "image": "medi-ray.jpg"
+  },
+  {
+    "name": "Melee Guidance",
+    "image": "melee-guidance.jpg"
+  },
+  {
+    "name": "Melee Prowess",
+    "image": "melee-prowess.jpg"
+  },
+  {
+    "name": "Melee Prowess",
+    "image": "melee-prowess.jpg"
+  },
+  {
+    "name": "Melee Prowess",
+    "image": "melee-prowess.jpg"
+  },
+  {
+    "name": "Melee Prowess",
+    "image": "melee-prowess.jpg"
+  },
+  {
+    "name": "Melee Riven Mod",
+    "image": "melee-riven-mod.png"
+  },
+  {
+    "name": "Melee Riven Mod",
+    "image": "melee-riven-mod.jpg"
+  },
+  {
+    "name": "Mending Shot",
+    "image": "mending-shot.jpg"
+  },
+  {
+    "name": "Mending Soul",
+    "image": "mending-soul.jpg"
+  },
+  {
+    "name": "Mending Splinters",
+    "image": "mending-splinters.jpg"
+  },
+  {
+    "name": "Mending Unity",
+    "image": "mending-unity.jpg"
+  },
+  {
+    "name": "Mentor's Legacy",
+    "image": "mentor's-legacy.jpg"
+  },
+  {
+    "name": "Merulina Guardian",
+    "image": "merulina-guardian.jpg"
+  },
+  {
+    "name": "Mesa's Waltz",
+    "image": "mesa's-waltz.jpg"
+  },
+  {
+    "name": "Mesmer Shield",
+    "image": "mesmer-shield.jpg"
+  },
+  {
+    "name": "Metal Auger",
+    "image": "metal-auger.jpg"
+  },
+  {
+    "name": "Metal Auger",
+    "image": "metal-auger.jpg"
+  },
+  {
+    "name": "Metal Auger",
+    "image": "metal-auger.jpg"
+  },
+  {
+    "name": "Metal Fiber",
+    "image": "metal-fiber.jpg"
+  },
+  {
+    "name": "Metamorphic Magazine",
+    "image": "metamorphic-magazine.jpg"
+  },
+  {
+    "name": "Meteor Crash",
+    "image": "meteor-crash.jpg"
+  },
+  {
+    "name": "Meteor Munitions",
+    "image": "meteor-munitions.jpg"
+  },
+  {
+    "name": "Meteoric Dash",
+    "image": "meteoric-dash.jpg"
+  },
+  {
+    "name": "Meticulous Aim",
+    "image": "meticulous-aim.jpg"
+  },
+  {
+    "name": "Mind Freak",
+    "image": "mind-freak.jpg"
+  },
+  {
+    "name": "Mind Sprint",
+    "image": "mind-sprint.jpg"
+  },
+  {
+    "name": "Mind Step",
+    "image": "mind-step.jpg"
+  },
+  {
+    "name": "Mischief",
+    "image": "mischief.jpg"
+  },
+  {
+    "name": "Mobilize",
+    "image": "mobilize.jpg"
+  },
+  {
+    "name": "Modified Munitions",
+    "image": "modified-munitions.jpg"
+  },
+  {
+    "name": "Molecular Conversion",
+    "image": "molecular-conversion.jpg"
+  },
+  {
+    "name": "Molecular Fission",
+    "image": "molecular-fission.jpg"
+  },
+  {
+    "name": "Molten Impact",
+    "image": "molten-impact.jpg"
+  },
+  {
+    "name": "Molten Impact",
+    "image": "molten-impact.jpg"
+  },
+  {
+    "name": "Molten Impact",
+    "image": "molten-impact.jpg"
+  },
+  {
+    "name": "Momentary Pause",
+    "image": "momentary-pause.jpg"
+  },
+  {
+    "name": "Momentous Bond",
+    "image": "momentous-bond.jpg"
+  },
+  {
+    "name": "Morphic Transformer",
+    "image": "morphic-transformer.jpg"
+  },
+  {
+    "name": "Mortal Conduct",
+    "image": "mortal-conduct.jpg"
+  },
+  {
+    "name": "Motus Impact",
+    "image": "motus-impact.jpg"
+  },
+  {
+    "name": "Motus Setup",
+    "image": "motus-setup.jpg"
+  },
+  {
+    "name": "Motus Signal",
+    "image": "motus-signal.jpg"
+  },
+  {
+    "name": "Mountain's Edge",
+    "image": "mountain's-edge.jpg"
+  },
+  {
+    "name": "Munitions Vortex",
+    "image": "munitions-vortex.png"
+  },
+  {
+    "name": "Muzzle Flash",
+    "image": "muzzle-flash.jpg"
+  },
+  {
+    "name": "Mystic Bond",
+    "image": "mystic-bond.jpg"
+  },
+  {
+    "name": "Nano-Applicator",
+    "image": "nano-applicator.jpg"
+  },
+  {
+    "name": "Napalm Grenades",
+    "image": "napalm-grenades.jpg"
+  },
+  {
+    "name": "Naramon Transmute Core",
+    "image": "naramon-transmute-core.jpg"
+  },
+  {
+    "name": "Narrow Barrel",
+    "image": "narrow-barrel.jpg"
+  },
+  {
+    "name": "Narrow Minded",
+    "image": "narrow-minded.jpg"
+  },
+  {
+    "name": "Natural Talent",
+    "image": "natural-talent.jpg"
+  },
+  {
+    "name": "Nebula Bore",
+    "image": "nebula-bore.jpg"
+  },
+  {
+    "name": "Necramech Augur",
+    "image": "necramech-augur.jpg"
+  },
+  {
+    "name": "Necramech Aviator",
+    "image": "necramech-aviator.jpg"
+  },
+  {
+    "name": "Necramech Blitz",
+    "image": "necramech-blitz.jpg"
+  },
+  {
+    "name": "Necramech Continuity",
+    "image": "necramech-continuity.jpg"
+  },
+  {
+    "name": "Necramech Deflection",
+    "image": "necramech-deflection.jpg"
+  },
+  {
+    "name": "Necramech Drift",
+    "image": "necramech-drift.jpg"
+  },
+  {
+    "name": "Necramech Efficiency",
+    "image": "necramech-efficiency.jpg"
+  },
+  {
+    "name": "Necramech Enemy Sense",
+    "image": "necramech-enemy-sense.jpg"
+  },
+  {
+    "name": "Necramech Flow",
+    "image": "necramech-flow.jpg"
+  },
+  {
+    "name": "Necramech Friction",
+    "image": "necramech-friction.jpg"
+  },
+  {
+    "name": "Necramech Fury",
+    "image": "necramech-fury.jpg"
+  },
+  {
+    "name": "Necramech Hydraulics",
+    "image": "necramech-hydraulics.jpg"
+  },
+  {
+    "name": "Necramech Intensify",
+    "image": "necramech-intensify.jpg"
+  },
+  {
+    "name": "Necramech Pressure Point",
+    "image": "necramech-pressure-point.jpg"
+  },
+  {
+    "name": "Necramech Rage",
+    "image": "necramech-rage.jpg"
+  },
+  {
+    "name": "Necramech Reach",
+    "image": "necramech-reach.jpg"
+  },
+  {
+    "name": "Necramech Rebuke",
+    "image": "necramech-rebuke.jpg"
+  },
+  {
+    "name": "Necramech Redirection",
+    "image": "necramech-redirection.jpg"
+  },
+  {
+    "name": "Necramech Refuel",
+    "image": "necramech-refuel.jpg"
+  },
+  {
+    "name": "Necramech Repair",
+    "image": "necramech-repair.jpg"
+  },
+  {
+    "name": "Necramech Seismic Wave",
+    "image": "necramech-seismic-wave.jpg"
+  },
+  {
+    "name": "Necramech Slipstream",
+    "image": "necramech-slipstream.jpg"
+  },
+  {
+    "name": "Necramech Stamina",
+    "image": "necramech-stamina.jpg"
+  },
+  {
+    "name": "Necramech Steel Fiber",
+    "image": "necramech-steel-fiber.jpg"
+  },
+  {
+    "name": "Necramech Streamline",
+    "image": "necramech-streamline.jpg"
+  },
+  {
+    "name": "Necramech Stretch",
+    "image": "necramech-stretch.jpg"
+  },
+  {
+    "name": "Necramech Thrusters",
+    "image": "necramech-thrusters.jpg"
+  },
+  {
+    "name": "Necramech Vitality",
+    "image": "necramech-vitality.jpg"
+  },
+  {
+    "name": "Negate",
+    "image": "negate.jpg"
+  },
+  {
+    "name": "Negation Swarm",
+    "image": "negation-swarm.jpg"
+  },
+  {
+    "name": "Netra",
+    "image": "netra.png"
+  },
+  {
+    "name": "Netra Invocation",
+    "image": "netra-invocation.png"
+  },
+  {
+    "name": "Neutralize",
+    "image": "neutralize.jpg"
+  },
+  {
+    "name": "Neutralizing Justice",
+    "image": "neutralizing-justice.jpg"
+  },
+  {
+    "name": "Neutron Star",
+    "image": "neutron-star.jpg"
+  },
+  {
+    "name": "Night Stalker",
+    "image": "night-stalker.jpg"
+  },
+  {
+    "name": "Nightwatch Napalm",
+    "image": "nightwatch-napalm.jpg"
+  },
+  {
+    "name": "Nira's Anguish",
+    "image": "nira's-anguish.jpg"
+  },
+  {
+    "name": "Nira's Contempt",
+    "image": "nira's-contempt.jpg"
+  },
+  {
+    "name": "Nira's Hatred",
+    "image": "nira's-hatred.jpg"
+  },
+  {
+    "name": "Nirasetmod",
+    "image": "nirasetmod.png"
+  },
+  {
+    "name": "Nitro Boost",
+    "image": "nitro-boost.jpg"
+  },
+  {
+    "name": "No Current Leap",
+    "image": "no-current-leap.jpg"
+  },
+  {
+    "name": "No Quarter",
+    "image": "no-quarter.jpg"
+  },
+  {
+    "name": "No Return",
+    "image": "no-return.jpg"
+  },
+  {
+    "name": "No Return",
+    "image": "no-return.jpg"
+  },
+  {
+    "name": "No Return",
+    "image": "no-return.jpg"
+  },
+  {
+    "name": "Noble Cadence",
+    "image": "noble-cadence.jpg"
+  },
+  {
+    "name": "North Wind",
+    "image": "north-wind.jpg"
+  },
+  {
+    "name": "North Wind",
+    "image": "north-wind.jpg"
+  },
+  {
+    "name": "North Wind",
+    "image": "north-wind.jpg"
+  },
+  {
+    "name": "Null Audit",
+    "image": "null-audit.jpg"
+  },
+  {
+    "name": "Odomedic",
+    "image": "odomedic.jpg"
+  },
+  {
+    "name": "Onslaught Matrix",
+    "image": "onslaught-matrix.png"
+  },
+  {
+    "name": "Opening Slam",
+    "image": "opening-slam.jpg"
+  },
+  {
+    "name": "Opportunity's Reach",
+    "image": "opportunity's-reach.jpg"
+  },
+  {
+    "name": "Ordnance Cheap Shot",
+    "image": "ordnance-cheap-shot.png"
+  },
+  {
+    "name": "Ordnance Velocity",
+    "image": "ordnance-velocity.png"
+  },
+  {
+    "name": "Ore Gaze",
+    "image": "ore-gaze.jpg"
+  },
+  {
+    "name": "Organ Shatter",
+    "image": "organ-shatter.jpg"
+  },
+  {
+    "name": "Organ Shatter",
+    "image": "organ-shatter.jpg"
+  },
+  {
+    "name": "Organ Shatter",
+    "image": "organ-shatter.jpg"
+  },
+  {
+    "name": "Orgone Tuning Matrix",
+    "image": "orgone-tuning-matrix.png"
+  },
+  {
+    "name": "Oull",
+    "image": "oull.png"
+  },
+  {
+    "name": "Out Of Sight",
+    "image": "out-of-sight.jpg"
+  },
+  {
+    "name": "Overcharge Detectors",
+    "image": "overcharge-detectors.jpg"
+  },
+  {
+    "name": "Overcharged",
+    "image": "overcharged.jpg"
+  },
+  {
+    "name": "Overextended",
+    "image": "overextended.jpg"
+  },
+  {
+    "name": "Overloader",
+    "image": "overloader.png"
+  },
+  {
+    "name": "Overview",
+    "image": "overview.jpg"
+  },
+  {
+    "name": "Pacifying Bolts",
+    "image": "pacifying-bolts.jpg"
+  },
+  {
+    "name": "Pack Leader",
+    "image": "pack-leader.jpg"
+  },
+  {
+    "name": "Pain Threshold",
+    "image": "pain-threshold.jpg"
+  },
+  {
+    "name": "Panzer Devolution",
+    "image": "panzer-devolution.jpg"
+  },
+  {
+    "name": "Parallax Scope",
+    "image": "parallax-scope.jpg"
+  },
+  {
+    "name": "Paralytic Spores",
+    "image": "paralytic-spores.jpg"
+  },
+  {
+    "name": "Parry",
+    "image": "parry.jpg"
+  },
+  {
+    "name": "Parry",
+    "image": "parry.jpg"
+  },
+  {
+    "name": "Parry",
+    "image": "parry.jpg"
+  },
+  {
+    "name": "Parry",
+    "image": "parry.jpg"
+  },
+  {
+    "name": "Particle Ram",
+    "image": "particle-ram.png"
+  },
+  {
+    "name": "Partitioned Mallet",
+    "image": "partitioned-mallet.jpg"
+  },
+  {
+    "name": "Patagium",
+    "image": "patagium.jpg"
+  },
+  {
+    "name": "Path Of Statues",
+    "image": "path-of-statues.jpg"
+  },
+  {
+    "name": "Pathogen Rounds",
+    "image": "pathogen-rounds.jpg"
+  },
+  {
+    "name": "Pathogen Rounds",
+    "image": "pathogen-rounds.jpg"
+  },
+  {
+    "name": "Pathogen Rounds",
+    "image": "pathogen-rounds.jpg"
+  },
+  {
+    "name": "Peaceful Provocation",
+    "image": "peaceful-provocation.jpg"
+  },
+  {
+    "name": "Peculiar Audience",
+    "image": "peculiar-audience.jpg"
+  },
+  {
+    "name": "Peculiar Bloom",
+    "image": "peculiar-bloom.jpg"
+  },
+  {
+    "name": "Peculiar Growth",
+    "image": "peculiar-growth.jpg"
+  },
+  {
+    "name": "Perfect Balance",
+    "image": "perfect-balance.jpg"
+  },
+  {
+    "name": "Perpetual Agony",
+    "image": "perpetual-agony.jpg"
+  },
+  {
+    "name": "Phoenix Blaze",
+    "image": "phoenix-blaze.png"
+  },
+  {
+    "name": "Phoenix Renewal",
+    "image": "phoenix-renewal.jpg"
+  },
+  {
+    "name": "Phoenix Spirit",
+    "image": "phoenix-spirit.jpg"
+  },
+  {
+    "name": "Phoenix Talons",
+    "image": "phoenix-talons.jpg"
+  },
+  {
+    "name": "Photon Repeater",
+    "image": "photon-repeater.jpg"
+  },
+  {
+    "name": "Physique",
+    "image": "physique.jpg"
+  },
+  {
+    "name": "Piercing Caliber",
+    "image": "piercing-caliber.jpg"
+  },
+  {
+    "name": "Piercing Fury",
+    "image": "piercing-fury.jpg"
+  },
+  {
+    "name": "Piercing Hit",
+    "image": "piercing-hit.jpg"
+  },
+  {
+    "name": "Piercing Hit",
+    "image": "piercing-hit.jpg"
+  },
+  {
+    "name": "Piercing Hit",
+    "image": "piercing-hit.jpg"
+  },
+  {
+    "name": "Piercing Navigator",
+    "image": "piercing-navigator.jpg"
+  },
+  {
+    "name": "Piercing Roar",
+    "image": "piercing-roar.jpg"
+  },
+  {
+    "name": "Piercing Step",
+    "image": "piercing-step.jpg"
+  },
+  {
+    "name": "Pilfering Strangledome",
+    "image": "pilfering-strangledome.jpg"
+  },
+  {
+    "name": "Pilfering Swarm",
+    "image": "pilfering-swarm.jpg"
+  },
+  {
+    "name": "Pistol Ammo Mutation",
+    "image": "pistol-ammo-mutation.jpg"
+  },
+  {
+    "name": "Pistol Ammo Mutation",
+    "image": "pistol-ammo-mutation.jpg"
+  },
+  {
+    "name": "Pistol Amp",
+    "image": "pistol-amp.jpg"
+  },
+  {
+    "name": "Pistol Gambit",
+    "image": "pistol-gambit.jpg"
+  },
+  {
+    "name": "Pistol Gambit",
+    "image": "pistol-gambit.jpg"
+  },
+  {
+    "name": "Pistol Pestilence",
+    "image": "pistol-pestilence.jpg"
+  },
+  {
+    "name": "Pistol Riven Mod",
+    "image": "pistol-riven-mod.png"
+  },
+  {
+    "name": "Pistol Riven Mod",
+    "image": "pistol-riven-mod.jpg"
+  },
+  {
+    "name": "Pistol Scavenger",
+    "image": "pistol-scavenger.jpg"
+  },
+  {
+    "name": "Plan B",
+    "image": "plan-b.jpg"
+  },
+  {
+    "name": "Point Blank",
+    "image": "point-blank.jpg"
+  },
+  {
+    "name": "Point Blank",
+    "image": "point-blank.jpg"
+  },
+  {
+    "name": "Point Strike",
+    "image": "point-strike.jpg"
+  },
+  {
+    "name": "Point Strike",
+    "image": "point-strike.jpg"
+  },
+  {
+    "name": "Point Strike",
+    "image": "point-strike.jpg"
+  },
+  {
+    "name": "Pointed Wind",
+    "image": "pointed-wind.jpg"
+  },
+  {
+    "name": "Poise",
+    "image": "poise.jpg"
+  },
+  {
+    "name": "Poisonous Sting",
+    "image": "poisonous-sting.jpg"
+  },
+  {
+    "name": "Polar Magazine",
+    "image": "polar-magazine.jpg"
+  },
+  {
+    "name": "Pool Of Life",
+    "image": "pool-of-life.jpg"
+  },
+  {
+    "name": "Pop Top",
+    "image": "pop-top.jpg"
+  },
+  {
+    "name": "Poppin' Vert",
+    "image": "poppin'-vert.jpg"
+  },
+  {
+    "name": "Pounce",
+    "image": "pounce.jpg"
+  },
+  {
+    "name": "Power Donation",
+    "image": "power-donation.jpg"
+  },
+  {
+    "name": "Power Drain",
+    "image": "power-drain.jpg"
+  },
+  {
+    "name": "Power Drift",
+    "image": "power-drift.jpg"
+  },
+  {
+    "name": "Power Of Three",
+    "image": "power-of-three.jpg"
+  },
+  {
+    "name": "Power Spike",
+    "image": "power-spike.jpg"
+  },
+  {
+    "name": "Power Throw",
+    "image": "power-throw.jpg"
+  },
+  {
+    "name": "Power Throw",
+    "image": "power-throw.jpg"
+  },
+  {
+    "name": "Power Throw",
+    "image": "power-throw.jpg"
+  },
+  {
+    "name": "Power Transfer",
+    "image": "power-transfer.jpg"
+  },
+  {
+    "name": "Precision Intensify",
+    "image": "precision-intensify.jpg"
+  },
+  {
+    "name": "Precision Munition",
+    "image": "precision-munition.jpg"
+  },
+  {
+    "name": "Precision Strike",
+    "image": "precision-strike.jpg"
+  },
+  {
+    "name": "Predator",
+    "image": "predator.png"
+  },
+  {
+    "name": "Preparation",
+    "image": "preparation.jpg"
+  },
+  {
+    "name": "Pressure Point",
+    "image": "pressure-point.jpg"
+  },
+  {
+    "name": "Pressure Point",
+    "image": "pressure-point.jpg"
+  },
+  {
+    "name": "Pressure Point",
+    "image": "pressure-point.jpg"
+  },
+  {
+    "name": "Pressurized Magazine",
+    "image": "pressurized-magazine.jpg"
+  },
+  {
+    "name": "Primal Rage",
+    "image": "primal-rage.jpg"
+  },
+  {
+    "name": "Primed Ammo Stock",
+    "image": "primed-ammo-stock.jpg"
+  },
+  {
+    "name": "Primed Animal Instinct",
+    "image": "primed-animal-instinct.jpg"
+  },
+  {
+    "name": "Primed Bane Of Corpus",
+    "image": "primed-bane-of-corpus.jpg"
+  },
+  {
+    "name": "Primed Bane Of Corrupted",
+    "image": "primed-bane-of-corrupted.jpg"
+  },
+  {
+    "name": "Primed Bane Of Grineer",
+    "image": "primed-bane-of-grineer.jpg"
+  },
+  {
+    "name": "Primed Bane Of Infested",
+    "image": "primed-bane-of-infested.jpg"
+  },
+  {
+    "name": "Primed Blunderbuss",
+    "image": "primed-blunderbuss.jpg"
+  },
+  {
+    "name": "Primed Chamber",
+    "image": "primed-chamber.jpg"
+  },
+  {
+    "name": "Primed Charged Chamber",
+    "image": "primed-charged-chamber.jpg"
+  },
+  {
+    "name": "Primed Charged Shell",
+    "image": "primed-charged-shell.jpg"
+  },
+  {
+    "name": "Primed Chilling Grasp",
+    "image": "primed-chilling-grasp.jpg"
+  },
+  {
+    "name": "Primed Cleanse Corpus",
+    "image": "primed-cleanse-corpus.jpg"
+  },
+  {
+    "name": "Primed Cleanse Corrupted",
+    "image": "primed-cleanse-corrupted.jpg"
+  },
+  {
+    "name": "Primed Cleanse Grineer",
+    "image": "primed-cleanse-grineer.jpg"
+  },
+  {
+    "name": "Primed Cleanse Infested",
+    "image": "primed-cleanse-infested.jpg"
+  },
+  {
+    "name": "Primed Continuity",
+    "image": "primed-continuity.jpg"
+  },
+  {
+    "name": "Primed Convulsion",
+    "image": "primed-convulsion.jpg"
+  },
+  {
+    "name": "Primed Cryo Rounds",
+    "image": "primed-cryo-rounds.jpg"
+  },
+  {
+    "name": "Primed Deadly Efficiency",
+    "image": "primed-deadly-efficiency.jpg"
+  },
+  {
+    "name": "Primed Dual Rounds",
+    "image": "primed-dual-rounds.jpg"
+  },
+  {
+    "name": "Primed Expel Corpus",
+    "image": "primed-expel-corpus.jpg"
+  },
+  {
+    "name": "Primed Expel Corrupted",
+    "image": "primed-expel-corrupted.jpg"
+  },
+  {
+    "name": "Primed Expel Grineer",
+    "image": "primed-expel-grineer.jpg"
+  },
+  {
+    "name": "Primed Expel Infested",
+    "image": "primed-expel-infested.jpg"
+  },
+  {
+    "name": "Primed Fast Deflection",
+    "image": "primed-fast-deflection.jpg"
+  },
+  {
+    "name": "Primed Fast Hands",
+    "image": "primed-fast-hands.jpg"
+  },
+  {
+    "name": "Primed Fever Strike",
+    "image": "primed-fever-strike.jpg"
+  },
+  {
+    "name": "Primed Firestorm",
+    "image": "primed-firestorm.jpg"
+  },
+  {
+    "name": "Primed Flow",
+    "image": "primed-flow.jpg"
+  },
+  {
+    "name": "Primed Fulmination",
+    "image": "primed-fulmination.jpg"
+  },
+  {
+    "name": "Primed Fury",
+    "image": "primed-fury.jpg"
+  },
+  {
+    "name": "Primed Heated Charge",
+    "image": "primed-heated-charge.jpg"
+  },
+  {
+    "name": "Primed Heavy Trauma",
+    "image": "primed-heavy-trauma.jpg"
+  },
+  {
+    "name": "Primed Magazine Warp",
+    "image": "primed-magazine-warp.jpg"
+  },
+  {
+    "name": "Primed Morphic Transformer",
+    "image": "primed-morphic-transformer.jpg"
+  },
+  {
+    "name": "Primed Pack Leader",
+    "image": "primed-pack-leader.jpg"
+  },
+  {
+    "name": "Primed Pistol Ammo Mutation",
+    "image": "primed-pistol-ammo-mutation.jpg"
+  },
+  {
+    "name": "Primed Pistol Gambit",
+    "image": "primed-pistol-gambit.jpg"
+  },
+  {
+    "name": "Primed Point Blank",
+    "image": "primed-point-blank.jpg"
+  },
+  {
+    "name": "Primed Pressure Point",
+    "image": "primed-pressure-point.jpg"
+  },
+  {
+    "name": "Primed Quickdraw",
+    "image": "primed-quickdraw.jpg"
+  },
+  {
+    "name": "Primed Ravage",
+    "image": "primed-ravage.jpg"
+  },
+  {
+    "name": "Primed Reach",
+    "image": "primed-reach.jpg"
+  },
+  {
+    "name": "Primed Redirection",
+    "image": "primed-redirection.jpg"
+  },
+  {
+    "name": "Primed Regen",
+    "image": "primed-regen.jpg"
+  },
+  {
+    "name": "Primed Rifle Ammo Mutation",
+    "image": "primed-rifle-ammo-mutation.jpg"
+  },
+  {
+    "name": "Primed Rubedo-Lined Barrel",
+    "image": "primed-rubedo-lined-barrel.jpg"
+  },
+  {
+    "name": "Primed Shotgun Ammo Mutation",
+    "image": "primed-shotgun-ammo-mutation.jpg"
+  },
+  {
+    "name": "Primed Shred",
+    "image": "primed-shred.jpg"
+  },
+  {
+    "name": "Primed Slip Magazine",
+    "image": "primed-slip-magazine.jpg"
+  },
+  {
+    "name": "Primed Smite Corpus",
+    "image": "primed-smite-corpus.jpg"
+  },
+  {
+    "name": "Primed Smite Corrupted",
+    "image": "primed-smite-corrupted.jpg"
+  },
+  {
+    "name": "Primed Smite Grineer",
+    "image": "primed-smite-grineer.jpg"
+  },
+  {
+    "name": "Primed Smite Infested",
+    "image": "primed-smite-infested.jpg"
+  },
+  {
+    "name": "Primed Sniper Ammo Mutation",
+    "image": "primed-sniper-ammo-mutation.jpg"
+  },
+  {
+    "name": "Primed Streamline",
+    "image": "primed-streamline.jpg"
+  },
+  {
+    "name": "Primed Sure Footed",
+    "image": "primed-sure-footed.jpg"
+  },
+  {
+    "name": "Primed Tactical Pump",
+    "image": "primed-tactical-pump.jpg"
+  },
+  {
+    "name": "Primed Target Cracker",
+    "image": "primed-target-cracker.jpg"
+  },
+  {
+    "name": "Primed Vigor",
+    "image": "primed-vigor.jpg"
+  },
+  {
+    "name": "Primo Flair",
+    "image": "primo-flair.jpg"
+  },
+  {
+    "name": "Prism Guard",
+    "image": "prism-guard.jpg"
+  },
+  {
+    "name": "Prize Kill",
+    "image": "prize-kill.jpg"
+  },
+  {
+    "name": "Proboscis",
+    "image": "proboscis.jpg"
+  },
+  {
+    "name": "Prolonged Paralysis",
+    "image": "prolonged-paralysis.jpg"
+  },
+  {
+    "name": "Protect",
+    "image": "protect.jpg"
+  },
+  {
+    "name": "Protective Shots",
+    "image": "protective-shots.png"
+  },
+  {
+    "name": "Protective Sling",
+    "image": "protective-sling.jpg"
+  },
+  {
+    "name": "Proton Jet",
+    "image": "proton-jet.jpg"
+  },
+  {
+    "name": "Proton Pulse",
+    "image": "proton-pulse.jpg"
+  },
+  {
+    "name": "Proton Snap",
+    "image": "proton-snap.jpg"
+  },
+  {
+    "name": "Provoked",
+    "image": "provoked.jpg"
+  },
+  {
+    "name": "Provoked",
+    "image": "provoked.jpg"
+  },
+  {
+    "name": "Provoked",
+    "image": "provoked.jpg"
+  },
+  {
+    "name": "Pummel",
+    "image": "pummel.jpg"
+  },
+  {
+    "name": "Purging Slash",
+    "image": "purging-slash.jpg"
+  },
+  {
+    "name": "Purifying Flames",
+    "image": "purifying-flames.jpg"
+  },
+  {
+    "name": "Push & Pull",
+    "image": "push-&-pull.jpg"
+  },
+  {
+    "name": "Pyroclastic Flow",
+    "image": "pyroclastic-flow.jpg"
+  },
+  {
+    "name": "Quaking Hand",
+    "image": "quaking-hand.jpg"
+  },
+  {
+    "name": "Quasar Drill",
+    "image": "quasar-drill.jpg"
+  },
+  {
+    "name": "Quick Charge",
+    "image": "quick-charge.jpg"
+  },
+  {
+    "name": "Quick Escape",
+    "image": "quick-escape.jpg"
+  },
+  {
+    "name": "Quick Reload",
+    "image": "quick-reload.jpg"
+  },
+  {
+    "name": "Quick Return",
+    "image": "quick-return.jpg"
+  },
+  {
+    "name": "Quick Thinking",
+    "image": "quick-thinking.jpg"
+  },
+  {
+    "name": "Quick Thinking",
+    "image": "quick-thinking.jpg"
+  },
+  {
+    "name": "Quickdraw",
+    "image": "quickdraw.jpg"
+  },
+  {
+    "name": "Quickdraw",
+    "image": "quickdraw.jpg"
+  },
+  {
+    "name": "Quickening",
+    "image": "quickening.jpg"
+  },
+  {
+    "name": "Quicklock",
+    "image": "quicklock.png"
+  },
+  {
+    "name": "Radiant Finish",
+    "image": "radiant-finish.jpg"
+  },
+  {
+    "name": "Radiated Reload",
+    "image": "radiated-reload.jpg"
+  },
+  {
+    "name": "Rage",
+    "image": "rage.jpg"
+  },
+  {
+    "name": "Rage",
+    "image": "rage.jpg"
+  },
+  {
+    "name": "Rage",
+    "image": "rage.jpg"
+  },
+  {
+    "name": "Raider Matrix",
+    "image": "raider-matrix.png"
+  },
+  {
+    "name": "Rail Guards",
+    "image": "rail-guards.jpg"
+  },
+  {
+    "name": "Range Advantage",
+    "image": "range-advantage.jpg"
+  },
+  {
+    "name": "Rapid Resilience",
+    "image": "rapid-resilience.jpg"
+  },
+  {
+    "name": "Raptorsetmod",
+    "image": "raptorsetmod.png"
+  },
+  {
+    "name": "Ravage",
+    "image": "ravage.jpg"
+  },
+  {
+    "name": "Ravage",
+    "image": "ravage.jpg"
+  },
+  {
+    "name": "Razor Munitions",
+    "image": "razor-munitions.jpg"
+  },
+  {
+    "name": "Razor Shot",
+    "image": "razor-shot.jpg"
+  },
+  {
+    "name": "Razor Shot",
+    "image": "razor-shot.jpg"
+  },
+  {
+    "name": "Razor Shot",
+    "image": "razor-shot.jpg"
+  },
+  {
+    "name": "Razorwing Blitz",
+    "image": "razorwing-blitz.jpg"
+  },
+  {
+    "name": "Reach",
+    "image": "reach.jpg"
+  },
+  {
+    "name": "Reach",
+    "image": "reach.jpg"
+  },
+  {
+    "name": "Reactive Storm",
+    "image": "reactive-storm.jpg"
+  },
+  {
+    "name": "Ready Steel",
+    "image": "ready-steel.jpg"
+  },
+  {
+    "name": "Reaping Chakram",
+    "image": "reaping-chakram.jpg"
+  },
+  {
+    "name": "Reaping Spiral",
+    "image": "reaping-spiral.jpg"
+  },
+  {
+    "name": "Reawaken",
+    "image": "reawaken.jpg"
+  },
+  {
+    "name": "Rebound",
+    "image": "rebound.jpg"
+  },
+  {
+    "name": "Recharge Barrier",
+    "image": "recharge-barrier.jpg"
+  },
+  {
+    "name": "Recover",
+    "image": "recover.jpg"
+  },
+  {
+    "name": "Recuperate",
+    "image": "recuperate.jpg"
+  },
+  {
+    "name": "Redirection",
+    "image": "redirection.jpg"
+  },
+  {
+    "name": "Redirection",
+    "image": "redirection.jpg"
+  },
+  {
+    "name": "Redirection",
+    "image": "redirection.jpg"
+  },
+  {
+    "name": "Reflect",
+    "image": "reflect.jpg"
+  },
+  {
+    "name": "Reflection",
+    "image": "reflection.jpg"
+  },
+  {
+    "name": "Reflection",
+    "image": "reflection.jpg"
+  },
+  {
+    "name": "Reflection",
+    "image": "reflection.jpg"
+  },
+  {
+    "name": "Reflex Coil",
+    "image": "reflex-coil.jpg"
+  },
+  {
+    "name": "Reflex Coil",
+    "image": "reflex-coil.jpg"
+  },
+  {
+    "name": "Reflex Coil",
+    "image": "reflex-coil.jpg"
+  },
+  {
+    "name": "Reflex Coil",
+    "image": "reflex-coil.jpg"
+  },
+  {
+    "name": "Reflex Denial",
+    "image": "reflex-denial.jpg"
+  },
+  {
+    "name": "Reflex Draw",
+    "image": "reflex-draw.jpg"
+  },
+  {
+    "name": "Reflex Guard",
+    "image": "reflex-guard.jpg"
+  },
+  {
+    "name": "Regen",
+    "image": "regen.jpg"
+  },
+  {
+    "name": "Regenerative Molt",
+    "image": "regenerative-molt.jpg"
+  },
+  {
+    "name": "Reinforced Bond",
+    "image": "reinforced-bond.jpg"
+  },
+  {
+    "name": "Reinforced Return",
+    "image": "reinforced-return.jpg"
+  },
+  {
+    "name": "Reinforcing Stomp",
+    "image": "reinforcing-stomp.jpg"
+  },
+  {
+    "name": "Rejuvenating Tides",
+    "image": "rejuvenating-tides.jpg"
+  },
+  {
+    "name": "Rejuvenation",
+    "image": "rejuvenation.jpg"
+  },
+  {
+    "name": "Relentless Assault",
+    "image": "relentless-assault.jpg"
+  },
+  {
+    "name": "Relentless Combination",
+    "image": "relentless-combination.jpg"
+  },
+  {
+    "name": "Rending Crane",
+    "image": "rending-crane.jpg"
+  },
+  {
+    "name": "Rending Strike",
+    "image": "rending-strike.jpg"
+  },
+  {
+    "name": "Rending Turn",
+    "image": "rending-turn.jpg"
+  },
+  {
+    "name": "Rending Wind",
+    "image": "rending-wind.jpg"
+  },
+  {
+    "name": "Repair Dispensary",
+    "image": "repair-dispensary.jpg"
+  },
+  {
+    "name": "Repair Kit",
+    "image": "repair-kit.jpg"
+  },
+  {
+    "name": "Repeater Clip",
+    "image": "repeater-clip.jpg"
+  },
+  {
+    "name": "Repelling Bastille",
+    "image": "repelling-bastille.jpg"
+  },
+  {
+    "name": "Repo Audit",
+    "image": "repo-audit.jpg"
+  },
+  {
+    "name": "Resilient Focus",
+    "image": "resilient-focus.jpg"
+  },
+  {
+    "name": "Resolute Focus",
+    "image": "resolute-focus.jpg"
+  },
+  {
+    "name": "Resonance",
+    "image": "resonance.jpg"
+  },
+  {
+    "name": "Resonating Quake",
+    "image": "resonating-quake.jpg"
+  },
+  {
+    "name": "Restorative Bond",
+    "image": "restorative-bond.jpg"
+  },
+  {
+    "name": "Retribution",
+    "image": "retribution.jpg"
+  },
+  {
+    "name": "Retribution",
+    "image": "retribution.jpg"
+  },
+  {
+    "name": "Retribution",
+    "image": "retribution.jpg"
+  },
+  {
+    "name": "Retrieve",
+    "image": "retrieve.jpg"
+  },
+  {
+    "name": "Revealing Spores",
+    "image": "revealing-spores.jpg"
+  },
+  {
+    "name": "Revenge",
+    "image": "revenge.jpg"
+  },
+  {
+    "name": "Revo Reducer",
+    "image": "revo-reducer.png"
+  },
+  {
+    "name": "Rifle Ammo Mutation",
+    "image": "rifle-ammo-mutation.jpg"
+  },
+  {
+    "name": "Rifle Ammo Mutation",
+    "image": "rifle-ammo-mutation.jpg"
+  },
+  {
+    "name": "Rifle Amp",
+    "image": "rifle-amp.jpg"
+  },
+  {
+    "name": "Rifle Aptitude",
+    "image": "rifle-aptitude.jpg"
+  },
+  {
+    "name": "Rifle Aptitude",
+    "image": "rifle-aptitude.jpg"
+  },
+  {
+    "name": "Rifle Aptitude",
+    "image": "rifle-aptitude.jpg"
+  },
+  {
+    "name": "Rifle Aptitude",
+    "image": "rifle-aptitude.jpg"
+  },
+  {
+    "name": "Rifle Riven Mod",
+    "image": "rifle-riven-mod.png"
+  },
+  {
+    "name": "Rifle Riven Mod",
+    "image": "rifle-riven-mod.jpg"
+  },
+  {
+    "name": "Rifle Scavenger",
+    "image": "rifle-scavenger.jpg"
+  },
+  {
+    "name": "Rift Haven",
+    "image": "rift-haven.jpg"
+  },
+  {
+    "name": "Rift Strike",
+    "image": "rift-strike.jpg"
+  },
+  {
+    "name": "Rift Torrent",
+    "image": "rift-torrent.jpg"
+  },
+  {
+    "name": "Rime Rounds",
+    "image": "rime-rounds.jpg"
+  },
+  {
+    "name": "Rime Vault",
+    "image": "rime-vault.jpg"
+  },
+  {
+    "name": "Ripload",
+    "image": "ripload.png"
+  },
+  {
+    "name": "Ripper Rounds",
+    "image": "ripper-rounds.jpg"
+  },
+  {
+    "name": "Ris",
+    "image": "ris.png"
+  },
+  {
+    "name": "Ris Invocation",
+    "image": "ris-invocation.png"
+  },
+  {
+    "name": "Rising Blast",
+    "image": "rising-blast.jpg"
+  },
+  {
+    "name": "Rising Skill",
+    "image": "rising-skill.jpg"
+  },
+  {
+    "name": "Rising Steel",
+    "image": "rising-steel.jpg"
+  },
+  {
+    "name": "Rising Storm",
+    "image": "rising-storm.jpg"
+  },
+  {
+    "name": "Rolling Guard",
+    "image": "rolling-guard.jpg"
+  },
+  {
+    "name": "Rousing Plunder",
+    "image": "rousing-plunder.jpg"
+  },
+  {
+    "name": "Rubble Heap",
+    "image": "rubble-heap.jpg"
+  },
+  {
+    "name": "Rubedo-Lined Barrel",
+    "image": "rubedo-lined-barrel.jpg"
+  },
+  {
+    "name": "Ruinous Extension",
+    "image": "ruinous-extension.jpg"
+  },
+  {
+    "name": "Rumbled",
+    "image": "rumbled.jpg"
+  },
+  {
+    "name": "Runtime",
+    "image": "runtime.jpg"
+  },
+  {
+    "name": "Rupture",
+    "image": "rupture.jpg"
+  },
+  {
+    "name": "Rupture",
+    "image": "rupture.jpg"
+  },
+  {
+    "name": "Rupture",
+    "image": "rupture.jpg"
+  },
+  {
+    "name": "Rush",
+    "image": "rush.jpg"
+  },
+  {
+    "name": "Rush",
+    "image": "rush.jpg"
+  },
+  {
+    "name": "Rush",
+    "image": "rush.jpg"
+  },
+  {
+    "name": "Sabot Rounds",
+    "image": "sabot-rounds.jpg"
+  },
+  {
+    "name": "Sacrifice",
+    "image": "sacrifice.jpg"
+  },
+  {
+    "name": "Sacrificesetmod",
+    "image": "sacrificesetmod.png"
+  },
+  {
+    "name": "Sacrificial Pressure",
+    "image": "sacrificial-pressure.jpg"
+  },
+  {
+    "name": "Sacrificial Steel",
+    "image": "sacrificial-steel.jpg"
+  },
+  {
+    "name": "Safeguard",
+    "image": "safeguard.jpg"
+  },
+  {
+    "name": "Safeguard Switch",
+    "image": "safeguard-switch.jpg"
+  },
+  {
+    "name": "Sanctuary",
+    "image": "sanctuary.jpg"
+  },
+  {
+    "name": "Sapping Reach",
+    "image": "sapping-reach.jpg"
+  },
+  {
+    "name": "Savage Silence",
+    "image": "savage-silence.jpg"
+  },
+  {
+    "name": "Savagery",
+    "image": "savagery.jpg"
+  },
+  {
+    "name": "Savior Decoy",
+    "image": "savior-decoy.jpg"
+  },
+  {
+    "name": "Sawtooth Clip",
+    "image": "sawtooth-clip.jpg"
+  },
+  {
+    "name": "Sawtooth Clip",
+    "image": "sawtooth-clip.jpg"
+  },
+  {
+    "name": "Sawtooth Clip",
+    "image": "sawtooth-clip.jpg"
+  },
+  {
+    "name": "Saxum Carapace",
+    "image": "saxum-carapace.jpg"
+  },
+  {
+    "name": "Saxum Spittle",
+    "image": "saxum-spittle.jpg"
+  },
+  {
+    "name": "Saxum Thorax",
+    "image": "saxum-thorax.jpg"
+  },
+  {
+    "name": "Scan Matter",
+    "image": "scan-matter.jpg"
+  },
+  {
+    "name": "Scarlet Hurricane",
+    "image": "scarlet-hurricane.jpg"
+  },
+  {
+    "name": "Scattered Justice",
+    "image": "scattered-justice.jpg"
+  },
+  {
+    "name": "Scattering Inferno",
+    "image": "scattering-inferno.jpg"
+  },
+  {
+    "name": "Scavenge",
+    "image": "scavenge.jpg"
+  },
+  {
+    "name": "Scorch",
+    "image": "scorch.jpg"
+  },
+  {
+    "name": "Scourging Warheads",
+    "image": "scourging-warheads.png"
+  },
+  {
+    "name": "Searing Leap",
+    "image": "searing-leap.jpg"
+  },
+  {
+    "name": "Searing Steel",
+    "image": "searing-steel.jpg"
+  },
+  {
+    "name": "Secondary Wind",
+    "image": "secondary-wind.jpg"
+  },
+  {
+    "name": "Section Density",
+    "image": "section-density.png"
+  },
+  {
+    "name": "Security Override",
+    "image": "security-override.jpg"
+  },
+  {
+    "name": "Seeker",
+    "image": "seeker.jpg"
+  },
+  {
+    "name": "Seeker",
+    "image": "seeker.jpg"
+  },
+  {
+    "name": "Seeker",
+    "image": "seeker.jpg"
+  },
+  {
+    "name": "Seeker Volley",
+    "image": "seeker-volley.png"
+  },
+  {
+    "name": "Seeking Force",
+    "image": "seeking-force.jpg"
+  },
+  {
+    "name": "Seeking Force",
+    "image": "seeking-force.jpg"
+  },
+  {
+    "name": "Seeking Force",
+    "image": "seeking-force.jpg"
+  },
+  {
+    "name": "Seeking Fury",
+    "image": "seeking-fury.jpg"
+  },
+  {
+    "name": "Seeking Shuriken",
+    "image": "seeking-shuriken.jpg"
+  },
+  {
+    "name": "Seismic Bond",
+    "image": "seismic-bond.jpg"
+  },
+  {
+    "name": "Seismic Palm",
+    "image": "seismic-palm.jpg"
+  },
+  {
+    "name": "Seismic Wave",
+    "image": "seismic-wave.jpg"
+  },
+  {
+    "name": "Self Destruct",
+    "image": "self-destruct.jpg"
+  },
+  {
+    "name": "Sense Danger",
+    "image": "sense-danger.jpg"
+  },
+  {
+    "name": "Sentient Barrage",
+    "image": "sentient-barrage.jpg"
+  },
+  {
+    "name": "Sentient Scalpel",
+    "image": "sentient-scalpel.png"
+  },
+  {
+    "name": "Sentient Surge",
+    "image": "sentient-surge.jpg"
+  },
+  {
+    "name": "Sequence Burn",
+    "image": "sequence-burn.jpg"
+  },
+  {
+    "name": "Serrated Edges",
+    "image": "serrated-edges.jpg"
+  },
+  {
+    "name": "Serrated Rounds",
+    "image": "serrated-rounds.jpg"
+  },
+  {
+    "name": "Serration",
+    "image": "serration.jpg"
+  },
+  {
+    "name": "Serration",
+    "image": "serration.jpg"
+  },
+  {
+    "name": "Serration",
+    "image": "serration.jpg"
+  },
+  {
+    "name": "Shadow Harvest",
+    "image": "shadow-harvest.jpg"
+  },
+  {
+    "name": "Shadow Haze",
+    "image": "shadow-haze.jpg"
+  },
+  {
+    "name": "Sharpened Blade",
+    "image": "sharpened-blade.jpg"
+  },
+  {
+    "name": "Sharpened Bullets",
+    "image": "sharpened-bullets.jpg"
+  },
+  {
+    "name": "Sharpened Claws",
+    "image": "sharpened-claws.jpg"
+  },
+  {
+    "name": "Sharpshooter",
+    "image": "sharpshooter.jpg"
+  },
+  {
+    "name": "Shatter Burst",
+    "image": "shatter-burst.png"
+  },
+  {
+    "name": "Shattered Storm",
+    "image": "shattered-storm.jpg"
+  },
+  {
+    "name": "Shattering Impact",
+    "image": "shattering-impact.jpg"
+  },
+  {
+    "name": "Shattering Justice",
+    "image": "shattering-justice.jpg"
+  },
+  {
+    "name": "Shattering Storm",
+    "image": "shattering-storm.jpg"
+  },
+  {
+    "name": "Shell Compression",
+    "image": "shell-compression.jpg"
+  },
+  {
+    "name": "Shell Compression",
+    "image": "shell-compression.jpg"
+  },
+  {
+    "name": "Shell Compression",
+    "image": "shell-compression.jpg"
+  },
+  {
+    "name": "Shell Rush",
+    "image": "shell-rush.jpg"
+  },
+  {
+    "name": "Shell Shock",
+    "image": "shell-shock.jpg"
+  },
+  {
+    "name": "Shelter",
+    "image": "shelter.jpg"
+  },
+  {
+    "name": "Shepherd",
+    "image": "shepherd.jpg"
+  },
+  {
+    "name": "Shield Charger",
+    "image": "shield-charger.jpg"
+  },
+  {
+    "name": "Shield Disruption",
+    "image": "shield-disruption.jpg"
+  },
+  {
+    "name": "Shield Of Shadows",
+    "image": "shield-of-shadows.jpg"
+  },
+  {
+    "name": "Shield Overload",
+    "image": "shield-overload.jpg"
+  },
+  {
+    "name": "Shimmering Blight",
+    "image": "shimmering-blight.jpg"
+  },
+  {
+    "name": "Shivering Contagion",
+    "image": "shivering-contagion.jpg"
+  },
+  {
+    "name": "Shock Absorbers",
+    "image": "shock-absorbers.jpg"
+  },
+  {
+    "name": "Shock Absorbers",
+    "image": "shock-absorbers.jpg"
+  },
+  {
+    "name": "Shock Collar",
+    "image": "shock-collar.jpg"
+  },
+  {
+    "name": "Shock Trooper",
+    "image": "shock-trooper.jpg"
+  },
+  {
+    "name": "Shocking Speed",
+    "image": "shocking-speed.jpg"
+  },
+  {
+    "name": "Shocking Touch",
+    "image": "shocking-touch.jpg"
+  },
+  {
+    "name": "Shocking Touch",
+    "image": "shocking-touch.jpg"
+  },
+  {
+    "name": "Shocking Touch",
+    "image": "shocking-touch.jpg"
+  },
+  {
+    "name": "Shockwave Actuators",
+    "image": "shockwave-actuators.jpg"
+  },
+  {
+    "name": "Shotgun Ammo Mutation",
+    "image": "shotgun-ammo-mutation.jpg"
+  },
+  {
+    "name": "Shotgun Ammo Mutation",
+    "image": "shotgun-ammo-mutation.jpg"
+  },
+  {
+    "name": "Shotgun Amp",
+    "image": "shotgun-amp.jpg"
+  },
+  {
+    "name": "Shotgun Barrage",
+    "image": "shotgun-barrage.jpg"
+  },
+  {
+    "name": "Shotgun Barrage",
+    "image": "shotgun-barrage.jpg"
+  },
+  {
+    "name": "Shotgun Barrage",
+    "image": "shotgun-barrage.jpg"
+  },
+  {
+    "name": "Shotgun Riven Mod",
+    "image": "shotgun-riven-mod.png"
+  },
+  {
+    "name": "Shotgun Riven Mod",
+    "image": "shotgun-riven-mod.jpg"
+  },
+  {
+    "name": "Shotgun Savvy",
+    "image": "shotgun-savvy.jpg"
+  },
+  {
+    "name": "Shotgun Savvy",
+    "image": "shotgun-savvy.jpg"
+  },
+  {
+    "name": "Shotgun Savvy",
+    "image": "shotgun-savvy.jpg"
+  },
+  {
+    "name": "Shotgun Scavenger",
+    "image": "shotgun-scavenger.jpg"
+  },
+  {
+    "name": "Shrapnel Rounds",
+    "image": "shrapnel-rounds.jpg"
+  },
+  {
+    "name": "Shrapnel Shot",
+    "image": "shrapnel-shot.jpg"
+  },
+  {
+    "name": "Shred",
+    "image": "shred.jpg"
+  },
+  {
+    "name": "Shred Shot",
+    "image": "shred-shot.jpg"
+  },
+  {
+    "name": "Shredder",
+    "image": "shredder.jpg"
+  },
+  {
+    "name": "Shredder",
+    "image": "shredder.jpg"
+  },
+  {
+    "name": "Shredder",
+    "image": "shredder.jpg"
+  },
+  {
+    "name": "Signal Flare",
+    "image": "signal-flare.jpg"
+  },
+  {
+    "name": "Silent Battery",
+    "image": "silent-battery.jpg"
+  },
+  {
+    "name": "Singularity",
+    "image": "singularity.jpg"
+  },
+  {
+    "name": "Sinister Reach",
+    "image": "sinister-reach.jpg"
+  },
+  {
+    "name": "Sinking Talon",
+    "image": "sinking-talon.jpg"
+  },
+  {
+    "name": "Skull Shots",
+    "image": "skull-shots.jpg"
+  },
+  {
+    "name": "Slay Board",
+    "image": "slay-board.jpg"
+  },
+  {
+    "name": "Slicing Feathers",
+    "image": "slicing-feathers.jpg"
+  },
+  {
+    "name": "Sling Strength",
+    "image": "sling-strength.jpg"
+  },
+  {
+    "name": "Sling Stun",
+    "image": "sling-stun.jpg"
+  },
+  {
+    "name": "Slip Magazine",
+    "image": "slip-magazine.jpg"
+  },
+  {
+    "name": "Slip Magazine",
+    "image": "slip-magazine.jpg"
+  },
+  {
+    "name": "Sly Devolution",
+    "image": "sly-devolution.jpg"
+  },
+  {
+    "name": "Smite Corpus",
+    "image": "smite-corpus.jpg"
+  },
+  {
+    "name": "Smite Corpus",
+    "image": "smite-corpus.jpg"
+  },
+  {
+    "name": "Smite Corrupted",
+    "image": "smite-corrupted.jpg"
+  },
+  {
+    "name": "Smite Grineer",
+    "image": "smite-grineer.jpg"
+  },
+  {
+    "name": "Smite Grineer",
+    "image": "smite-grineer.jpg"
+  },
+  {
+    "name": "Smite Infested",
+    "image": "smite-infested.jpg"
+  },
+  {
+    "name": "Smite Infested",
+    "image": "smite-infested.jpg"
+  },
+  {
+    "name": "Smite Infusion",
+    "image": "smite-infusion.jpg"
+  },
+  {
+    "name": "Smite The Murmur",
+    "image": "smite-the-murmur.jpg"
+  },
+  {
+    "name": "Smoke Shadow",
+    "image": "smoke-shadow.jpg"
+  },
+  {
+    "name": "Snap Shot",
+    "image": "snap-shot.jpg"
+  },
+  {
+    "name": "Sniper Ammo Mutation",
+    "image": "sniper-ammo-mutation.jpg"
+  },
+  {
+    "name": "Sniper Ammo Mutation",
+    "image": "sniper-ammo-mutation.jpg"
+  },
+  {
+    "name": "Sniper Scavenger",
+    "image": "sniper-scavenger.jpg"
+  },
+  {
+    "name": "Soaring Strike",
+    "image": "soaring-strike.jpg"
+  },
+  {
+    "name": "Soaring Truth",
+    "image": "soaring-truth.jpg"
+  },
+  {
+    "name": "Soft Hands",
+    "image": "soft-hands.jpg"
+  },
+  {
+    "name": "Sonic Boost",
+    "image": "sonic-boost.jpg"
+  },
+  {
+    "name": "Sonic Dash",
+    "image": "sonic-dash.jpg"
+  },
+  {
+    "name": "Sonic Fracture",
+    "image": "sonic-fracture.jpg"
+  },
+  {
+    "name": "Soul Survivor",
+    "image": "soul-survivor.jpg"
+  },
+  {
+    "name": "Sovereign Outcast",
+    "image": "sovereign-outcast.jpg"
+  },
+  {
+    "name": "Spare Parts",
+    "image": "spare-parts.jpg"
+  },
+  {
+    "name": "Spectrosiphon",
+    "image": "spectrosiphon.jpg"
+  },
+  {
+    "name": "Speed Drift",
+    "image": "speed-drift.jpg"
+  },
+  {
+    "name": "Speed Trigger",
+    "image": "speed-trigger.jpg"
+  },
+  {
+    "name": "Speed Trigger",
+    "image": "speed-trigger.jpg"
+  },
+  {
+    "name": "Speed Trigger",
+    "image": "speed-trigger.jpg"
+  },
+  {
+    "name": "Spellbound Harvest",
+    "image": "spellbound-harvest.jpg"
+  },
+  {
+    "name": "Spidersetmod",
+    "image": "spidersetmod.png"
+  },
+  {
+    "name": "Spinning Needle",
+    "image": "spinning-needle.jpg"
+  },
+  {
+    "name": "Split Chamber",
+    "image": "split-chamber.jpg"
+  },
+  {
+    "name": "Split Chamber",
+    "image": "split-chamber.jpg"
+  },
+  {
+    "name": "Split Chamber",
+    "image": "split-chamber.jpg"
+  },
+  {
+    "name": "Split Flights",
+    "image": "split-flights.jpg"
+  },
+  {
+    "name": "Spoiled Strike",
+    "image": "spoiled-strike.jpg"
+  },
+  {
+    "name": "Spring-Loaded Blade",
+    "image": "spring-loaded-blade.jpg"
+  },
+  {
+    "name": "Spring-Loaded Broadhead",
+    "image": "spring-loaded-broadhead.jpg"
+  },
+  {
+    "name": "Spring-Loaded Chamber",
+    "image": "spring-loaded-chamber.jpg"
+  },
+  {
+    "name": "Sprint Boost",
+    "image": "sprint-boost.jpg"
+  },
+  {
+    "name": "Spry Sights",
+    "image": "spry-sights.jpg"
+  },
+  {
+    "name": "Squad Regen",
+    "image": "squad-regen.jpg"
+  },
+  {
+    "name": "Squad Renew",
+    "image": "squad-renew.png"
+  },
+  {
+    "name": "Stabilizer",
+    "image": "stabilizer.jpg"
+  },
+  {
+    "name": "Stabilizer",
+    "image": "stabilizer.jpg"
+  },
+  {
+    "name": "Stabilizer",
+    "image": "stabilizer.jpg"
+  },
+  {
+    "name": "Staggering Shield",
+    "image": "staggering-shield.jpg"
+  },
+  {
+    "name": "Stalk",
+    "image": "stalk.jpg"
+  },
+  {
+    "name": "Stalking Fan",
+    "image": "stalking-fan.jpg"
+  },
+  {
+    "name": "Stand Ground",
+    "image": "stand-ground.jpg"
+  },
+  {
+    "name": "Stand United",
+    "image": "stand-united.jpg"
+  },
+  {
+    "name": "Star Divide",
+    "image": "star-divide.jpg"
+  },
+  {
+    "name": "Stasis Field",
+    "image": "stasis-field.jpg"
+  },
+  {
+    "name": "Static Alacrity",
+    "image": "static-alacrity.jpg"
+  },
+  {
+    "name": "Static Discharge",
+    "image": "static-discharge.jpg"
+  },
+  {
+    "name": "Static Purge",
+    "image": "static-purge.jpg"
+  },
+  {
+    "name": "Steady Hands",
+    "image": "steady-hands.jpg"
+  },
+  {
+    "name": "Steady Hands",
+    "image": "steady-hands.jpg"
+  },
+  {
+    "name": "Steady Hands",
+    "image": "steady-hands.jpg"
+  },
+  {
+    "name": "Stealth Drift",
+    "image": "stealth-drift.jpg"
+  },
+  {
+    "name": "Steel Charge",
+    "image": "steel-charge.jpg"
+  },
+  {
+    "name": "Steel Fiber",
+    "image": "steel-fiber.jpg"
+  },
+  {
+    "name": "Steel Fiber",
+    "image": "steel-fiber.jpg"
+  },
+  {
+    "name": "Steel Fiber",
+    "image": "steel-fiber.jpg"
+  },
+  {
+    "name": "Stinging Thorn",
+    "image": "stinging-thorn.jpg"
+  },
+  {
+    "name": "Stinging Truth",
+    "image": "stinging-truth.jpg"
+  },
+  {
+    "name": "Stockpiled Blight",
+    "image": "stockpiled-blight.jpg"
+  },
+  {
+    "name": "Stone Skin",
+    "image": "stone-skin.jpg"
+  },
+  {
+    "name": "Stormbringer",
+    "image": "stormbringer.jpg"
+  },
+  {
+    "name": "Stormbringer",
+    "image": "stormbringer.jpg"
+  },
+  {
+    "name": "Stormbringer",
+    "image": "stormbringer.jpg"
+  },
+  {
+    "name": "Strafing Slide",
+    "image": "strafing-slide.jpg"
+  },
+  {
+    "name": "Strain Consume",
+    "image": "strain-consume.jpg"
+  },
+  {
+    "name": "Strain Eruption",
+    "image": "strain-eruption.jpg"
+  },
+  {
+    "name": "Strain Fever",
+    "image": "strain-fever.jpg"
+  },
+  {
+    "name": "Strain Infection",
+    "image": "strain-infection.jpg"
+  },
+  {
+    "name": "Strainsetmod",
+    "image": "strainsetmod.png"
+  },
+  {
+    "name": "Strategic Pursuit",
+    "image": "strategic-pursuit.jpg"
+  },
+  {
+    "name": "Streamline",
+    "image": "streamline.jpg"
+  },
+  {
+    "name": "Streamline",
+    "image": "streamline.jpg"
+  },
+  {
+    "name": "Streamlined Form",
+    "image": "streamlined-form.jpg"
+  },
+  {
+    "name": "Stretch",
+    "image": "stretch.jpg"
+  },
+  {
+    "name": "Stretch",
+    "image": "stretch.jpg"
+  },
+  {
+    "name": "Stretch",
+    "image": "stretch.jpg"
+  },
+  {
+    "name": "Stunning Speed",
+    "image": "stunning-speed.jpg"
+  },
+  {
+    "name": "Sudden Impact",
+    "image": "sudden-impact.jpg"
+  },
+  {
+    "name": "Sudden Justice",
+    "image": "sudden-justice.jpg"
+  },
+  {
+    "name": "Sundering Dash",
+    "image": "sundering-dash.jpg"
+  },
+  {
+    "name": "Sundering Strike",
+    "image": "sundering-strike.jpg"
+  },
+  {
+    "name": "Sundering Strike",
+    "image": "sundering-strike.jpg"
+  },
+  {
+    "name": "Sundering Strike",
+    "image": "sundering-strike.jpg"
+  },
+  {
+    "name": "Sundering Weave",
+    "image": "sundering-weave.jpg"
+  },
+  {
+    "name": "Superior Defenses",
+    "image": "superior-defenses.jpg"
+  },
+  {
+    "name": "Suppress",
+    "image": "suppress.jpg"
+  },
+  {
+    "name": "Sure Footed",
+    "image": "sure-footed.jpg"
+  },
+  {
+    "name": "Sure Footed",
+    "image": "sure-footed.jpg"
+  },
+  {
+    "name": "Sure Shot",
+    "image": "sure-shot.jpg"
+  },
+  {
+    "name": "Sure Shot",
+    "image": "sure-shot.jpg"
+  },
+  {
+    "name": "Sure Shot",
+    "image": "sure-shot.jpg"
+  },
+  {
+    "name": "Sure Shot",
+    "image": "sure-shot.jpg"
+  },
+  {
+    "name": "Surging Blades",
+    "image": "surging-blades.jpg"
+  },
+  {
+    "name": "Surging Dash",
+    "image": "surging-dash.jpg"
+  },
+  {
+    "name": "Surging Dash",
+    "image": "surging-dash.jpg"
+  },
+  {
+    "name": "Surplus Diverters",
+    "image": "surplus-diverters.jpg"
+  },
+  {
+    "name": "Survival Instinct",
+    "image": "survival-instinct.jpg"
+  },
+  {
+    "name": "Sweeping Serration",
+    "image": "sweeping-serration.jpg"
+  },
+  {
+    "name": "Swift Bite",
+    "image": "swift-bite.jpg"
+  },
+  {
+    "name": "Swift Mercy",
+    "image": "swift-mercy.jpg"
+  },
+  {
+    "name": "Swift Momentum",
+    "image": "swift-momentum.jpg"
+  },
+  {
+    "name": "Swing Line",
+    "image": "swing-line.jpg"
+  },
+  {
+    "name": "Swipe",
+    "image": "swipe.jpg"
+  },
+  {
+    "name": "Swirling Tiger",
+    "image": "swirling-tiger.jpg"
+  },
+  {
+    "name": "Swooping Falcon",
+    "image": "swooping-falcon.jpg"
+  },
+  {
+    "name": "Sword Alone",
+    "image": "sword-alone.jpg"
+  },
+  {
+    "name": "Synergized Prospectus",
+    "image": "synergized-prospectus.jpg"
+  },
+  {
+    "name": "Synth Charge",
+    "image": "synth-charge.jpg"
+  },
+  {
+    "name": "Synth Deconstruct",
+    "image": "synth-deconstruct.jpg"
+  },
+  {
+    "name": "Synth Fiber",
+    "image": "synth-fiber.jpg"
+  },
+  {
+    "name": "Synth Reflex",
+    "image": "synth-reflex.jpg"
+  },
+  {
+    "name": "Synthsetmod",
+    "image": "synthsetmod.png"
+  },
+  {
+    "name": "System Reroute",
+    "image": "system-reroute.jpg"
+  },
+  {
+    "name": "Tactical Pump",
+    "image": "tactical-pump.jpg"
+  },
+  {
+    "name": "Tactical Pump",
+    "image": "tactical-pump.jpg"
+  },
+  {
+    "name": "Tactical Reload",
+    "image": "tactical-reload.jpg"
+  },
+  {
+    "name": "Tactical Retreat",
+    "image": "tactical-retreat.jpg"
+  },
+  {
+    "name": "Tainted Clip",
+    "image": "tainted-clip.jpg"
+  },
+  {
+    "name": "Tainted Hydra",
+    "image": "tainted-hydra.jpg"
+  },
+  {
+    "name": "Tainted Mag",
+    "image": "tainted-mag.jpg"
+  },
+  {
+    "name": "Tainted Shell",
+    "image": "tainted-shell.jpg"
+  },
+  {
+    "name": "Tandem Bond",
+    "image": "tandem-bond.jpg"
+  },
+  {
+    "name": "Target Acquired",
+    "image": "target-acquired.jpg"
+  },
+  {
+    "name": "Target Cracker",
+    "image": "target-cracker.jpg"
+  },
+  {
+    "name": "Target Cracker",
+    "image": "target-cracker.jpg"
+  },
+  {
+    "name": "Target Cracker",
+    "image": "target-cracker.jpg"
+  },
+  {
+    "name": "Target Fixation",
+    "image": "target-fixation.jpg"
+  },
+  {
+    "name": "Targeting Receptor",
+    "image": "targeting-receptor.jpg"
+  },
+  {
+    "name": "Targeting Subsystem",
+    "image": "targeting-subsystem.jpg"
+  },
+  {
+    "name": "Tear Gas",
+    "image": "tear-gas.jpg"
+  },
+  {
+    "name": "Tectonic Fracture",
+    "image": "tectonic-fracture.jpg"
+  },
+  {
+    "name": "Teeming Virulence",
+    "image": "teeming-virulence.jpg"
+  },
+  {
+    "name": "Tek Assault",
+    "image": "tek-assault.jpg"
+  },
+  {
+    "name": "Tek Collateral",
+    "image": "tek-collateral.jpg"
+  },
+  {
+    "name": "Tek Enhance",
+    "image": "tek-enhance.jpg"
+  },
+  {
+    "name": "Tek Gravity",
+    "image": "tek-gravity.jpg"
+  },
+  {
+    "name": "Teksetmod",
+    "image": "teksetmod.png"
+  },
+  {
+    "name": "Tempered Blade",
+    "image": "tempered-blade.jpg"
+  },
+  {
+    "name": "Tempered Bound",
+    "image": "tempered-bound.jpg"
+  },
+  {
+    "name": "Tempo Royale",
+    "image": "tempo-royale.jpg"
+  },
+  {
+    "name": "Temporal Drag",
+    "image": "temporal-drag.jpg"
+  },
+  {
+    "name": "Temporal Erosion",
+    "image": "temporal-erosion.jpg"
+  },
+  {
+    "name": "Temporal Shot",
+    "image": "temporal-shot.jpg"
+  },
+  {
+    "name": "Tenacious Bond",
+    "image": "tenacious-bond.jpg"
+  },
+  {
+    "name": "Terminal Velocity",
+    "image": "terminal-velocity.jpg"
+  },
+  {
+    "name": "Territorial Aggression",
+    "image": "territorial-aggression.jpg"
+  },
+  {
+    "name": "Tesla Bank",
+    "image": "tesla-bank.jpg"
+  },
+  {
+    "name": "Tether",
+    "image": "tether.png"
+  },
+  {
+    "name": "Tether Grenades",
+    "image": "tether-grenades.jpg"
+  },
+  {
+    "name": "The Relentless Lost",
+    "image": "the-relentless-lost.jpg"
+  },
+  {
+    "name": "Thermagnetic Shells",
+    "image": "thermagnetic-shells.jpg"
+  },
+  {
+    "name": "Thermal Transfer",
+    "image": "thermal-transfer.jpg"
+  },
+  {
+    "name": "Thermite Rounds",
+    "image": "thermite-rounds.jpg"
+  },
+  {
+    "name": "Thief's Wit",
+    "image": "thief's-wit.jpg"
+  },
+  {
+    "name": "Thief's Wit",
+    "image": "thief's-wit.jpg"
+  },
+  {
+    "name": "Thief's Wit",
+    "image": "thief's-wit.jpg"
+  },
+  {
+    "name": "Thrall Pact",
+    "image": "thrall-pact.jpg"
+  },
+  {
+    "name": "Thrash Landing",
+    "image": "thrash-landing.jpg"
+  },
+  {
+    "name": "Thumper",
+    "image": "thumper.jpg"
+  },
+  {
+    "name": "Thunderbolt",
+    "image": "thunderbolt.jpg"
+  },
+  {
+    "name": "Thunderbolt",
+    "image": "thunderbolt.jpg"
+  },
+  {
+    "name": "Thunderbolt",
+    "image": "thunderbolt.jpg"
+  },
+  {
+    "name": "Thundermiter",
+    "image": "thundermiter.jpg"
+  },
+  {
+    "name": "Tidal Impunity",
+    "image": "tidal-impunity.jpg"
+  },
+  {
+    "name": "Titanic Rumbler",
+    "image": "titanic-rumbler.jpg"
+  },
+  {
+    "name": "Total Eclipse",
+    "image": "total-eclipse.jpg"
+  },
+  {
+    "name": "Toxic Barrage",
+    "image": "toxic-barrage.jpg"
+  },
+  {
+    "name": "Toxic Blight",
+    "image": "toxic-blight.jpg"
+  },
+  {
+    "name": "Toxic Flight",
+    "image": "toxic-flight.jpg"
+  },
+  {
+    "name": "Toxic Sequence",
+    "image": "toxic-sequence.jpg"
+  },
+  {
+    "name": "Toxin Resistance",
+    "image": "toxin-resistance.jpg"
+  },
+  {
+    "name": "Tractor Beam",
+    "image": "tractor-beam.jpg"
+  },
+  {
+    "name": "Trail Blazer",
+    "image": "trail-blazer.jpg"
+  },
+  {
+    "name": "Trample",
+    "image": "trample.jpg"
+  },
+  {
+    "name": "Tranquil Cleave",
+    "image": "tranquil-cleave.jpg"
+  },
+  {
+    "name": "Transfusion",
+    "image": "transfusion.jpg"
+  },
+  {
+    "name": "Transient Fortitude",
+    "image": "transient-fortitude.jpg"
+  },
+  {
+    "name": "Transistor Shield",
+    "image": "transistor-shield.jpg"
+  },
+  {
+    "name": "Transmute Core",
+    "image": "transmute-core.jpg"
+  },
+  {
+    "name": "Tribunal",
+    "image": "tribunal.jpg"
+  },
+  {
+    "name": "Trick Mag",
+    "image": "trick-mag.jpg"
+  },
+  {
+    "name": "Trick Mag",
+    "image": "trick-mag.jpg"
+  },
+  {
+    "name": "Trick Mag",
+    "image": "trick-mag.jpg"
+  },
+  {
+    "name": "Triple Tap",
+    "image": "triple-tap.jpg"
+  },
+  {
+    "name": "True Punishment",
+    "image": "true-punishment.jpg"
+  },
+  {
+    "name": "True Steel",
+    "image": "true-steel.jpg"
+  },
+  {
+    "name": "True Steel",
+    "image": "true-steel.jpg"
+  },
+  {
+    "name": "True Steel",
+    "image": "true-steel.jpg"
+  },
+  {
+    "name": "Turret Velocity",
+    "image": "turret-velocity.png"
+  },
+  {
+    "name": "Twirling Spire",
+    "image": "twirling-spire.jpg"
+  },
+  {
+    "name": "Twitch",
+    "image": "twitch.jpg"
+  },
+  {
+    "name": "Ulfrun's Endurance",
+    "image": "ulfrun's-endurance.jpg"
+  },
+  {
+    "name": "Umbral Fiber",
+    "image": "umbral-fiber.jpg"
+  },
+  {
+    "name": "Umbral Intensify",
+    "image": "umbral-intensify.jpg"
+  },
+  {
+    "name": "Umbral Vitality",
+    "image": "umbral-vitality.jpg"
+  },
+  {
+    "name": "Umbrasetmod",
+    "image": "umbrasetmod.png"
+  },
+  {
+    "name": "Unairu Wisp",
+    "image": "unairu-wisp.jpg"
+  },
+  {
+    "name": "Unairu Wisp",
+    "image": "unairu-wisp.jpg"
+  },
+  {
+    "name": "Undying Will",
+    "image": "undying-will.jpg"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-engineering-basefrostreductionaura.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-engineering-basehealthboost.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-engineering-baseincendiaryreductionaura.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-engineering-baseionicreductionaura.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-engineering-basemaxarmor.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-engineering-basemaxshield.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-engineering-baseshieldrecharge.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-engineering-baseshieldredirectionmod.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-basedesperatemeasures.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-basegrineerfactiondamage.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-basegunnerweaponcritchance.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-basegunnerweaponcritdamage.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-basegunnerweapondamage.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-basegunnerweaponheat.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-basemaxordnancemunitions.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-baseordnancedamage.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-baseprotectiveshots.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-basereducearmorweapondamage.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-basereducedordnancereload.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-basesuperweapondamage.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-gunnery-baseweaponfluxboost.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-piloting-basearchwingdamageaura.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-piloting-basearchwingshieldaura.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-piloting-basearchwingspeedaura.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-piloting-baseboostspeed.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-piloting-basecrewshipspeeddamageaura.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-piloting-basedodge.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-piloting-baseemppowercap.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-piloting-baseshieldboost.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-upgrades-mods-railjack-piloting-basespeed.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-weapons-crewship-crewshipinnatedamagerandommod.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-weapons-crewship-crewshipinnatefireraterandommod.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-weapons-crewship-laser-beam-railjackbeaminnatedamagerandommod.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-weapons-crewship-laser-blaster-blasterinnatedamagerandommod.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-weapons-crewship-laser-blaster-blastershotguninnatedamagerandommod.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-weapons-crewship-laser-pulselaser-pulselaserinnatedamagerandommod.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-weapons-crewship-massdriver-autocannon-autocannoninnatedamagerandommod.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-weapons-crewship-shrapnelshotgun-shrapnelshotguninnatedamagerandommod.png"
+  },
+  {
+    "name": "Unfused Artifact",
+    "image": "unfused-artifact-lotus-weapons-grineer-kuvalich-upgrades-innatedamagerandommod.png"
+  },
+  {
+    "name": "Unleashed",
+    "image": "unleashed.jpg"
+  },
+  {
+    "name": "Untraceable",
+    "image": "untraceable.jpg"
+  },
+  {
+    "name": "Vacuum",
+    "image": "vacuum.jpg"
+  },
+  {
+    "name": "Vampire Leech",
+    "image": "vampire-leech.jpg"
+  },
+  {
+    "name": "Vampiric Grasp",
+    "image": "vampiric-grasp.jpg"
+  },
+  {
+    "name": "Vanquished Prey",
+    "image": "vanquished-prey.jpg"
+  },
+  {
+    "name": "Vapor Trail",
+    "image": "vapor-trail.jpg"
+  },
+  {
+    "name": "Vaporize",
+    "image": "vaporize.jpg"
+  },
+  {
+    "name": "Vazarin Transmute Core",
+    "image": "vazarin-transmute-core.jpg"
+  },
+  {
+    "name": "Venari Bodyguard",
+    "image": "venari-bodyguard.jpg"
+  },
+  {
+    "name": "Venerdo Hoverdrive",
+    "image": "venerdo-hoverdrive.jpg"
+  },
+  {
+    "name": "Vengeance",
+    "image": "vengeance.jpg"
+  },
+  {
+    "name": "Vengeful Revenant",
+    "image": "vengeful-revenant.jpg"
+  },
+  {
+    "name": "Venom Dose",
+    "image": "venom-dose.jpg"
+  },
+  {
+    "name": "Venom Teeth",
+    "image": "venom-teeth.jpg"
+  },
+  {
+    "name": "Venomous Clip",
+    "image": "venomous-clip.jpg"
+  },
+  {
+    "name": "Venomous Rise",
+    "image": "venomous-rise.jpg"
+  },
+  {
+    "name": "Vermillion Storm",
+    "image": "vermillion-storm.jpg"
+  },
+  {
+    "name": "Vexing Retaliation",
+    "image": "vexing-retaliation.jpg"
+  },
+  {
+    "name": "Vicious Approach",
+    "image": "vicious-approach.jpg"
+  },
+  {
+    "name": "Vicious Bond",
+    "image": "vicious-bond.jpg"
+  },
+  {
+    "name": "Vicious Frost",
+    "image": "vicious-frost.jpg"
+  },
+  {
+    "name": "Vicious Spread",
+    "image": "vicious-spread.jpg"
+  },
+  {
+    "name": "Vigilante Armaments",
+    "image": "vigilante-armaments.jpg"
+  },
+  {
+    "name": "Vigilante Fervor",
+    "image": "vigilante-fervor.jpg"
+  },
+  {
+    "name": "Vigilante Offense",
+    "image": "vigilante-offense.jpg"
+  },
+  {
+    "name": "Vigilante Pursuit",
+    "image": "vigilante-pursuit.jpg"
+  },
+  {
+    "name": "Vigilante Supplies",
+    "image": "vigilante-supplies.jpg"
+  },
+  {
+    "name": "Vigilante Vigor",
+    "image": "vigilante-vigor.jpg"
+  },
+  {
+    "name": "Vigilantesetmod",
+    "image": "vigilantesetmod.png"
+  },
+  {
+    "name": "Vigor",
+    "image": "vigor.jpg"
+  },
+  {
+    "name": "Vigorous Swap",
+    "image": "vigorous-swap.jpg"
+  },
+  {
+    "name": "Vile Acceleration",
+    "image": "vile-acceleration.jpg"
+  },
+  {
+    "name": "Vile Discharge",
+    "image": "vile-discharge.jpg"
+  },
+  {
+    "name": "Vile Precision",
+    "image": "vile-precision.jpg"
+  },
+  {
+    "name": "Viral Quills",
+    "image": "viral-quills.jpg"
+  },
+  {
+    "name": "Viral Tempest",
+    "image": "viral-tempest.jpg"
+  },
+  {
+    "name": "Virulent Scourge",
+    "image": "virulent-scourge.jpg"
+  },
+  {
+    "name": "Vital Sense",
+    "image": "vital-sense.jpg"
+  },
+  {
+    "name": "Vital Sense",
+    "image": "vital-sense.jpg"
+  },
+  {
+    "name": "Vital Sense",
+    "image": "vital-sense.jpg"
+  },
+  {
+    "name": "Vital Systems Bypass",
+    "image": "vital-systems-bypass.jpg"
+  },
+  {
+    "name": "Vitality",
+    "image": "vitality.jpg"
+  },
+  {
+    "name": "Vitality",
+    "image": "vitality.jpg"
+  },
+  {
+    "name": "Vitality",
+    "image": "vitality.jpg"
+  },
+  {
+    "name": "Void Aegis",
+    "image": "void-aegis.jpg"
+  },
+  {
+    "name": "Void Chrysalis",
+    "image": "void-chrysalis.jpg"
+  },
+  {
+    "name": "Void Cloak",
+    "image": "void-cloak.png"
+  },
+  {
+    "name": "Void Flow",
+    "image": "void-flow.jpg"
+  },
+  {
+    "name": "Void Fuel",
+    "image": "void-fuel.jpg"
+  },
+  {
+    "name": "Void Hole",
+    "image": "void-hole.png"
+  },
+  {
+    "name": "Void Hunter",
+    "image": "void-hunter.jpg"
+  },
+  {
+    "name": "Void Levitation",
+    "image": "void-levitation.jpg"
+  },
+  {
+    "name": "Void Radiance",
+    "image": "void-radiance.jpg"
+  },
+  {
+    "name": "Void Regen",
+    "image": "void-regen.jpg"
+  },
+  {
+    "name": "Void Shadow",
+    "image": "void-shadow.jpg"
+  },
+  {
+    "name": "Void Singularity",
+    "image": "void-singularity.jpg"
+  },
+  {
+    "name": "Void Siphon",
+    "image": "void-siphon.jpg"
+  },
+  {
+    "name": "Void Snare",
+    "image": "void-snare.jpg"
+  },
+  {
+    "name": "Void Spines",
+    "image": "void-spines.jpg"
+  },
+  {
+    "name": "Void Stalker",
+    "image": "void-stalker.jpg"
+  },
+  {
+    "name": "Void Static",
+    "image": "void-static.jpg"
+  },
+  {
+    "name": "Void Strike",
+    "image": "void-strike.jpg"
+  },
+  {
+    "name": "Volatile Parasite",
+    "image": "volatile-parasite.jpg"
+  },
+  {
+    "name": "Volatile Quick Return",
+    "image": "volatile-quick-return.jpg"
+  },
+  {
+    "name": "Volatile Rebound",
+    "image": "volatile-rebound.jpg"
+  },
+  {
+    "name": "Volatile Variant",
+    "image": "volatile-variant.jpg"
+  },
+  {
+    "name": "Volcanic Edge",
+    "image": "volcanic-edge.jpg"
+  },
+  {
+    "name": "Voltage Sequence",
+    "image": "voltage-sequence.jpg"
+  },
+  {
+    "name": "Voltaic Blast",
+    "image": "voltaic-blast.jpg"
+  },
+  {
+    "name": "Voltaic Lance",
+    "image": "voltaic-lance.jpg"
+  },
+  {
+    "name": "Voltaic Strike",
+    "image": "voltaic-strike.jpg"
+  },
+  {
+    "name": "Vome",
+    "image": "vome.png"
+  },
+  {
+    "name": "Vome Invocation",
+    "image": "vome-invocation.png"
+  },
+  {
+    "name": "Votive Onslaught",
+    "image": "votive-onslaught.jpg"
+  },
+  {
+    "name": "Vulcan Blitz",
+    "image": "vulcan-blitz.jpg"
+  },
+  {
+    "name": "Vulpine Mask",
+    "image": "vulpine-mask.jpg"
+  },
+  {
+    "name": "Ward Recovery",
+    "image": "ward-recovery.jpg"
+  },
+  {
+    "name": "Warding Thurible",
+    "image": "warding-thurible.jpg"
+  },
+  {
+    "name": "Warhead",
+    "image": "warhead.png"
+  },
+  {
+    "name": "Warm Coat",
+    "image": "warm-coat.jpg"
+  },
+  {
+    "name": "Warm Coat",
+    "image": "warm-coat.jpg"
+  },
+  {
+    "name": "Warm Coat",
+    "image": "warm-coat.jpg"
+  },
+  {
+    "name": "Waveband Disruptor",
+    "image": "waveband-disruptor.png"
+  },
+  {
+    "name": "Weeping Wounds",
+    "image": "weeping-wounds.jpg"
+  },
+  {
+    "name": "Wellspring",
+    "image": "wellspring.jpg"
+  },
+  {
+    "name": "Whiplash Mine",
+    "image": "whiplash-mine.jpg"
+  },
+  {
+    "name": "Whirlwind",
+    "image": "whirlwind.jpg"
+  },
+  {
+    "name": "Whirlwind",
+    "image": "whirlwind.jpg"
+  },
+  {
+    "name": "Whirlwind",
+    "image": "whirlwind.jpg"
+  },
+  {
+    "name": "Wild Frenzy",
+    "image": "wild-frenzy.jpg"
+  },
+  {
+    "name": "Wildfire",
+    "image": "wildfire.jpg"
+  },
+  {
+    "name": "Winds Of Purity",
+    "image": "winds-of-purity.jpg"
+  },
+  {
+    "name": "Wise Razor",
+    "image": "wise-razor.jpg"
+  },
+  {
+    "name": "Worm's Torment",
+    "image": "worm's-torment.png"
+  },
+  {
+    "name": "Xata",
+    "image": "xata.png"
+  },
+  {
+    "name": "Xata Invocation",
+    "image": "xata-invocation.png"
+  },
+  {
+    "name": "Zaw Riven Mod",
+    "image": "zaw-riven-mod.png"
+  },
+  {
+    "name": "Zaw Riven Mod",
+    "image": "zaw-riven-mod.jpg"
+  },
+  {
+    "name": "Zazvat-Kar",
+    "image": "zazvat-kar.jpg"
+  },
+  {
+    "name": "Zodiac Shred",
+    "image": "zodiac-shred.jpg"
+  }
+]
