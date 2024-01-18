@@ -1,974 +1,1217 @@
 [
   {
     "name": "Ack & Brunt",
+    "market_name": "ack_&_brunt",
     "image": "ack-&-brunt.png"
   },
   {
     "name": "Amphis",
+    "market_name": "amphis",
     "image": "amphis.png"
   },
   {
     "name": "Anku",
+    "market_name": "anku",
     "image": "anku.png"
   },
   {
     "name": "Ankyros",
+    "market_name": "ankyros",
     "image": "ankyros.png"
   },
   {
     "name": "Ankyros Prime",
+    "market_name": "ankyros_prime",
     "image": "ankyros-prime.png"
   },
   {
     "name": "Arca Titron",
+    "market_name": "arca_titron",
     "image": "arca-titron.png"
   },
   {
     "name": "Argo & Vel",
+    "market_name": "argo_&_vel",
     "image": "argo-&-vel.png"
   },
   {
     "name": "Arum Spinosa",
+    "market_name": "arum_spinosa",
     "image": "arum-spinosa.png"
   },
   {
     "name": "Atterax",
+    "market_name": "atterax",
     "image": "atterax.png"
   },
   {
     "name": "Azothane",
+    "market_name": "azothane",
     "image": "azothane.png"
   },
   {
     "name": "Balla",
+    "market_name": "balla",
     "image": "balla.png"
   },
   {
     "name": "Balla",
+    "market_name": "balla",
     "image": "balla.png"
   },
   {
     "name": "Bo",
+    "market_name": "bo",
     "image": "bo.png"
   },
   {
     "name": "Bo Prime",
+    "market_name": "bo_prime",
     "image": "bo-prime.png"
   },
   {
     "name": "Boltace",
+    "market_name": "boltace",
     "image": "boltace.png"
   },
   {
     "name": "Broken Scepter",
+    "market_name": "broken_scepter",
     "image": "broken-scepter.png"
   },
   {
     "name": "Broken War",
+    "market_name": "broken_war",
     "image": "broken-war.png"
   },
   {
     "name": "Cadus",
+    "market_name": "cadus",
     "image": "cadus.png"
   },
   {
     "name": "Cassowar",
+    "market_name": "cassowar",
     "image": "cassowar.png"
   },
   {
     "name": "Caustacyst",
+    "market_name": "caustacyst",
     "image": "caustacyst.png"
   },
   {
     "name": "Ceramic Dagger",
+    "market_name": "ceramic_dagger",
     "image": "ceramic-dagger.png"
   },
   {
     "name": "Cerata",
+    "market_name": "cerata",
     "image": "cerata.png"
   },
   {
     "name": "Ceti Lacera",
+    "market_name": "ceti_lacera",
     "image": "ceti-lacera.png"
   },
   {
     "name": "Cobra & Crane",
+    "market_name": "cobra_&_crane",
     "image": "cobra-&-crane.png"
   },
   {
     "name": "Cobra & Crane Prime",
+    "market_name": "cobra_&_crane_prime",
     "image": "cobra-&-crane-prime.png"
   },
   {
     "name": "Cronus",
+    "market_name": "cronus",
     "image": "cronus.png"
   },
   {
     "name": "Cyath",
+    "market_name": "cyath",
     "image": "cyath.png"
   },
   {
     "name": "Cyath",
+    "market_name": "cyath",
     "image": "cyath.png"
   },
   {
     "name": "Dakra Prime",
+    "market_name": "dakra_prime",
     "image": "dakra-prime.png"
   },
   {
     "name": "Dark Dagger",
+    "market_name": "dark_dagger",
     "image": "dark-dagger.png"
   },
   {
     "name": "Dark Split-Sword",
+    "market_name": "dark_split-sword",
     "image": "dark-split-sword.png"
   },
   {
     "name": "Dark Sword",
+    "market_name": "dark_sword",
     "image": "dark-sword.png"
   },
   {
     "name": "Dehtat",
+    "market_name": "dehtat",
     "image": "dehtat.png"
   },
   {
     "name": "Dehtat",
+    "market_name": "dehtat",
     "image": "dehtat.png"
   },
   {
     "name": "Destreza",
+    "market_name": "destreza",
     "image": "destreza.png"
   },
   {
     "name": "Destreza Prime",
+    "market_name": "destreza_prime",
     "image": "destreza-prime.png"
   },
   {
     "name": "Dex Dakra",
+    "market_name": "dex_dakra",
     "image": "dex-dakra.png"
   },
   {
     "name": "Dokrahm",
+    "market_name": "dokrahm",
     "image": "dokrahm.png"
   },
   {
     "name": "Dorrclave",
+    "market_name": "dorrclave",
     "image": "dorrclave.png"
   },
   {
     "name": "Dragon Nikana",
+    "market_name": "dragon_nikana",
     "image": "dragon-nikana.png"
   },
   {
     "name": "Dual Cleavers",
+    "market_name": "dual_cleavers",
     "image": "dual-cleavers.png"
   },
   {
     "name": "Dual Ether",
+    "market_name": "dual_ether",
     "image": "dual-ether.png"
   },
   {
     "name": "Dual Heat Swords",
+    "market_name": "dual_heat_swords",
     "image": "dual-heat-swords.png"
   },
   {
     "name": "Dual Ichor",
+    "market_name": "dual_ichor",
     "image": "dual-ichor.png"
   },
   {
     "name": "Dual Kamas",
+    "market_name": "dual_kamas",
     "image": "dual-kamas.png"
   },
   {
     "name": "Dual Kamas Prime",
+    "market_name": "dual_kamas_prime",
     "image": "dual-kamas-prime.png"
   },
   {
     "name": "Dual Keres",
+    "market_name": "dual_keres",
     "image": "dual-keres.png"
   },
   {
     "name": "Dual Keres Prime",
+    "market_name": "dual_keres_prime",
     "image": "dual-keres-prime.png"
   },
   {
     "name": "Dual Raza",
+    "market_name": "dual_raza",
     "image": "dual-raza.png"
   },
   {
     "name": "Dual Skana",
+    "market_name": "dual_skana",
     "image": "dual-skana.png"
   },
   {
     "name": "Dual Zoren",
+    "market_name": "dual_zoren",
     "image": "dual-zoren.png"
   },
   {
     "name": "Edun",
+    "market_name": "edun",
     "image": "edun.png"
   },
   {
     "name": "Ekhein",
+    "market_name": "ekhein",
     "image": "ekhein.png"
   },
   {
     "name": "Ekwana Ii Jai",
+    "market_name": "ekwana_ii_jai",
     "image": "ekwana-ii-jai.png"
   },
   {
     "name": "Ekwana Ii Ruhang",
+    "market_name": "ekwana_ii_ruhang",
     "image": "ekwana-ii-ruhang.png"
   },
   {
     "name": "Ekwana Jai",
+    "market_name": "ekwana_jai",
     "image": "ekwana-jai.png"
   },
   {
     "name": "Ekwana Jai Ii",
+    "market_name": "ekwana_jai_ii",
     "image": "ekwana-jai-ii.png"
   },
   {
     "name": "Ekwana Ruhang",
+    "market_name": "ekwana_ruhang",
     "image": "ekwana-ruhang.png"
   },
   {
     "name": "Ekwana Ruhang Ii",
+    "market_name": "ekwana_ruhang_ii",
     "image": "ekwana-ruhang-ii.png"
   },
   {
     "name": "Endura",
+    "market_name": "endura",
     "image": "endura.png"
   },
   {
     "name": "Ether Daggers",
+    "market_name": "ether_daggers",
     "image": "ether-daggers.png"
   },
   {
     "name": "Ether Reaper",
+    "market_name": "ether_reaper",
     "image": "ether-reaper.png"
   },
   {
     "name": "Ether Sword",
+    "market_name": "ether_sword",
     "image": "ether-sword.png"
   },
   {
     "name": "Falcor",
+    "market_name": "falcor",
     "image": "falcor.png"
   },
   {
     "name": "Fang",
+    "market_name": "fang",
     "image": "fang.png"
   },
   {
     "name": "Fang Prime",
+    "market_name": "fang_prime",
     "image": "fang-prime.png"
   },
   {
     "name": "Fragor",
+    "market_name": "fragor",
     "image": "fragor.png"
   },
   {
     "name": "Fragor Prime",
+    "market_name": "fragor_prime",
     "image": "fragor-prime.png"
   },
   {
     "name": "Furax",
+    "market_name": "furax",
     "image": "furax.png"
   },
   {
     "name": "Furax Wraith",
+    "market_name": "furax_wraith",
     "image": "furax-wraith.png"
   },
   {
     "name": "Galatine",
+    "market_name": "galatine",
     "image": "galatine.png"
   },
   {
     "name": "Galatine Prime",
+    "market_name": "galatine_prime",
     "image": "galatine-prime.png"
   },
   {
     "name": "Galvacord",
+    "market_name": "galvacord",
     "image": "galvacord.png"
   },
   {
     "name": "Gazal Machete",
+    "market_name": "gazal_machete",
     "image": "gazal-machete.png"
   },
   {
     "name": "Ghoulsaw",
+    "market_name": "ghoulsaw",
     "image": "ghoulsaw.png"
   },
   {
     "name": "Glaive",
+    "market_name": "glaive",
     "image": "glaive.png"
   },
   {
     "name": "Glaive Prime",
+    "market_name": "glaive_prime",
     "image": "glaive-prime.png"
   },
   {
     "name": "Gram",
+    "market_name": "gram",
     "image": "gram.png"
   },
   {
     "name": "Gram Prime",
+    "market_name": "gram_prime",
     "image": "gram-prime.png"
   },
   {
     "name": "Guandao",
+    "market_name": "guandao",
     "image": "guandao.png"
   },
   {
     "name": "Guandao Prime",
+    "market_name": "guandao_prime",
     "image": "guandao-prime.png"
   },
   {
     "name": "Gunsen",
+    "market_name": "gunsen",
     "image": "gunsen.png"
   },
   {
     "name": "Gunsen Prime",
+    "market_name": "gunsen_prime",
     "image": "gunsen-prime.png"
   },
   {
     "name": "Halikar",
+    "market_name": "halikar",
     "image": "halikar.png"
   },
   {
     "name": "Halikar Wraith",
+    "market_name": "halikar_wraith",
     "image": "halikar-wraith.png"
   },
   {
     "name": "Hate",
+    "market_name": "hate",
     "image": "hate.png"
   },
   {
     "name": "Heat Dagger",
+    "market_name": "heat_dagger",
     "image": "heat-dagger.png"
   },
   {
     "name": "Heat Sword",
+    "market_name": "heat_sword",
     "image": "heat-sword.png"
   },
   {
     "name": "Heliocor",
+    "market_name": "heliocor",
     "image": "heliocor.png"
   },
   {
     "name": "Hespar",
+    "market_name": "hespar",
     "image": "hespar.png"
   },
   {
     "name": "Hirudo",
+    "market_name": "hirudo",
     "image": "hirudo.png"
   },
   {
     "name": "Innodem",
+    "market_name": "innodem",
     "image": "innodem.png"
   },
   {
     "name": "Jai",
+    "market_name": "jai",
     "image": "jai.png"
   },
   {
     "name": "Jai Ii",
+    "market_name": "jai_ii",
     "image": "jai-ii.png"
   },
   {
     "name": "Jat Kittag",
+    "market_name": "jat_kittag",
     "image": "jat-kittag.png"
   },
   {
     "name": "Jat Kusar",
+    "market_name": "jat_kusar",
     "image": "jat-kusar.png"
   },
   {
     "name": "Jaw Sword",
+    "market_name": "jaw_sword",
     "image": "jaw-sword.png"
   },
   {
     "name": "Jayap",
+    "market_name": "jayap",
     "image": "jayap.png"
   },
   {
     "name": "Kama",
+    "market_name": "kama",
     "image": "kama.png"
   },
   {
     "name": "Karyst",
+    "market_name": "karyst",
     "image": "karyst.png"
   },
   {
     "name": "Karyst Prime",
+    "market_name": "karyst_prime",
     "image": "karyst-prime.png"
   },
   {
     "name": "Keratinos",
+    "market_name": "keratinos",
     "image": "keratinos.png"
   },
   {
     "name": "Kesheg",
+    "market_name": "kesheg",
     "image": "kesheg.png"
   },
   {
     "name": "Kestrel",
+    "market_name": "kestrel",
     "image": "kestrel.png"
   },
   {
     "name": "Kogake",
+    "market_name": "kogake",
     "image": "kogake.png"
   },
   {
     "name": "Kogake Prime",
+    "market_name": "kogake_prime",
     "image": "kogake-prime.png"
   },
   {
     "name": "Korb",
+    "market_name": "korb",
     "image": "korb.png"
   },
   {
     "name": "Korrudo",
+    "market_name": "korrudo",
     "image": "korrudo.png"
   },
   {
     "name": "Korumm",
+    "market_name": "korumm",
     "image": "korumm.png"
   },
   {
     "name": "Kreska",
+    "market_name": "kreska",
     "image": "kreska.png"
   },
   {
     "name": "Krohkur",
+    "market_name": "krohkur",
     "image": "krohkur.png"
   },
   {
     "name": "Kronen",
+    "market_name": "kronen",
     "image": "kronen.png"
   },
   {
     "name": "Kronen Prime",
+    "market_name": "kronen_prime",
     "image": "kronen-prime.png"
   },
   {
     "name": "Kronsh",
+    "market_name": "kronsh",
     "image": "kronsh.png"
   },
   {
     "name": "Kronsh",
+    "market_name": "kronsh",
     "image": "kronsh.png"
   },
   {
     "name": "Kroostra",
+    "market_name": "kroostra",
     "image": "kroostra.png"
   },
   {
     "name": "Kuva Shildeg",
+    "market_name": "kuva_shildeg",
     "image": "kuva-shildeg.png"
   },
   {
     "name": "Kwath",
+    "market_name": "kwath",
     "image": "kwath.png"
   },
   {
     "name": "Lacera",
+    "market_name": "lacera",
     "image": "lacera.png"
   },
   {
     "name": "Laka",
+    "market_name": "laka",
     "image": "laka.png"
   },
   {
     "name": "Lecta",
+    "market_name": "lecta",
     "image": "lecta.png"
   },
   {
     "name": "Lesion",
+    "market_name": "lesion",
     "image": "lesion.png"
   },
   {
     "name": "Machete",
+    "market_name": "machete",
     "image": "machete.png"
   },
   {
     "name": "Machete Wraith",
+    "market_name": "machete_wraith",
     "image": "machete-wraith.png"
   },
   {
     "name": "Magistar",
+    "market_name": "magistar",
     "image": "magistar.png"
   },
   {
     "name": "Masseter",
+    "market_name": "masseter",
     "image": "masseter.png"
   },
   {
     "name": "Masseter Prime",
+    "market_name": "masseter_prime",
     "image": "masseter-prime.png"
   },
   {
     "name": "Mewan",
+    "market_name": "mewan",
     "image": "mewan.png"
   },
   {
     "name": "Mewan",
+    "market_name": "mewan",
     "image": "mewan.png"
   },
   {
     "name": "Mios",
+    "market_name": "mios",
     "image": "mios.png"
   },
   {
     "name": "Mire",
+    "market_name": "mire",
     "image": "mire.png"
   },
   {
     "name": "Mk1-Bo",
+    "market_name": "mk1-bo",
     "image": "mk1-bo.png"
   },
   {
     "name": "Mk1-Furax",
+    "market_name": "mk1-furax",
     "image": "mk1-furax.png"
   },
   {
     "name": "Nami Skyla",
+    "market_name": "nami_skyla",
     "image": "nami-skyla.png"
   },
   {
     "name": "Nami Skyla Prime",
+    "market_name": "nami_skyla_prime",
     "image": "nami-skyla-prime.png"
   },
   {
     "name": "Nami Solo",
+    "market_name": "nami_solo",
     "image": "nami-solo.png"
   },
   {
     "name": "Nepheri",
+    "market_name": "nepheri",
     "image": "nepheri.png"
   },
   {
     "name": "Nikana",
+    "market_name": "nikana",
     "image": "nikana.png"
   },
   {
     "name": "Nikana Prime",
+    "market_name": "nikana_prime",
     "image": "nikana-prime.png"
   },
   {
     "name": "Ninkondi",
+    "market_name": "ninkondi",
     "image": "ninkondi.png"
   },
   {
     "name": "Ninkondi Prime",
+    "market_name": "ninkondi_prime",
     "image": "ninkondi-prime.png"
   },
   {
     "name": "Obex",
+    "market_name": "obex",
     "image": "obex.png"
   },
   {
     "name": "Ohma",
+    "market_name": "ohma",
     "image": "ohma.png"
   },
   {
     "name": "Okina",
+    "market_name": "okina",
     "image": "okina.png"
   },
   {
     "name": "Ooltha",
+    "market_name": "ooltha",
     "image": "ooltha.png"
   },
   {
     "name": "Ooltha",
+    "market_name": "ooltha",
     "image": "ooltha.png"
   },
   {
     "name": "Orthos",
+    "market_name": "orthos",
     "image": "orthos.png"
   },
   {
     "name": "Orthos Prime",
+    "market_name": "orthos_prime",
     "image": "orthos-prime.png"
   },
   {
     "name": "Orvius",
+    "market_name": "orvius",
     "image": "orvius.png"
   },
   {
     "name": "Pangolin Prime",
+    "market_name": "pangolin_prime",
     "image": "pangolin-prime.png"
   },
   {
     "name": "Pangolin Sword",
+    "market_name": "pangolin_sword",
     "image": "pangolin-sword.png"
   },
   {
     "name": "Paracesis",
+    "market_name": "paracesis",
     "image": "paracesis.png"
   },
   {
     "name": "Pathocyst",
+    "market_name": "pathocyst",
     "image": "pathocyst.png"
   },
   {
     "name": "Pennant",
+    "market_name": "pennant",
     "image": "pennant.png"
   },
   {
     "name": "Peye",
+    "market_name": "peye",
     "image": "peye.png"
   },
   {
     "name": "Plague Akwin",
+    "market_name": "plague_akwin",
     "image": "plague-akwin.png"
   },
   {
     "name": "Plague Bokwin",
+    "market_name": "plague_bokwin",
     "image": "plague-bokwin.png"
   },
   {
     "name": "Plague Keewar",
+    "market_name": "plague_keewar",
     "image": "plague-keewar.png"
   },
   {
     "name": "Plague Keewar",
+    "market_name": "plague_keewar",
     "image": "plague-keewar.png"
   },
   {
     "name": "Plague Kripath",
+    "market_name": "plague_kripath",
     "image": "plague-kripath.png"
   },
   {
     "name": "Plague Kripath",
+    "market_name": "plague_kripath",
     "image": "plague-kripath.png"
   },
   {
     "name": "Plasma Sword",
+    "market_name": "plasma_sword",
     "image": "plasma-sword.png"
   },
   {
     "name": "Praedos",
+    "market_name": "praedos",
     "image": "praedos.png"
   },
   {
     "name": "Prisma Dual Cleavers",
+    "market_name": "prisma_dual_cleavers",
     "image": "prisma-dual-cleavers.png"
   },
   {
     "name": "Prisma Machete",
+    "market_name": "prisma_machete",
     "image": "prisma-machete.png"
   },
   {
     "name": "Prisma Obex",
+    "market_name": "prisma_obex",
     "image": "prisma-obex.png"
   },
   {
     "name": "Prisma Ohma",
+    "market_name": "prisma_ohma",
     "image": "prisma-ohma.png"
   },
   {
     "name": "Prisma Skana",
+    "market_name": "prisma_skana",
     "image": "prisma-skana.png"
   },
   {
     "name": "Prova",
+    "market_name": "prova",
     "image": "prova.png"
   },
   {
     "name": "Prova Vandal",
+    "market_name": "prova_vandal",
     "image": "prova-vandal.png"
   },
   {
     "name": "Pulmonars",
+    "market_name": "pulmonars",
     "image": "pulmonars.png"
   },
   {
     "name": "Pupacyst",
+    "market_name": "pupacyst",
     "image": "pupacyst.png"
   },
   {
     "name": "Quassus",
+    "market_name": "quassus",
     "image": "quassus.png"
   },
   {
     "name": "Rabvee",
+    "market_name": "rabvee",
     "image": "rabvee.png"
   },
   {
     "name": "Rakta Dark Dagger",
+    "market_name": "rakta_dark_dagger",
     "image": "rakta-dark-dagger.png"
   },
   {
     "name": "Reaper Prime",
+    "market_name": "reaper_prime",
     "image": "reaper-prime.png"
   },
   {
     "name": "Redeemer",
+    "market_name": "redeemer",
     "image": "redeemer.png"
   },
   {
     "name": "Redeemer Prime",
+    "market_name": "redeemer_prime",
     "image": "redeemer-prime.png"
   },
   {
     "name": "Ripkas",
+    "market_name": "ripkas",
     "image": "ripkas.png"
   },
   {
     "name": "Ruhang",
+    "market_name": "ruhang",
     "image": "ruhang.png"
   },
   {
     "name": "Ruhang Ii",
+    "market_name": "ruhang_ii",
     "image": "ruhang-ii.png"
   },
   {
     "name": "Rumblejack",
+    "market_name": "rumblejack",
     "image": "rumblejack.png"
   },
   {
     "name": "Sampotes",
+    "market_name": "sampotes",
     "image": "sampotes.png"
   },
   {
     "name": "Sancti Magistar",
+    "market_name": "sancti_magistar",
     "image": "sancti-magistar.png"
   },
   {
     "name": "Sarofang",
+    "market_name": "sarofang",
     "image": "sarofang.png"
   },
   {
     "name": "Sarpa",
+    "market_name": "sarpa",
     "image": "sarpa.png"
   },
   {
     "name": "Scindo",
+    "market_name": "scindo",
     "image": "scindo.png"
   },
   {
     "name": "Scindo Prime",
+    "market_name": "scindo_prime",
     "image": "scindo-prime.png"
   },
   {
     "name": "Scoliac",
+    "market_name": "scoliac",
     "image": "scoliac.png"
   },
   {
     "name": "Secura Lecta",
+    "market_name": "secura_lecta",
     "image": "secura-lecta.png"
   },
   {
     "name": "Seekalla",
+    "market_name": "seekalla",
     "image": "seekalla.png"
   },
   {
     "name": "Sepfahn",
+    "market_name": "sepfahn",
     "image": "sepfahn.png"
   },
   {
     "name": "Serro",
+    "market_name": "serro",
     "image": "serro.png"
   },
   {
     "name": "Shaku",
+    "market_name": "shaku",
     "image": "shaku.png"
   },
   {
     "name": "Sheev",
+    "market_name": "sheev",
     "image": "sheev.png"
   },
   {
     "name": "Shtung",
+    "market_name": "shtung",
     "image": "shtung.png"
   },
   {
     "name": "Sibear",
+    "market_name": "sibear",
     "image": "sibear.png"
   },
   {
     "name": "Sigma & Octantis",
+    "market_name": "sigma_&_octantis",
     "image": "sigma-&-octantis.png"
   },
   {
     "name": "Silva & Aegis",
+    "market_name": "silva_&_aegis",
     "image": "silva-&-aegis.png"
   },
   {
     "name": "Silva & Aegis Prime",
+    "market_name": "silva_&_aegis_prime",
     "image": "silva-&-aegis-prime.png"
   },
   {
     "name": "Skana",
+    "market_name": "skana",
     "image": "skana.png"
   },
   {
     "name": "Skana Prime",
+    "market_name": "skana_prime",
     "image": "skana-prime.png"
   },
   {
     "name": "Skiajati",
+    "market_name": "skiajati",
     "image": "skiajati.png"
   },
   {
     "name": "Slaytra",
+    "market_name": "slaytra",
     "image": "slaytra.png"
   },
   {
     "name": "Stropha",
+    "market_name": "stropha",
     "image": "stropha.png"
   },
   {
     "name": "Sun & Moon",
+    "market_name": "sun_&_moon",
     "image": "sun-&-moon.png"
   },
   {
     "name": "Syam",
+    "market_name": "syam",
     "image": "syam.png"
   },
   {
     "name": "Sydon",
+    "market_name": "sydon",
     "image": "sydon.png"
   },
   {
     "name": "Synoid Heliocor",
+    "market_name": "synoid_heliocor",
     "image": "synoid-heliocor.png"
   },
   {
     "name": "Tatsu",
+    "market_name": "tatsu",
     "image": "tatsu.png"
   },
   {
     "name": "Tatsu Prime",
+    "market_name": "tatsu_prime",
     "image": "tatsu-prime.png"
   },
   {
     "name": "Tekko",
+    "market_name": "tekko",
     "image": "tekko.png"
   },
   {
     "name": "Tekko Prime",
+    "market_name": "tekko_prime",
     "image": "tekko-prime.png"
   },
   {
     "name": "Telos Boltace",
+    "market_name": "telos_boltace",
     "image": "telos-boltace.png"
   },
   {
     "name": "Tenet Agendus",
+    "market_name": "tenet_agendus",
     "image": "tenet-agendus.png"
   },
   {
     "name": "Tenet Exec",
+    "market_name": "tenet_exec",
     "image": "tenet-exec.png"
   },
   {
     "name": "Tenet Grigori",
+    "market_name": "tenet_grigori",
     "image": "tenet-grigori.png"
   },
   {
     "name": "Tenet Livia",
+    "market_name": "tenet_livia",
     "image": "tenet-livia.png"
   },
   {
     "name": "Tipedo",
+    "market_name": "tipedo",
     "image": "tipedo.png"
   },
   {
     "name": "Tipedo Prime",
+    "market_name": "tipedo_prime",
     "image": "tipedo-prime.png"
   },
   {
     "name": "Tonbo",
+    "market_name": "tonbo",
     "image": "tonbo.png"
   },
   {
     "name": "Twin Basolk",
+    "market_name": "twin_basolk",
     "image": "twin-basolk.png"
   },
   {
     "name": "Twin Krohkur",
+    "market_name": "twin_krohkur",
     "image": "twin-krohkur.png"
   },
   {
     "name": "Vargeet Ii Jai",
+    "market_name": "vargeet_ii_jai",
     "image": "vargeet-ii-jai.png"
   },
   {
     "name": "Vargeet Ii Ruhang",
+    "market_name": "vargeet_ii_ruhang",
     "image": "vargeet-ii-ruhang.png"
   },
   {
     "name": "Vargeet Jai",
+    "market_name": "vargeet_jai",
     "image": "vargeet-jai.png"
   },
   {
     "name": "Vargeet Jai Ii",
+    "market_name": "vargeet_jai_ii",
     "image": "vargeet-jai-ii.png"
   },
   {
     "name": "Vargeet Ruhang",
+    "market_name": "vargeet_ruhang",
     "image": "vargeet-ruhang.png"
   },
   {
     "name": "Vargeet Ruhang Ii",
+    "market_name": "vargeet_ruhang_ii",
     "image": "vargeet-ruhang-ii.png"
   },
   {
     "name": "Vastilok",
+    "market_name": "vastilok",
     "image": "vastilok.png"
   },
   {
     "name": "Vaykor Sydon",
+    "market_name": "vaykor_sydon",
     "image": "vaykor-sydon.png"
   },
   {
     "name": "Venato",
+    "market_name": "venato",
     "image": "venato.png"
   },
   {
     "name": "Venka",
+    "market_name": "venka",
     "image": "venka.png"
   },
   {
     "name": "Venka Prime",
+    "market_name": "venka_prime",
     "image": "venka-prime.png"
   },
   {
     "name": "Verdilac",
+    "market_name": "verdilac",
     "image": "verdilac.png"
   },
   {
     "name": "Vericres",
+    "market_name": "vericres",
     "image": "vericres.png"
   },
   {
     "name": "Vitrica",
+    "market_name": "vitrica",
     "image": "vitrica.png"
   },
   {
     "name": "Volnus",
+    "market_name": "volnus",
     "image": "volnus.png"
   },
   {
     "name": "Volnus Prime",
+    "market_name": "volnus_prime",
     "image": "volnus-prime.png"
   },
   {
     "name": "War",
+    "market_name": "war",
     "image": "war.png"
   },
   {
     "name": "Wolf Sledge",
+    "market_name": "wolf_sledge",
     "image": "wolf-sledge.png"
   },
   {
     "name": "Xoris",
+    "market_name": "xoris",
     "image": "xoris.png"
   },
   {
     "name": "Zenistar",
+    "market_name": "zenistar",
     "image": "zenistar.png"
   }
 ]

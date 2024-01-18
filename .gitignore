@@ -131,4 +131,4 @@ dist
 
 #custom things
 
-public/items/*
+items/

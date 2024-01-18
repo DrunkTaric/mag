@@ -1,522 +1,652 @@
 [
   {
     "name": "Acrid",
+    "market_name": "acrid",
     "image": "acrid.png"
   },
   {
     "name": "Aegrit",
+    "market_name": "aegrit",
     "image": "aegrit.png"
   },
   {
     "name": "Afuris",
+    "market_name": "afuris",
     "image": "afuris.png"
   },
   {
     "name": "Afuris Prime",
+    "market_name": "afuris_prime",
     "image": "afuris-prime.png"
   },
   {
     "name": "Akarius",
+    "market_name": "akarius",
     "image": "akarius.png"
   },
   {
     "name": "Akarius Prime",
+    "market_name": "akarius_prime",
     "image": "akarius-prime.png"
   },
   {
     "name": "Akbolto",
+    "market_name": "akbolto",
     "image": "akbolto.png"
   },
   {
     "name": "Akbolto Prime",
+    "market_name": "akbolto_prime",
     "image": "akbolto-prime.png"
   },
   {
     "name": "Akbronco",
+    "market_name": "akbronco",
     "image": "akbronco.png"
   },
   {
     "name": "Akbronco Prime",
+    "market_name": "akbronco_prime",
     "image": "akbronco-prime.png"
   },
   {
     "name": "Akjagara",
+    "market_name": "akjagara",
     "image": "akjagara.png"
   },
   {
     "name": "Akjagara Prime",
+    "market_name": "akjagara_prime",
     "image": "akjagara-prime.png"
   },
   {
     "name": "Aklato",
+    "market_name": "aklato",
     "image": "aklato.png"
   },
   {
     "name": "Aklex",
+    "market_name": "aklex",
     "image": "aklex.png"
   },
   {
     "name": "Aklex Prime",
+    "market_name": "aklex_prime",
     "image": "aklex-prime.png"
   },
   {
     "name": "Akmagnus",
+    "market_name": "akmagnus",
     "image": "akmagnus.png"
   },
   {
     "name": "Aksomati",
+    "market_name": "aksomati",
     "image": "aksomati.png"
   },
   {
     "name": "Aksomati Prime",
+    "market_name": "aksomati_prime",
     "image": "aksomati-prime.png"
   },
   {
     "name": "Akstiletto",
+    "market_name": "akstiletto",
     "image": "akstiletto.png"
   },
   {
     "name": "Akstiletto Prime",
+    "market_name": "akstiletto_prime",
     "image": "akstiletto-prime.png"
   },
   {
     "name": "Akvasto",
+    "market_name": "akvasto",
     "image": "akvasto.png"
   },
   {
     "name": "Akvasto Prime",
+    "market_name": "akvasto_prime",
     "image": "akvasto-prime.png"
   },
   {
     "name": "Akzani",
+    "market_name": "akzani",
     "image": "akzani.png"
   },
   {
     "name": "Angstrum",
+    "market_name": "angstrum",
     "image": "angstrum.png"
   },
   {
     "name": "Arca Scisco",
+    "market_name": "arca_scisco",
     "image": "arca-scisco.png"
   },
   {
     "name": "Athodai",
+    "market_name": "athodai",
     "image": "athodai.png"
   },
   {
     "name": "Atomos",
+    "market_name": "atomos",
     "image": "atomos.png"
   },
   {
     "name": "Azima",
+    "market_name": "azima",
     "image": "azima.png"
   },
   {
     "name": "Ballistica",
+    "market_name": "ballistica",
     "image": "ballistica.png"
   },
   {
     "name": "Ballistica Prime",
+    "market_name": "ballistica_prime",
     "image": "ballistica-prime.png"
   },
   {
     "name": "Bolto",
+    "market_name": "bolto",
     "image": "bolto.png"
   },
   {
     "name": "Brakk",
+    "market_name": "brakk",
     "image": "brakk.png"
   },
   {
     "name": "Bronco",
+    "market_name": "bronco",
     "image": "bronco.png"
   },
   {
     "name": "Bronco Prime",
+    "market_name": "bronco_prime",
     "image": "bronco-prime.png"
   },
   {
     "name": "Castanas",
+    "market_name": "castanas",
     "image": "castanas.png"
   },
   {
     "name": "Catabolyst",
+    "market_name": "catabolyst",
     "image": "catabolyst.png"
   },
   {
     "name": "Cestra",
+    "market_name": "cestra",
     "image": "cestra.png"
   },
   {
     "name": "Cyanex",
+    "market_name": "cyanex",
     "image": "cyanex.png"
   },
   {
     "name": "Cycron",
+    "market_name": "cycron",
     "image": "cycron.png"
   },
   {
     "name": "Despair",
+    "market_name": "despair",
     "image": "despair.png"
   },
   {
     "name": "Detron",
+    "market_name": "detron",
     "image": "detron.png"
   },
   {
     "name": "Dex Furis",
+    "market_name": "dex_furis",
     "image": "dex-furis.png"
   },
   {
     "name": "Dual Cestra",
+    "market_name": "dual_cestra",
     "image": "dual-cestra.png"
   },
   {
     "name": "Dual Toxocyst",
+    "market_name": "dual_toxocyst",
     "image": "dual-toxocyst.png"
   },
   {
     "name": "Embolist",
+    "market_name": "embolist",
     "image": "embolist.png"
   },
   {
     "name": "Epitaph",
+    "market_name": "epitaph",
     "image": "epitaph.png"
   },
   {
     "name": "Euphona Prime",
+    "market_name": "euphona_prime",
     "image": "euphona-prime.png"
   },
   {
     "name": "Furis",
+    "market_name": "furis",
     "image": "furis.png"
   },
   {
     "name": "Fusilai",
+    "market_name": "fusilai",
     "image": "fusilai.png"
   },
   {
     "name": "Gammacor",
+    "market_name": "gammacor",
     "image": "gammacor.png"
   },
   {
     "name": "Hikou",
+    "market_name": "hikou",
     "image": "hikou.png"
   },
   {
     "name": "Hikou Prime",
+    "market_name": "hikou_prime",
     "image": "hikou-prime.png"
   },
   {
     "name": "Hystrix",
+    "market_name": "hystrix",
     "image": "hystrix.png"
   },
   {
     "name": "Hystrix Prime",
+    "market_name": "hystrix_prime",
     "image": "hystrix-prime.png"
   },
   {
     "name": "Knell",
+    "market_name": "knell",
     "image": "knell.png"
   },
   {
     "name": "Knell Prime",
+    "market_name": "knell_prime",
     "image": "knell-prime.png"
   },
   {
     "name": "Kohmak",
+    "market_name": "kohmak",
     "image": "kohmak.png"
   },
   {
     "name": "Kompressa",
+    "market_name": "kompressa",
     "image": "kompressa.png"
   },
   {
     "name": "Kraken",
+    "market_name": "kraken",
     "image": "kraken.png"
   },
   {
     "name": "Kulstar",
+    "market_name": "kulstar",
     "image": "kulstar.png"
   },
   {
     "name": "Kunai",
+    "market_name": "kunai",
     "image": "kunai.png"
   },
   {
     "name": "Kuva Brakk",
+    "market_name": "kuva_brakk",
     "image": "kuva-brakk.png"
   },
   {
     "name": "Kuva Kraken",
+    "market_name": "kuva_kraken",
     "image": "kuva-kraken.png"
   },
   {
     "name": "Kuva Nukor",
+    "market_name": "kuva_nukor",
     "image": "kuva-nukor.png"
   },
   {
     "name": "Kuva Seer",
+    "market_name": "kuva_seer",
     "image": "kuva-seer.png"
   },
   {
     "name": "Kuva Twin Stubbas",
+    "market_name": "kuva_twin_stubbas",
     "image": "kuva-twin-stubbas.png"
   },
   {
     "name": "Laetum",
+    "market_name": "laetum",
     "image": "laetum.png"
   },
   {
     "name": "Lato",
+    "market_name": "lato",
     "image": "lato.png"
   },
   {
     "name": "Lato Prime",
+    "market_name": "lato_prime",
     "image": "lato-prime.png"
   },
   {
     "name": "Lato Vandal",
+    "market_name": "lato_vandal",
     "image": "lato-vandal.png"
   },
   {
     "name": "Lex",
+    "market_name": "lex",
     "image": "lex.png"
   },
   {
     "name": "Lex Prime",
+    "market_name": "lex_prime",
     "image": "lex-prime.png"
   },
   {
     "name": "Magnus",
+    "market_name": "magnus",
     "image": "magnus.png"
   },
   {
     "name": "Magnus Prime",
+    "market_name": "magnus_prime",
     "image": "magnus-prime.png"
   },
   {
     "name": "Mara Detron",
+    "market_name": "mara_detron",
     "image": "mara-detron.png"
   },
   {
     "name": "Marelok",
+    "market_name": "marelok",
     "image": "marelok.png"
   },
   {
     "name": "Mk1-Furis",
+    "market_name": "mk1-furis",
     "image": "mk1-furis.png"
   },
   {
     "name": "Mk1-Kunai",
+    "market_name": "mk1-kunai",
     "image": "mk1-kunai.png"
   },
   {
     "name": "Nukor",
+    "market_name": "nukor",
     "image": "nukor.png"
   },
   {
     "name": "Ocucor",
+    "market_name": "ocucor",
     "image": "ocucor.png"
   },
   {
     "name": "Pandero",
+    "market_name": "pandero",
     "image": "pandero.png"
   },
   {
     "name": "Pandero Prime",
+    "market_name": "pandero_prime",
     "image": "pandero-prime.png"
   },
   {
     "name": "Plinx",
+    "market_name": "plinx",
     "image": "plinx.png"
   },
   {
     "name": "Pox",
+    "market_name": "pox",
     "image": "pox.png"
   },
   {
     "name": "Prisma Angstrum",
+    "market_name": "prisma_angstrum",
     "image": "prisma-angstrum.png"
   },
   {
     "name": "Prisma Twin Gremlins",
+    "market_name": "prisma_twin_gremlins",
     "image": "prisma-twin-gremlins.png"
   },
   {
     "name": "Pyrana",
+    "market_name": "pyrana",
     "image": "pyrana.png"
   },
   {
     "name": "Pyrana Prime",
+    "market_name": "pyrana_prime",
     "image": "pyrana-prime.png"
   },
   {
     "name": "Quatz",
+    "market_name": "quatz",
     "image": "quatz.png"
   },
   {
     "name": "Rakta Ballistica",
+    "market_name": "rakta_ballistica",
     "image": "rakta-ballistica.png"
   },
   {
     "name": "Sancti Castanas",
+    "market_name": "sancti_castanas",
     "image": "sancti-castanas.png"
   },
   {
     "name": "Secura Dual Cestra",
+    "market_name": "secura_dual_cestra",
     "image": "secura-dual-cestra.png"
   },
   {
     "name": "Seer",
+    "market_name": "seer",
     "image": "seer.png"
   },
   {
     "name": "Sepulcrum",
+    "market_name": "sepulcrum",
     "image": "sepulcrum.png"
   },
   {
     "name": "Sicarus",
+    "market_name": "sicarus",
     "image": "sicarus.png"
   },
   {
     "name": "Sicarus Prime",
+    "market_name": "sicarus_prime",
     "image": "sicarus-prime.png"
   },
   {
     "name": "Sonicor",
+    "market_name": "sonicor",
     "image": "sonicor.png"
   },
   {
     "name": "Spectra",
+    "market_name": "spectra",
     "image": "spectra.png"
   },
   {
     "name": "Spectra Vandal",
+    "market_name": "spectra_vandal",
     "image": "spectra-vandal.png"
   },
   {
     "name": "Spira",
+    "market_name": "spira",
     "image": "spira.png"
   },
   {
     "name": "Spira Prime",
+    "market_name": "spira_prime",
     "image": "spira-prime.png"
   },
   {
     "name": "Staticor",
+    "market_name": "staticor",
     "image": "staticor.png"
   },
   {
     "name": "Stubba",
+    "market_name": "stubba",
     "image": "stubba.png"
   },
   {
     "name": "Stug",
+    "market_name": "stug",
     "image": "stug.png"
   },
   {
     "name": "Synoid Gammacor",
+    "market_name": "synoid_gammacor",
     "image": "synoid-gammacor.png"
   },
   {
     "name": "Talons",
+    "market_name": "talons",
     "image": "talons.png"
   },
   {
     "name": "Telos Akbolto",
+    "market_name": "telos_akbolto",
     "image": "telos-akbolto.png"
   },
   {
     "name": "Tenet Cycron",
+    "market_name": "tenet_cycron",
     "image": "tenet-cycron.png"
   },
   {
     "name": "Tenet Detron",
+    "market_name": "tenet_detron",
     "image": "tenet-detron.png"
   },
   {
     "name": "Tenet Diplos",
+    "market_name": "tenet_diplos",
     "image": "tenet-diplos.png"
   },
   {
     "name": "Tenet Plinx",
+    "market_name": "tenet_plinx",
     "image": "tenet-plinx.png"
   },
   {
     "name": "Tenet Spirex",
+    "market_name": "tenet_spirex",
     "image": "tenet-spirex.png"
   },
   {
     "name": "Twin Grakatas",
+    "market_name": "twin_grakatas",
     "image": "twin-grakatas.png"
   },
   {
     "name": "Twin Gremlins",
+    "market_name": "twin_gremlins",
     "image": "twin-gremlins.png"
   },
   {
     "name": "Twin Kohmak",
+    "market_name": "twin_kohmak",
     "image": "twin-kohmak.png"
   },
   {
     "name": "Twin Rogga",
+    "market_name": "twin_rogga",
     "image": "twin-rogga.png"
   },
   {
     "name": "Twin Vipers",
+    "market_name": "twin_vipers",
     "image": "twin-vipers.png"
   },
   {
     "name": "Twin Vipers Wraith",
+    "market_name": "twin_vipers_wraith",
     "image": "twin-vipers-wraith.png"
   },
   {
     "name": "Tysis",
+    "market_name": "tysis",
     "image": "tysis.png"
   },
   {
     "name": "Vasto",
+    "market_name": "vasto",
     "image": "vasto.png"
   },
   {
     "name": "Vasto Prime",
+    "market_name": "vasto_prime",
     "image": "vasto-prime.png"
   },
   {
     "name": "Vaykor Marelok",
+    "market_name": "vaykor_marelok",
     "image": "vaykor-marelok.png"
   },
   {
     "name": "Velox",
+    "market_name": "velox",
     "image": "velox.png"
   },
   {
     "name": "Viper",
+    "market_name": "viper",
     "image": "viper.png"
   },
   {
     "name": "Viper Wraith",
+    "market_name": "viper_wraith",
     "image": "viper-wraith.png"
   },
   {
     "name": "Zakti",
+    "market_name": "zakti",
     "image": "zakti.png"
   },
   {
     "name": "Zakti Prime",
+    "market_name": "zakti_prime",
     "image": "zakti-prime.png"
   },
   {
     "name": "Zylok",
+    "market_name": "zylok",
     "image": "zylok.png"
   },
   {
     "name": "Zylok Prime",
+    "market_name": "zylok_prime",
     "image": "zylok-prime.png"
   },
   {
     "name": "Zymos",
+    "market_name": "zymos",
     "image": "zymos.png"
   }
 ]
