@@ -1,0 +1,974 @@
+[
+  {
+    "name": "Ack & Brunt",
+    "image": "ack-&-brunt.png"
+  },
+  {
+    "name": "Amphis",
+    "image": "amphis.png"
+  },
+  {
+    "name": "Anku",
+    "image": "anku.png"
+  },
+  {
+    "name": "Ankyros",
+    "image": "ankyros.png"
+  },
+  {
+    "name": "Ankyros Prime",
+    "image": "ankyros-prime.png"
+  },
+  {
+    "name": "Arca Titron",
+    "image": "arca-titron.png"
+  },
+  {
+    "name": "Argo & Vel",
+    "image": "argo-&-vel.png"
+  },
+  {
+    "name": "Arum Spinosa",
+    "image": "arum-spinosa.png"
+  },
+  {
+    "name": "Atterax",
+    "image": "atterax.png"
+  },
+  {
+    "name": "Azothane",
+    "image": "azothane.png"
+  },
+  {
+    "name": "Balla",
+    "image": "balla.png"
+  },
+  {
+    "name": "Balla",
+    "image": "balla.png"
+  },
+  {
+    "name": "Bo",
+    "image": "bo.png"
+  },
+  {
+    "name": "Bo Prime",
+    "image": "bo-prime.png"
+  },
+  {
+    "name": "Boltace",
+    "image": "boltace.png"
+  },
+  {
+    "name": "Broken Scepter",
+    "image": "broken-scepter.png"
+  },
+  {
+    "name": "Broken War",
+    "image": "broken-war.png"
+  },
+  {
+    "name": "Cadus",
+    "image": "cadus.png"
+  },
+  {
+    "name": "Cassowar",
+    "image": "cassowar.png"
+  },
+  {
+    "name": "Caustacyst",
+    "image": "caustacyst.png"
+  },
+  {
+    "name": "Ceramic Dagger",
+    "image": "ceramic-dagger.png"
+  },
+  {
+    "name": "Cerata",
+    "image": "cerata.png"
+  },
+  {
+    "name": "Ceti Lacera",
+    "image": "ceti-lacera.png"
+  },
+  {
+    "name": "Cobra & Crane",
+    "image": "cobra-&-crane.png"
+  },
+  {
+    "name": "Cobra & Crane Prime",
+    "image": "cobra-&-crane-prime.png"
+  },
+  {
+    "name": "Cronus",
+    "image": "cronus.png"
+  },
+  {
+    "name": "Cyath",
+    "image": "cyath.png"
+  },
+  {
+    "name": "Cyath",
+    "image": "cyath.png"
+  },
+  {
+    "name": "Dakra Prime",
+    "image": "dakra-prime.png"
+  },
+  {
+    "name": "Dark Dagger",
+    "image": "dark-dagger.png"
+  },
+  {
+    "name": "Dark Split-Sword",
+    "image": "dark-split-sword.png"
+  },
+  {
+    "name": "Dark Sword",
+    "image": "dark-sword.png"
+  },
+  {
+    "name": "Dehtat",
+    "image": "dehtat.png"
+  },
+  {
+    "name": "Dehtat",
+    "image": "dehtat.png"
+  },
+  {
+    "name": "Destreza",
+    "image": "destreza.png"
+  },
+  {
+    "name": "Destreza Prime",
+    "image": "destreza-prime.png"
+  },
+  {
+    "name": "Dex Dakra",
+    "image": "dex-dakra.png"
+  },
+  {
+    "name": "Dokrahm",
+    "image": "dokrahm.png"
+  },
+  {
+    "name": "Dorrclave",
+    "image": "dorrclave.png"
+  },
+  {
+    "name": "Dragon Nikana",
+    "image": "dragon-nikana.png"
+  },
+  {
+    "name": "Dual Cleavers",
+    "image": "dual-cleavers.png"
+  },
+  {
+    "name": "Dual Ether",
+    "image": "dual-ether.png"
+  },
+  {
+    "name": "Dual Heat Swords",
+    "image": "dual-heat-swords.png"
+  },
+  {
+    "name": "Dual Ichor",
+    "image": "dual-ichor.png"
+  },
+  {
+    "name": "Dual Kamas",
+    "image": "dual-kamas.png"
+  },
+  {
+    "name": "Dual Kamas Prime",
+    "image": "dual-kamas-prime.png"
+  },
+  {
+    "name": "Dual Keres",
+    "image": "dual-keres.png"
+  },
+  {
+    "name": "Dual Keres Prime",
+    "image": "dual-keres-prime.png"
+  },
+  {
+    "name": "Dual Raza",
+    "image": "dual-raza.png"
+  },
+  {
+    "name": "Dual Skana",
+    "image": "dual-skana.png"
+  },
+  {
+    "name": "Dual Zoren",
+    "image": "dual-zoren.png"
+  },
+  {
+    "name": "Edun",
+    "image": "edun.png"
+  },
+  {
+    "name": "Ekhein",
+    "image": "ekhein.png"
+  },
+  {
+    "name": "Ekwana Ii Jai",
+    "image": "ekwana-ii-jai.png"
+  },
+  {
+    "name": "Ekwana Ii Ruhang",
+    "image": "ekwana-ii-ruhang.png"
+  },
+  {
+    "name": "Ekwana Jai",
+    "image": "ekwana-jai.png"
+  },
+  {
+    "name": "Ekwana Jai Ii",
+    "image": "ekwana-jai-ii.png"
+  },
+  {
+    "name": "Ekwana Ruhang",
+    "image": "ekwana-ruhang.png"
+  },
+  {
+    "name": "Ekwana Ruhang Ii",
+    "image": "ekwana-ruhang-ii.png"
+  },
+  {
+    "name": "Endura",
+    "image": "endura.png"
+  },
+  {
+    "name": "Ether Daggers",
+    "image": "ether-daggers.png"
+  },
+  {
+    "name": "Ether Reaper",
+    "image": "ether-reaper.png"
+  },
+  {
+    "name": "Ether Sword",
+    "image": "ether-sword.png"
+  },
+  {
+    "name": "Falcor",
+    "image": "falcor.png"
+  },
+  {
+    "name": "Fang",
+    "image": "fang.png"
+  },
+  {
+    "name": "Fang Prime",
+    "image": "fang-prime.png"
+  },
+  {
+    "name": "Fragor",
+    "image": "fragor.png"
+  },
+  {
+    "name": "Fragor Prime",
+    "image": "fragor-prime.png"
+  },
+  {
+    "name": "Furax",
+    "image": "furax.png"
+  },
+  {
+    "name": "Furax Wraith",
+    "image": "furax-wraith.png"
+  },
+  {
+    "name": "Galatine",
+    "image": "galatine.png"
+  },
+  {
+    "name": "Galatine Prime",
+    "image": "galatine-prime.png"
+  },
+  {
+    "name": "Galvacord",
+    "image": "galvacord.png"
+  },
+  {
+    "name": "Gazal Machete",
+    "image": "gazal-machete.png"
+  },
+  {
+    "name": "Ghoulsaw",
+    "image": "ghoulsaw.png"
+  },
+  {
+    "name": "Glaive",
+    "image": "glaive.png"
+  },
+  {
+    "name": "Glaive Prime",
+    "image": "glaive-prime.png"
+  },
+  {
+    "name": "Gram",
+    "image": "gram.png"
+  },
+  {
+    "name": "Gram Prime",
+    "image": "gram-prime.png"
+  },
+  {
+    "name": "Guandao",
+    "image": "guandao.png"
+  },
+  {
+    "name": "Guandao Prime",
+    "image": "guandao-prime.png"
+  },
+  {
+    "name": "Gunsen",
+    "image": "gunsen.png"
+  },
+  {
+    "name": "Gunsen Prime",
+    "image": "gunsen-prime.png"
+  },
+  {
+    "name": "Halikar",
+    "image": "halikar.png"
+  },
+  {
+    "name": "Halikar Wraith",
+    "image": "halikar-wraith.png"
+  },
+  {
+    "name": "Hate",
+    "image": "hate.png"
+  },
+  {
+    "name": "Heat Dagger",
+    "image": "heat-dagger.png"
+  },
+  {
+    "name": "Heat Sword",
+    "image": "heat-sword.png"
+  },
+  {
+    "name": "Heliocor",
+    "image": "heliocor.png"
+  },
+  {
+    "name": "Hespar",
+    "image": "hespar.png"
+  },
+  {
+    "name": "Hirudo",
+    "image": "hirudo.png"
+  },
+  {
+    "name": "Innodem",
+    "image": "innodem.png"
+  },
+  {
+    "name": "Jai",
+    "image": "jai.png"
+  },
+  {
+    "name": "Jai Ii",
+    "image": "jai-ii.png"
+  },
+  {
+    "name": "Jat Kittag",
+    "image": "jat-kittag.png"
+  },
+  {
+    "name": "Jat Kusar",
+    "image": "jat-kusar.png"
+  },
+  {
+    "name": "Jaw Sword",
+    "image": "jaw-sword.png"
+  },
+  {
+    "name": "Jayap",
+    "image": "jayap.png"
+  },
+  {
+    "name": "Kama",
+    "image": "kama.png"
+  },
+  {
+    "name": "Karyst",
+    "image": "karyst.png"
+  },
+  {
+    "name": "Karyst Prime",
+    "image": "karyst-prime.png"
+  },
+  {
+    "name": "Keratinos",
+    "image": "keratinos.png"
+  },
+  {
+    "name": "Kesheg",
+    "image": "kesheg.png"
+  },
+  {
+    "name": "Kestrel",
+    "image": "kestrel.png"
+  },
+  {
+    "name": "Kogake",
+    "image": "kogake.png"
+  },
+  {
+    "name": "Kogake Prime",
+    "image": "kogake-prime.png"
+  },
+  {
+    "name": "Korb",
+    "image": "korb.png"
+  },
+  {
+    "name": "Korrudo",
+    "image": "korrudo.png"
+  },
+  {
+    "name": "Korumm",
+    "image": "korumm.png"
+  },
+  {
+    "name": "Kreska",
+    "image": "kreska.png"
+  },
+  {
+    "name": "Krohkur",
+    "image": "krohkur.png"
+  },
+  {
+    "name": "Kronen",
+    "image": "kronen.png"
+  },
+  {
+    "name": "Kronen Prime",
+    "image": "kronen-prime.png"
+  },
+  {
+    "name": "Kronsh",
+    "image": "kronsh.png"
+  },
+  {
+    "name": "Kronsh",
+    "image": "kronsh.png"
+  },
+  {
+    "name": "Kroostra",
+    "image": "kroostra.png"
+  },
+  {
+    "name": "Kuva Shildeg",
+    "image": "kuva-shildeg.png"
+  },
+  {
+    "name": "Kwath",
+    "image": "kwath.png"
+  },
+  {
+    "name": "Lacera",
+    "image": "lacera.png"
+  },
+  {
+    "name": "Laka",
+    "image": "laka.png"
+  },
+  {
+    "name": "Lecta",
+    "image": "lecta.png"
+  },
+  {
+    "name": "Lesion",
+    "image": "lesion.png"
+  },
+  {
+    "name": "Machete",
+    "image": "machete.png"
+  },
+  {
+    "name": "Machete Wraith",
+    "image": "machete-wraith.png"
+  },
+  {
+    "name": "Magistar",
+    "image": "magistar.png"
+  },
+  {
+    "name": "Masseter",
+    "image": "masseter.png"
+  },
+  {
+    "name": "Masseter Prime",
+    "image": "masseter-prime.png"
+  },
+  {
+    "name": "Mewan",
+    "image": "mewan.png"
+  },
+  {
+    "name": "Mewan",
+    "image": "mewan.png"
+  },
+  {
+    "name": "Mios",
+    "image": "mios.png"
+  },
+  {
+    "name": "Mire",
+    "image": "mire.png"
+  },
+  {
+    "name": "Mk1-Bo",
+    "image": "mk1-bo.png"
+  },
+  {
+    "name": "Mk1-Furax",
+    "image": "mk1-furax.png"
+  },
+  {
+    "name": "Nami Skyla",
+    "image": "nami-skyla.png"
+  },
+  {
+    "name": "Nami Skyla Prime",
+    "image": "nami-skyla-prime.png"
+  },
+  {
+    "name": "Nami Solo",
+    "image": "nami-solo.png"
+  },
+  {
+    "name": "Nepheri",
+    "image": "nepheri.png"
+  },
+  {
+    "name": "Nikana",
+    "image": "nikana.png"
+  },
+  {
+    "name": "Nikana Prime",
+    "image": "nikana-prime.png"
+  },
+  {
+    "name": "Ninkondi",
+    "image": "ninkondi.png"
+  },
+  {
+    "name": "Ninkondi Prime",
+    "image": "ninkondi-prime.png"
+  },
+  {
+    "name": "Obex",
+    "image": "obex.png"
+  },
+  {
+    "name": "Ohma",
+    "image": "ohma.png"
+  },
+  {
+    "name": "Okina",
+    "image": "okina.png"
+  },
+  {
+    "name": "Ooltha",
+    "image": "ooltha.png"
+  },
+  {
+    "name": "Ooltha",
+    "image": "ooltha.png"
+  },
+  {
+    "name": "Orthos",
+    "image": "orthos.png"
+  },
+  {
+    "name": "Orthos Prime",
+    "image": "orthos-prime.png"
+  },
+  {
+    "name": "Orvius",
+    "image": "orvius.png"
+  },
+  {
+    "name": "Pangolin Prime",
+    "image": "pangolin-prime.png"
+  },
+  {
+    "name": "Pangolin Sword",
+    "image": "pangolin-sword.png"
+  },
+  {
+    "name": "Paracesis",
+    "image": "paracesis.png"
+  },
+  {
+    "name": "Pathocyst",
+    "image": "pathocyst.png"
+  },
+  {
+    "name": "Pennant",
+    "image": "pennant.png"
+  },
+  {
+    "name": "Peye",
+    "image": "peye.png"
+  },
+  {
+    "name": "Plague Akwin",
+    "image": "plague-akwin.png"
+  },
+  {
+    "name": "Plague Bokwin",
+    "image": "plague-bokwin.png"
+  },
+  {
+    "name": "Plague Keewar",
+    "image": "plague-keewar.png"
+  },
+  {
+    "name": "Plague Keewar",
+    "image": "plague-keewar.png"
+  },
+  {
+    "name": "Plague Kripath",
+    "image": "plague-kripath.png"
+  },
+  {
+    "name": "Plague Kripath",
+    "image": "plague-kripath.png"
+  },
+  {
+    "name": "Plasma Sword",
+    "image": "plasma-sword.png"
+  },
+  {
+    "name": "Praedos",
+    "image": "praedos.png"
+  },
+  {
+    "name": "Prisma Dual Cleavers",
+    "image": "prisma-dual-cleavers.png"
+  },
+  {
+    "name": "Prisma Machete",
+    "image": "prisma-machete.png"
+  },
+  {
+    "name": "Prisma Obex",
+    "image": "prisma-obex.png"
+  },
+  {
+    "name": "Prisma Ohma",
+    "image": "prisma-ohma.png"
+  },
+  {
+    "name": "Prisma Skana",
+    "image": "prisma-skana.png"
+  },
+  {
+    "name": "Prova",
+    "image": "prova.png"
+  },
+  {
+    "name": "Prova Vandal",
+    "image": "prova-vandal.png"
+  },
+  {
+    "name": "Pulmonars",
+    "image": "pulmonars.png"
+  },
+  {
+    "name": "Pupacyst",
+    "image": "pupacyst.png"
+  },
+  {
+    "name": "Quassus",
+    "image": "quassus.png"
+  },
+  {
+    "name": "Rabvee",
+    "image": "rabvee.png"
+  },
+  {
+    "name": "Rakta Dark Dagger",
+    "image": "rakta-dark-dagger.png"
+  },
+  {
+    "name": "Reaper Prime",
+    "image": "reaper-prime.png"
+  },
+  {
+    "name": "Redeemer",
+    "image": "redeemer.png"
+  },
+  {
+    "name": "Redeemer Prime",
+    "image": "redeemer-prime.png"
+  },
+  {
+    "name": "Ripkas",
+    "image": "ripkas.png"
+  },
+  {
+    "name": "Ruhang",
+    "image": "ruhang.png"
+  },
+  {
+    "name": "Ruhang Ii",
+    "image": "ruhang-ii.png"
+  },
+  {
+    "name": "Rumblejack",
+    "image": "rumblejack.png"
+  },
+  {
+    "name": "Sampotes",
+    "image": "sampotes.png"
+  },
+  {
+    "name": "Sancti Magistar",
+    "image": "sancti-magistar.png"
+  },
+  {
+    "name": "Sarofang",
+    "image": "sarofang.png"
+  },
+  {
+    "name": "Sarpa",
+    "image": "sarpa.png"
+  },
+  {
+    "name": "Scindo",
+    "image": "scindo.png"
+  },
+  {
+    "name": "Scindo Prime",
+    "image": "scindo-prime.png"
+  },
+  {
+    "name": "Scoliac",
+    "image": "scoliac.png"
+  },
+  {
+    "name": "Secura Lecta",
+    "image": "secura-lecta.png"
+  },
+  {
+    "name": "Seekalla",
+    "image": "seekalla.png"
+  },
+  {
+    "name": "Sepfahn",
+    "image": "sepfahn.png"
+  },
+  {
+    "name": "Serro",
+    "image": "serro.png"
+  },
+  {
+    "name": "Shaku",
+    "image": "shaku.png"
+  },
+  {
+    "name": "Sheev",
+    "image": "sheev.png"
+  },
+  {
+    "name": "Shtung",
+    "image": "shtung.png"
+  },
+  {
+    "name": "Sibear",
+    "image": "sibear.png"
+  },
+  {
+    "name": "Sigma & Octantis",
+    "image": "sigma-&-octantis.png"
+  },
+  {
+    "name": "Silva & Aegis",
+    "image": "silva-&-aegis.png"
+  },
+  {
+    "name": "Silva & Aegis Prime",
+    "image": "silva-&-aegis-prime.png"
+  },
+  {
+    "name": "Skana",
+    "image": "skana.png"
+  },
+  {
+    "name": "Skana Prime",
+    "image": "skana-prime.png"
+  },
+  {
+    "name": "Skiajati",
+    "image": "skiajati.png"
+  },
+  {
+    "name": "Slaytra",
+    "image": "slaytra.png"
+  },
+  {
+    "name": "Stropha",
+    "image": "stropha.png"
+  },
+  {
+    "name": "Sun & Moon",
+    "image": "sun-&-moon.png"
+  },
+  {
+    "name": "Syam",
+    "image": "syam.png"
+  },
+  {
+    "name": "Sydon",
+    "image": "sydon.png"
+  },
+  {
+    "name": "Synoid Heliocor",
+    "image": "synoid-heliocor.png"
+  },
+  {
+    "name": "Tatsu",
+    "image": "tatsu.png"
+  },
+  {
+    "name": "Tatsu Prime",
+    "image": "tatsu-prime.png"
+  },
+  {
+    "name": "Tekko",
+    "image": "tekko.png"
+  },
+  {
+    "name": "Tekko Prime",
+    "image": "tekko-prime.png"
+  },
+  {
+    "name": "Telos Boltace",
+    "image": "telos-boltace.png"
+  },
+  {
+    "name": "Tenet Agendus",
+    "image": "tenet-agendus.png"
+  },
+  {
+    "name": "Tenet Exec",
+    "image": "tenet-exec.png"
+  },
+  {
+    "name": "Tenet Grigori",
+    "image": "tenet-grigori.png"
+  },
+  {
+    "name": "Tenet Livia",
+    "image": "tenet-livia.png"
+  },
+  {
+    "name": "Tipedo",
+    "image": "tipedo.png"
+  },
+  {
+    "name": "Tipedo Prime",
+    "image": "tipedo-prime.png"
+  },
+  {
+    "name": "Tonbo",
+    "image": "tonbo.png"
+  },
+  {
+    "name": "Twin Basolk",
+    "image": "twin-basolk.png"
+  },
+  {
+    "name": "Twin Krohkur",
+    "image": "twin-krohkur.png"
+  },
+  {
+    "name": "Vargeet Ii Jai",
+    "image": "vargeet-ii-jai.png"
+  },
+  {
+    "name": "Vargeet Ii Ruhang",
+    "image": "vargeet-ii-ruhang.png"
+  },
+  {
+    "name": "Vargeet Jai",
+    "image": "vargeet-jai.png"
+  },
+  {
+    "name": "Vargeet Jai Ii",
+    "image": "vargeet-jai-ii.png"
+  },
+  {
+    "name": "Vargeet Ruhang",
+    "image": "vargeet-ruhang.png"
+  },
+  {
+    "name": "Vargeet Ruhang Ii",
+    "image": "vargeet-ruhang-ii.png"
+  },
+  {
+    "name": "Vastilok",
+    "image": "vastilok.png"
+  },
+  {
+    "name": "Vaykor Sydon",
+    "image": "vaykor-sydon.png"
+  },
+  {
+    "name": "Venato",
+    "image": "venato.png"
+  },
+  {
+    "name": "Venka",
+    "image": "venka.png"
+  },
+  {
+    "name": "Venka Prime",
+    "image": "venka-prime.png"
+  },
+  {
+    "name": "Verdilac",
+    "image": "verdilac.png"
+  },
+  {
+    "name": "Vericres",
+    "image": "vericres.png"
+  },
+  {
+    "name": "Vitrica",
+    "image": "vitrica.png"
+  },
+  {
+    "name": "Volnus",
+    "image": "volnus.png"
+  },
+  {
+    "name": "Volnus Prime",
+    "image": "volnus-prime.png"
+  },
+  {
+    "name": "War",
+    "image": "war.png"
+  },
+  {
+    "name": "Wolf Sledge",
+    "image": "wolf-sledge.png"
+  },
+  {
+    "name": "Xoris",
+    "image": "xoris.png"
+  },
+  {
+    "name": "Zenistar",
+    "image": "zenistar.png"
+  }
+]

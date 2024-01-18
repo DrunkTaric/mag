@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Acceltra",
+    "image": "acceltra.png"
+  },
+  {
+    "name": "Acceltra Prime",
+    "image": "acceltra-prime.png"
+  },
+  {
+    "name": "Aeolak",
+    "image": "aeolak.png"
+  },
+  {
+    "name": "Afentis",
+    "image": "afentis.png"
+  },
+  {
+    "name": "Alternox",
+    "image": "alternox.png"
+  },
+  {
+    "name": "Ambassador",
+    "image": "ambassador.png"
+  },
+  {
+    "name": "Amprex",
+    "image": "amprex.png"
+  },
+  {
+    "name": "Arca Plasmor",
+    "image": "arca-plasmor.png"
+  },
+  {
+    "name": "Argonak",
+    "image": "argonak.png"
+  },
+  {
+    "name": "Astilla",
+    "image": "astilla.png"
+  },
+  {
+    "name": "Astilla Prime",
+    "image": "astilla-prime.png"
+  },
+  {
+    "name": "Attica",
+    "image": "attica.png"
+  },
+  {
+    "name": "Basmu",
+    "image": "basmu.png"
+  },
+  {
+    "name": "Battacor",
+    "image": "battacor.png"
+  },
+  {
+    "name": "Baza",
+    "image": "baza.png"
+  },
+  {
+    "name": "Baza Prime",
+    "image": "baza-prime.png"
+  },
+  {
+    "name": "Boar",
+    "image": "boar.png"
+  },
+  {
+    "name": "Boar Prime",
+    "image": "boar-prime.png"
+  },
+  {
+    "name": "Boltor",
+    "image": "boltor.png"
+  },
+  {
+    "name": "Boltor Prime",
+    "image": "boltor-prime.png"
+  },
+  {
+    "name": "Braton",
+    "image": "braton.png"
+  },
+  {
+    "name": "Braton Prime",
+    "image": "braton-prime.png"
+  },
+  {
+    "name": "Braton Vandal",
+    "image": "braton-vandal.png"
+  },
+  {
+    "name": "Bubonico",
+    "image": "bubonico.png"
+  },
+  {
+    "name": "Burston",
+    "image": "burston.png"
+  },
+  {
+    "name": "Burston Prime",
+    "image": "burston-prime.png"
+  },
+  {
+    "name": "Buzlok",
+    "image": "buzlok.png"
+  },
+  {
+    "name": "Carmine Penta",
+    "image": "carmine-penta.png"
+  },
+  {
+    "name": "Cedo",
+    "image": "cedo.png"
+  },
+  {
+    "name": "Cernos",
+    "image": "cernos.png"
+  },
+  {
+    "name": "Cernos Prime",
+    "image": "cernos-prime.png"
+  },
+  {
+    "name": "Cinta",
+    "image": "cinta.png"
+  },
+  {
+    "name": "Convectrix",
+    "image": "convectrix.png"
+  },
+  {
+    "name": "Corinth",
+    "image": "corinth.png"
+  },
+  {
+    "name": "Corinth Prime",
+    "image": "corinth-prime.png"
+  },
+  {
+    "name": "Daikyu",
+    "image": "daikyu.png"
+  },
+  {
+    "name": "Dera",
+    "image": "dera.png"
+  },
+  {
+    "name": "Dera Vandal",
+    "image": "dera-vandal.png"
+  },
+  {
+    "name": "Dex Sybaris",
+    "image": "dex-sybaris.png"
+  },
+  {
+    "name": "Drakgoon",
+    "image": "drakgoon.png"
+  },
+  {
+    "name": "Dread",
+    "image": "dread.png"
+  },
+  {
+    "name": "Exergis",
+    "image": "exergis.png"
+  },
+  {
+    "name": "Felarx",
+    "image": "felarx.png"
+  },
+  {
+    "name": "Ferrox",
+    "image": "ferrox.png"
+  },
+  {
+    "name": "Flux Rifle",
+    "image": "flux-rifle.png"
+  },
+  {
+    "name": "Fulmin",
+    "image": "fulmin.png"
+  },
+  {
+    "name": "Fulmin Prime",
+    "image": "fulmin-prime.png"
+  },
+  {
+    "name": "Glaxion",
+    "image": "glaxion.png"
+  },
+  {
+    "name": "Glaxion Vandal",
+    "image": "glaxion-vandal.png"
+  },
+  {
+    "name": "Gorgon",
+    "image": "gorgon.png"
+  },
+  {
+    "name": "Gorgon Wraith",
+    "image": "gorgon-wraith.png"
+  },
+  {
+    "name": "Gotva Prime",
+    "image": "gotva-prime.png"
+  },
+  {
+    "name": "Grakata",
+    "image": "grakata.png"
+  },
+  {
+    "name": "Grinlok",
+    "image": "grinlok.png"
+  },
+  {
+    "name": "Harpak",
+    "image": "harpak.png"
+  },
+  {
+    "name": "Hek",
+    "image": "hek.png"
+  },
+  {
+    "name": "Hema",
+    "image": "hema.png"
+  },
+  {
+    "name": "Hind",
+    "image": "hind.png"
+  },
+  {
+    "name": "Ignis",
+    "image": "ignis.png"
+  },
+  {
+    "name": "Ignis Wraith",
+    "image": "ignis-wraith.png"
+  },
+  {
+    "name": "Javlok",
+    "image": "javlok.png"
+  },
+  {
+    "name": "Karak",
+    "image": "karak.png"
+  },
+  {
+    "name": "Karak Wraith",
+    "image": "karak-wraith.png"
+  },
+  {
+    "name": "Kohm",
+    "image": "kohm.png"
+  },
+  {
+    "name": "Komorex",
+    "image": "komorex.png"
+  },
+  {
+    "name": "Kuva Bramma",
+    "image": "kuva-bramma.png"
+  },
+  {
+    "name": "Kuva Chakkhurr",
+    "image": "kuva-chakkhurr.png"
+  },
+  {
+    "name": "Kuva Drakgoon",
+    "image": "kuva-drakgoon.png"
+  },
+  {
+    "name": "Kuva Hek",
+    "image": "kuva-hek.png"
+  },
+  {
+    "name": "Kuva Hind",
+    "image": "kuva-hind.png"
+  },
+  {
+    "name": "Kuva Karak",
+    "image": "kuva-karak.png"
+  },
+  {
+    "name": "Kuva Kohm",
+    "image": "kuva-kohm.png"
+  },
+  {
+    "name": "Kuva Ogris",
+    "image": "kuva-ogris.png"
+  },
+  {
+    "name": "Kuva Quartakk",
+    "image": "kuva-quartakk.png"
+  },
+  {
+    "name": "Kuva Tonkor",
+    "image": "kuva-tonkor.png"
+  },
+  {
+    "name": "Kuva Zarr",
+    "image": "kuva-zarr.png"
+  },
+  {
+    "name": "Lanka",
+    "image": "lanka.png"
+  },
+  {
+    "name": "Latron",
+    "image": "latron.png"
+  },
+  {
+    "name": "Latron Prime",
+    "image": "latron-prime.png"
+  },
+  {
+    "name": "Latron Wraith",
+    "image": "latron-wraith.png"
+  },
+  {
+    "name": "Lenz",
+    "image": "lenz.png"
+  },
+  {
+    "name": "Miter",
+    "image": "miter.png"
+  },
+  {
+    "name": "Mk1-Braton",
+    "image": "mk1-braton.png"
+  },
+  {
+    "name": "Mk1-Paris",
+    "image": "mk1-paris.png"
+  },
+  {
+    "name": "Mk1-Strun",
+    "image": "mk1-strun.png"
+  },
+  {
+    "name": "Mutalist Cernos",
+    "image": "mutalist-cernos.png"
+  },
+  {
+    "name": "Mutalist Quanta",
+    "image": "mutalist-quanta.png"
+  },
+  {
+    "name": "Nagantaka",
+    "image": "nagantaka.png"
+  },
+  {
+    "name": "Nagantaka Prime",
+    "image": "nagantaka-prime.png"
+  },
+  {
+    "name": "Nataruk",
+    "image": "nataruk.png"
+  },
+  {
+    "name": "Ogris",
+    "image": "ogris.png"
+  },
+  {
+    "name": "Opticor",
+    "image": "opticor.png"
+  },
+  {
+    "name": "Opticor Vandal",
+    "image": "opticor-vandal.png"
+  },
+  {
+    "name": "Panthera",
+    "image": "panthera.png"
+  },
+  {
+    "name": "Panthera Prime",
+    "image": "panthera-prime.png"
+  },
+  {
+    "name": "Paracyst",
+    "image": "paracyst.png"
+  },
+  {
+    "name": "Paris",
+    "image": "paris.png"
+  },
+  {
+    "name": "Paris Prime",
+    "image": "paris-prime.png"
+  },
+  {
+    "name": "Penta",
+    "image": "penta.png"
+  },
+  {
+    "name": "Perigale",
+    "image": "perigale.png"
+  },
+  {
+    "name": "Phage",
+    "image": "phage.png"
+  },
+  {
+    "name": "Phantasma",
+    "image": "phantasma.png"
+  },
+  {
+    "name": "Phantasma Prime",
+    "image": "phantasma-prime.png"
+  },
+  {
+    "name": "Phenmor",
+    "image": "phenmor.png"
+  },
+  {
+    "name": "Prisma Gorgon",
+    "image": "prisma-gorgon.png"
+  },
+  {
+    "name": "Prisma Grakata",
+    "image": "prisma-grakata.png"
+  },
+  {
+    "name": "Prisma Grinlok",
+    "image": "prisma-grinlok.png"
+  },
+  {
+    "name": "Prisma Lenz",
+    "image": "prisma-lenz.png"
+  },
+  {
+    "name": "Prisma Tetra",
+    "image": "prisma-tetra.png"
+  },
+  {
+    "name": "Proboscis Cernos",
+    "image": "proboscis-cernos.png"
+  },
+  {
+    "name": "Quanta",
+    "image": "quanta.png"
+  },
+  {
+    "name": "Quanta Vandal",
+    "image": "quanta-vandal.png"
+  },
+  {
+    "name": "Quartakk",
+    "image": "quartakk.png"
+  },
+  {
+    "name": "Quellor",
+    "image": "quellor.png"
+  },
+  {
+    "name": "Rakta Cernos",
+    "image": "rakta-cernos.png"
+  },
+  {
+    "name": "Rauta",
+    "image": "rauta.png"
+  },
+  {
+    "name": "Rubico",
+    "image": "rubico.png"
+  },
+  {
+    "name": "Rubico Prime",
+    "image": "rubico-prime.png"
+  },
+  {
+    "name": "Sancti Tigris",
+    "image": "sancti-tigris.png"
+  },
+  {
+    "name": "Scourge",
+    "image": "scourge.png"
+  },
+  {
+    "name": "Scourge Prime",
+    "image": "scourge-prime.png"
+  },
+  {
+    "name": "Secura Penta",
+    "image": "secura-penta.png"
+  },
+  {
+    "name": "Shedu",
+    "image": "shedu.png"
+  },
+  {
+    "name": "Simulor",
+    "image": "simulor.png"
+  },
+  {
+    "name": "Sirocco",
+    "image": "sirocco.png"
+  },
+  {
+    "name": "Snipetron",
+    "image": "snipetron.png"
+  },
+  {
+    "name": "Snipetron Vandal",
+    "image": "snipetron-vandal.png"
+  },
+  {
+    "name": "Sobek",
+    "image": "sobek.png"
+  },
+  {
+    "name": "Soma",
+    "image": "soma.png"
+  },
+  {
+    "name": "Soma Prime",
+    "image": "soma-prime.png"
+  },
+  {
+    "name": "Sporothrix",
+    "image": "sporothrix.png"
+  },
+  {
+    "name": "Stahlta",
+    "image": "stahlta.png"
+  },
+  {
+    "name": "Steflos",
+    "image": "steflos.png"
+  },
+  {
+    "name": "Stradavar",
+    "image": "stradavar.png"
+  },
+  {
+    "name": "Stradavar Prime",
+    "image": "stradavar-prime.png"
+  },
+  {
+    "name": "Strun",
+    "image": "strun.png"
+  },
+  {
+    "name": "Strun Prime",
+    "image": "strun-prime.png"
+  },
+  {
+    "name": "Strun Wraith",
+    "image": "strun-wraith.png"
+  },
+  {
+    "name": "Supra",
+    "image": "supra.png"
+  },
+  {
+    "name": "Supra Vandal",
+    "image": "supra-vandal.png"
+  },
+  {
+    "name": "Sybaris",
+    "image": "sybaris.png"
+  },
+  {
+    "name": "Sybaris Prime",
+    "image": "sybaris-prime.png"
+  },
+  {
+    "name": "Synapse",
+    "image": "synapse.png"
+  },
+  {
+    "name": "Synoid Simulor",
+    "image": "synoid-simulor.png"
+  },
+  {
+    "name": "Telos Boltor",
+    "image": "telos-boltor.png"
+  },
+  {
+    "name": "Tenet Arca Plasmor",
+    "image": "tenet-arca-plasmor.png"
+  },
+  {
+    "name": "Tenet Envoy",
+    "image": "tenet-envoy.png"
+  },
+  {
+    "name": "Tenet Ferrox",
+    "image": "tenet-ferrox.png"
+  },
+  {
+    "name": "Tenet Flux Rifle",
+    "image": "tenet-flux-rifle.png"
+  },
+  {
+    "name": "Tenet Tetra",
+    "image": "tenet-tetra.png"
+  },
+  {
+    "name": "Tenora",
+    "image": "tenora.png"
+  },
+  {
+    "name": "Tenora Prime",
+    "image": "tenora-prime.png"
+  },
+  {
+    "name": "Tetra",
+    "image": "tetra.png"
+  },
+  {
+    "name": "Tiberon",
+    "image": "tiberon.png"
+  },
+  {
+    "name": "Tiberon Prime",
+    "image": "tiberon-prime.png"
+  },
+  {
+    "name": "Tigris",
+    "image": "tigris.png"
+  },
+  {
+    "name": "Tigris Prime",
+    "image": "tigris-prime.png"
+  },
+  {
+    "name": "Tonkor",
+    "image": "tonkor.png"
+  },
+  {
+    "name": "Torid",
+    "image": "torid.png"
+  },
+  {
+    "name": "Trumna",
+    "image": "trumna.png"
+  },
+  {
+    "name": "Vaykor Hek",
+    "image": "vaykor-hek.png"
+  },
+  {
+    "name": "Vectis",
+    "image": "vectis.png"
+  },
+  {
+    "name": "Vectis Prime",
+    "image": "vectis-prime.png"
+  },
+  {
+    "name": "Veldt",
+    "image": "veldt.png"
+  },
+  {
+    "name": "Vulkar",
+    "image": "vulkar.png"
+  },
+  {
+    "name": "Vulkar Wraith",
+    "image": "vulkar-wraith.png"
+  },
+  {
+    "name": "Zarr",
+    "image": "zarr.png"
+  },
+  {
+    "name": "Zenith",
+    "image": "zenith.png"
+  },
+  {
+    "name": "Zhuge",
+    "image": "zhuge.png"
+  },
+  {
+    "name": "Zhuge Prime",
+    "image": "zhuge-prime.png"
+  }
+]

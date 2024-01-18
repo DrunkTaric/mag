@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Akimbo Slip Shot",
+    "image": "akimbo-slip-shot.png"
+  },
+  {
+    "name": "Arcane Acceleration",
+    "image": "arcane-acceleration.png"
+  },
+  {
+    "name": "Arcane Aegis",
+    "image": "arcane-aegis.png"
+  },
+  {
+    "name": "Arcane Agility",
+    "image": "arcane-agility.png"
+  },
+  {
+    "name": "Arcane Arachne",
+    "image": "arcane-arachne.png"
+  },
+  {
+    "name": "Arcane Avenger",
+    "image": "arcane-avenger.png"
+  },
+  {
+    "name": "Arcane Awakening",
+    "image": "arcane-awakening.png"
+  },
+  {
+    "name": "Arcane Barrier",
+    "image": "arcane-barrier.png"
+  },
+  {
+    "name": "Arcane Blade Charger",
+    "image": "arcane-blade-charger.png"
+  },
+  {
+    "name": "Arcane Blessing",
+    "image": "arcane-blessing.png"
+  },
+  {
+    "name": "Arcane Bodyguard",
+    "image": "arcane-bodyguard.png"
+  },
+  {
+    "name": "Arcane Consequence",
+    "image": "arcane-consequence.png"
+  },
+  {
+    "name": "Arcane Defense",
+    "image": "arcane-defense.png"
+  },
+  {
+    "name": "Arcane Deflection",
+    "image": "arcane-deflection.png"
+  },
+  {
+    "name": "Arcane Detoxifier",
+    "image": "arcane-detoxifier.png"
+  },
+  {
+    "name": "Arcane Double Back",
+    "image": "arcane-double-back.png"
+  },
+  {
+    "name": "Arcane Energize",
+    "image": "arcane-energize.png"
+  },
+  {
+    "name": "Arcane Eruption",
+    "image": "arcane-eruption.png"
+  },
+  {
+    "name": "Arcane Fury",
+    "image": "arcane-fury.png"
+  },
+  {
+    "name": "Arcane Fury",
+    "image": "arcane-fury.png"
+  },
+  {
+    "name": "Arcane Grace",
+    "image": "arcane-grace.png"
+  },
+  {
+    "name": "Arcane Guardian",
+    "image": "arcane-guardian.png"
+  },
+  {
+    "name": "Arcane Healing",
+    "image": "arcane-healing.png"
+  },
+  {
+    "name": "Arcane Ice",
+    "image": "arcane-ice.png"
+  },
+  {
+    "name": "Arcane Intention",
+    "image": "arcane-intention.png"
+  },
+  {
+    "name": "Arcane Liquid",
+    "image": "arcane-liquid.png"
+  },
+  {
+    "name": "Arcane Momentum",
+    "image": "arcane-momentum.png"
+  },
+  {
+    "name": "Arcane Nullifier",
+    "image": "arcane-nullifier.png"
+  },
+  {
+    "name": "Arcane Phantasm",
+    "image": "arcane-phantasm.png"
+  },
+  {
+    "name": "Arcane Pistoleer",
+    "image": "arcane-pistoleer.png"
+  },
+  {
+    "name": "Arcane Power Ramp",
+    "image": "arcane-power-ramp.png"
+  },
+  {
+    "name": "Arcane Precision",
+    "image": "arcane-precision.png"
+  },
+  {
+    "name": "Arcane Primary Charger",
+    "image": "arcane-primary-charger.png"
+  },
+  {
+    "name": "Arcane Protection",
+    "image": "arcane-protection.png"
+  },
+  {
+    "name": "Arcane Pulse",
+    "image": "arcane-pulse.png"
+  },
+  {
+    "name": "Arcane Rage",
+    "image": "arcane-rage.png"
+  },
+  {
+    "name": "Arcane Reaper",
+    "image": "arcane-reaper.png"
+  },
+  {
+    "name": "Arcane Resistance",
+    "image": "arcane-resistance.png"
+  },
+  {
+    "name": "Arcane Rise",
+    "image": "arcane-rise.png"
+  },
+  {
+    "name": "Arcane Shield",
+    "image": "arcane-shield.png"
+  },
+  {
+    "name": "Arcane Steadfast",
+    "image": "arcane-steadfast.png"
+  },
+  {
+    "name": "Arcane Strike",
+    "image": "arcane-strike.png"
+  },
+  {
+    "name": "Arcane Survival",
+    "image": "arcane-survival.png"
+  },
+  {
+    "name": "Arcane Tanker",
+    "image": "arcane-tanker.png"
+  },
+  {
+    "name": "Arcane Temperance",
+    "image": "arcane-temperance.png"
+  },
+  {
+    "name": "Arcane Tempo",
+    "image": "arcane-tempo.png"
+  },
+  {
+    "name": "Arcane Trickery",
+    "image": "arcane-trickery.png"
+  },
+  {
+    "name": "Arcane Ultimatum",
+    "image": "arcane-ultimatum.png"
+  },
+  {
+    "name": "Arcane Velocity",
+    "image": "arcane-velocity.png"
+  },
+  {
+    "name": "Arcane Victory",
+    "image": "arcane-victory.png"
+  },
+  {
+    "name": "Arcane Warmth",
+    "image": "arcane-warmth.png"
+  },
+  {
+    "name": "Cascadia Accuracy",
+    "image": "cascadia-accuracy.png"
+  },
+  {
+    "name": "Cascadia Empowered",
+    "image": "cascadia-empowered.png"
+  },
+  {
+    "name": "Cascadia Flare",
+    "image": "cascadia-flare.png"
+  },
+  {
+    "name": "Cascadia Overcharge",
+    "image": "cascadia-overcharge.png"
+  },
+  {
+    "name": "Conjunction Voltage",
+    "image": "conjunction-voltage.png"
+  },
+  {
+    "name": "Emergence Dissipate",
+    "image": "emergence-dissipate.png"
+  },
+  {
+    "name": "Emergence Renewed",
+    "image": "emergence-renewed.png"
+  },
+  {
+    "name": "Emergence Savior",
+    "image": "emergence-savior.png"
+  },
+  {
+    "name": "Eternal Eradicate",
+    "image": "eternal-eradicate.png"
+  },
+  {
+    "name": "Eternal Logistics",
+    "image": "eternal-logistics.png"
+  },
+  {
+    "name": "Eternal Onslaught",
+    "image": "eternal-onslaught.png"
+  },
+  {
+    "name": "Exodia Brave",
+    "image": "exodia-brave.png"
+  },
+  {
+    "name": "Exodia Contagion",
+    "image": "exodia-contagion.png"
+  },
+  {
+    "name": "Exodia Epidemic",
+    "image": "exodia-epidemic.png"
+  },
+  {
+    "name": "Exodia Force",
+    "image": "exodia-force.png"
+  },
+  {
+    "name": "Exodia Hunt",
+    "image": "exodia-hunt.png"
+  },
+  {
+    "name": "Exodia Might",
+    "image": "exodia-might.png"
+  },
+  {
+    "name": "Exodia Triumph",
+    "image": "exodia-triumph.png"
+  },
+  {
+    "name": "Exodia Valor",
+    "image": "exodia-valor.png"
+  },
+  {
+    "name": "Fractalized Reset",
+    "image": "fractalized-reset.png"
+  },
+  {
+    "name": "Longbow Sharpshot",
+    "image": "longbow-sharpshot.png"
+  },
+  {
+    "name": "Magus Accelerant",
+    "image": "magus-accelerant.png"
+  },
+  {
+    "name": "Magus Aggress",
+    "image": "magus-aggress.png"
+  },
+  {
+    "name": "Magus Anomaly",
+    "image": "magus-anomaly.png"
+  },
+  {
+    "name": "Magus Cadence",
+    "image": "magus-cadence.png"
+  },
+  {
+    "name": "Magus Cloud",
+    "image": "magus-cloud.png"
+  },
+  {
+    "name": "Magus Destruct",
+    "image": "magus-destruct.png"
+  },
+  {
+    "name": "Magus Drive",
+    "image": "magus-drive.png"
+  },
+  {
+    "name": "Magus Elevate",
+    "image": "magus-elevate.png"
+  },
+  {
+    "name": "Magus Firewall",
+    "image": "magus-firewall.png"
+  },
+  {
+    "name": "Magus Glitch",
+    "image": "magus-glitch.png"
+  },
+  {
+    "name": "Magus Husk",
+    "image": "magus-husk.png"
+  },
+  {
+    "name": "Magus Lockdown",
+    "image": "magus-lockdown.png"
+  },
+  {
+    "name": "Magus Melt",
+    "image": "magus-melt.png"
+  },
+  {
+    "name": "Magus Nourish",
+    "image": "magus-nourish.png"
+  },
+  {
+    "name": "Magus Overload",
+    "image": "magus-overload.png"
+  },
+  {
+    "name": "Magus Repair",
+    "image": "magus-repair.png"
+  },
+  {
+    "name": "Magus Replenish",
+    "image": "magus-replenish.png"
+  },
+  {
+    "name": "Magus Revert",
+    "image": "magus-revert.png"
+  },
+  {
+    "name": "Magus Vigor",
+    "image": "magus-vigor.png"
+  },
+  {
+    "name": "Molt Augmented",
+    "image": "molt-augmented.png"
+  },
+  {
+    "name": "Molt Efficiency",
+    "image": "molt-efficiency.png"
+  },
+  {
+    "name": "Molt Reconstruct",
+    "image": "molt-reconstruct.png"
+  },
+  {
+    "name": "Molt Vigor",
+    "image": "molt-vigor.png"
+  },
+  {
+    "name": "Pax Bolt",
+    "image": "pax-bolt.png"
+  },
+  {
+    "name": "Pax Charge",
+    "image": "pax-charge.png"
+  },
+  {
+    "name": "Pax Seeker",
+    "image": "pax-seeker.png"
+  },
+  {
+    "name": "Pax Soar",
+    "image": "pax-soar.png"
+  },
+  {
+    "name": "Primary Blight",
+    "image": "primary-blight.png"
+  },
+  {
+    "name": "Primary Deadhead",
+    "image": "primary-deadhead.png"
+  },
+  {
+    "name": "Primary Dexterity",
+    "image": "primary-dexterity.png"
+  },
+  {
+    "name": "Primary Exhilarate",
+    "image": "primary-exhilarate.png"
+  },
+  {
+    "name": "Primary Frostbite",
+    "image": "primary-frostbite.png"
+  },
+  {
+    "name": "Primary Merciless",
+    "image": "primary-merciless.png"
+  },
+  {
+    "name": "Primary Obstruct",
+    "image": "primary-obstruct.png"
+  },
+  {
+    "name": "Primary Plated Round",
+    "image": "primary-plated-round.png"
+  },
+  {
+    "name": "Residual Boils",
+    "image": "residual-boils.png"
+  },
+  {
+    "name": "Residual Malodor",
+    "image": "residual-malodor.png"
+  },
+  {
+    "name": "Residual Shock",
+    "image": "residual-shock.png"
+  },
+  {
+    "name": "Residual Viremia",
+    "image": "residual-viremia.png"
+  },
+  {
+    "name": "Secondary Deadhead",
+    "image": "secondary-deadhead.png"
+  },
+  {
+    "name": "Secondary Dexterity",
+    "image": "secondary-dexterity.png"
+  },
+  {
+    "name": "Secondary Encumber",
+    "image": "secondary-encumber.png"
+  },
+  {
+    "name": "Secondary Kinship",
+    "image": "secondary-kinship.png"
+  },
+  {
+    "name": "Secondary Merciless",
+    "image": "secondary-merciless.png"
+  },
+  {
+    "name": "Secondary Outburst",
+    "image": "secondary-outburst.png"
+  },
+  {
+    "name": "Secondary Shiver",
+    "image": "secondary-shiver.png"
+  },
+  {
+    "name": "Shotgun Vendetta",
+    "image": "shotgun-vendetta.png"
+  },
+  {
+    "name": "Theorem Contagion",
+    "image": "theorem-contagion.png"
+  },
+  {
+    "name": "Theorem Demulcent",
+    "image": "theorem-demulcent.png"
+  },
+  {
+    "name": "Theorem Infection",
+    "image": "theorem-infection.png"
+  },
+  {
+    "name": "Virtuos Forge",
+    "image": "virtuos-forge.png"
+  },
+  {
+    "name": "Virtuos Fury",
+    "image": "virtuos-fury.png"
+  },
+  {
+    "name": "Virtuos Ghost",
+    "image": "virtuos-ghost.png"
+  },
+  {
+    "name": "Virtuos Null",
+    "image": "virtuos-null.png"
+  },
+  {
+    "name": "Virtuos Shadow",
+    "image": "virtuos-shadow.png"
+  },
+  {
+    "name": "Virtuos Spike",
+    "image": "virtuos-spike.png"
+  },
+  {
+    "name": "Virtuos Strike",
+    "image": "virtuos-strike.png"
+  },
+  {
+    "name": "Virtuos Surge",
+    "image": "virtuos-surge.png"
+  },
+  {
+    "name": "Virtuos Tempo",
+    "image": "virtuos-tempo.png"
+  },
+  {
+    "name": "Virtuos Trojan",
+    "image": "virtuos-trojan.png"
+  }
+]

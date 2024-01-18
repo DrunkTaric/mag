@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Ash",
+    "image": "ash.png"
+  },
+  {
+    "name": "Ash Prime",
+    "image": "ash-prime.png"
+  },
+  {
+    "name": "Atlas",
+    "image": "atlas.png"
+  },
+  {
+    "name": "Atlas Prime",
+    "image": "atlas-prime.png"
+  },
+  {
+    "name": "Banshee",
+    "image": "banshee.png"
+  },
+  {
+    "name": "Banshee Prime",
+    "image": "banshee-prime.png"
+  },
+  {
+    "name": "Baruuk",
+    "image": "baruuk.png"
+  },
+  {
+    "name": "Baruuk Prime",
+    "image": "baruuk-prime.png"
+  },
+  {
+    "name": "Bonewidow",
+    "image": "bonewidow.png"
+  },
+  {
+    "name": "Caliban",
+    "image": "caliban.png"
+  },
+  {
+    "name": "Chroma",
+    "image": "chroma.png"
+  },
+  {
+    "name": "Chroma Prime",
+    "image": "chroma-prime.png"
+  },
+  {
+    "name": "Citrine",
+    "image": "citrine.png"
+  },
+  {
+    "name": "Dagath",
+    "image": "dagath.png"
+  },
+  {
+    "name": "Ember",
+    "image": "ember.png"
+  },
+  {
+    "name": "Ember Prime",
+    "image": "ember-prime.png"
+  },
+  {
+    "name": "Equinox",
+    "image": "equinox.png"
+  },
+  {
+    "name": "Equinox Prime",
+    "image": "equinox-prime.png"
+  },
+  {
+    "name": "Excalibur",
+    "image": "excalibur.png"
+  },
+  {
+    "name": "Excalibur Prime",
+    "image": "excalibur-prime.png"
+  },
+  {
+    "name": "Excalibur Umbra",
+    "image": "excalibur-umbra.png"
+  },
+  {
+    "name": "Frost",
+    "image": "frost.png"
+  },
+  {
+    "name": "Frost Prime",
+    "image": "frost-prime.png"
+  },
+  {
+    "name": "Gara",
+    "image": "gara.png"
+  },
+  {
+    "name": "Gara Prime",
+    "image": "gara-prime.png"
+  },
+  {
+    "name": "Garuda",
+    "image": "garuda.png"
+  },
+  {
+    "name": "Garuda Prime",
+    "image": "garuda-prime.png"
+  },
+  {
+    "name": "Gauss",
+    "image": "gauss.png"
+  },
+  {
+    "name": "Gauss Prime",
+    "image": "gauss-prime.png"
+  },
+  {
+    "name": "Grendel",
+    "image": "grendel.png"
+  },
+  {
+    "name": "Grendel Prime",
+    "image": "grendel-prime.png"
+  },
+  {
+    "name": "Gyre",
+    "image": "gyre.png"
+  },
+  {
+    "name": "Harrow",
+    "image": "harrow.png"
+  },
+  {
+    "name": "Harrow Prime",
+    "image": "harrow-prime.png"
+  },
+  {
+    "name": "Hildryn",
+    "image": "hildryn.png"
+  },
+  {
+    "name": "Hildryn Prime",
+    "image": "hildryn-prime.png"
+  },
+  {
+    "name": "Hydroid",
+    "image": "hydroid.png"
+  },
+  {
+    "name": "Hydroid Prime",
+    "image": "hydroid-prime.png"
+  },
+  {
+    "name": "Inaros",
+    "image": "inaros.png"
+  },
+  {
+    "name": "Inaros Prime",
+    "image": "inaros-prime.png"
+  },
+  {
+    "name": "Ivara",
+    "image": "ivara.png"
+  },
+  {
+    "name": "Ivara Prime",
+    "image": "ivara-prime.png"
+  },
+  {
+    "name": "Khora",
+    "image": "khora.png"
+  },
+  {
+    "name": "Khora Prime",
+    "image": "khora-prime.png"
+  },
+  {
+    "name": "Kullervo",
+    "image": "kullervo.png"
+  },
+  {
+    "name": "Lavos",
+    "image": "lavos.png"
+  },
+  {
+    "name": "Limbo",
+    "image": "limbo.png"
+  },
+  {
+    "name": "Limbo Prime",
+    "image": "limbo-prime.png"
+  },
+  {
+    "name": "Loki",
+    "image": "loki.png"
+  },
+  {
+    "name": "Loki Prime",
+    "image": "loki-prime.png"
+  },
+  {
+    "name": "Mag",
+    "image": "mag.png"
+  },
+  {
+    "name": "Mag Prime",
+    "image": "mag-prime.png"
+  },
+  {
+    "name": "Mesa",
+    "image": "mesa.png"
+  },
+  {
+    "name": "Mesa Prime",
+    "image": "mesa-prime.png"
+  },
+  {
+    "name": "Mirage",
+    "image": "mirage.png"
+  },
+  {
+    "name": "Mirage Prime",
+    "image": "mirage-prime.png"
+  },
+  {
+    "name": "Nekros",
+    "image": "nekros.png"
+  },
+  {
+    "name": "Nekros Prime",
+    "image": "nekros-prime.png"
+  },
+  {
+    "name": "Nezha",
+    "image": "nezha.png"
+  },
+  {
+    "name": "Nezha Prime",
+    "image": "nezha-prime.png"
+  },
+  {
+    "name": "Nidus",
+    "image": "nidus.png"
+  },
+  {
+    "name": "Nidus Prime",
+    "image": "nidus-prime.png"
+  },
+  {
+    "name": "Nova",
+    "image": "nova.png"
+  },
+  {
+    "name": "Nova Prime",
+    "image": "nova-prime.png"
+  },
+  {
+    "name": "Nyx",
+    "image": "nyx.png"
+  },
+  {
+    "name": "Nyx Prime",
+    "image": "nyx-prime.png"
+  },
+  {
+    "name": "Oberon",
+    "image": "oberon.png"
+  },
+  {
+    "name": "Oberon Prime",
+    "image": "oberon-prime.png"
+  },
+  {
+    "name": "Octavia",
+    "image": "octavia.png"
+  },
+  {
+    "name": "Octavia Prime",
+    "image": "octavia-prime.png"
+  },
+  {
+    "name": "Protea",
+    "image": "protea.png"
+  },
+  {
+    "name": "Qorvex",
+    "image": "qorvex.png"
+  },
+  {
+    "name": "Revenant",
+    "image": "revenant.png"
+  },
+  {
+    "name": "Revenant Prime",
+    "image": "revenant-prime.png"
+  },
+  {
+    "name": "Rhino",
+    "image": "rhino.png"
+  },
+  {
+    "name": "Rhino Prime",
+    "image": "rhino-prime.png"
+  },
+  {
+    "name": "Saryn",
+    "image": "saryn.png"
+  },
+  {
+    "name": "Saryn Prime",
+    "image": "saryn-prime.png"
+  },
+  {
+    "name": "Sevagoth",
+    "image": "sevagoth.png"
+  },
+  {
+    "name": "Styanax",
+    "image": "styanax.png"
+  },
+  {
+    "name": "Titania",
+    "image": "titania.png"
+  },
+  {
+    "name": "Titania Prime",
+    "image": "titania-prime.png"
+  },
+  {
+    "name": "Trinity",
+    "image": "trinity.png"
+  },
+  {
+    "name": "Trinity Prime",
+    "image": "trinity-prime.png"
+  },
+  {
+    "name": "Valkyr",
+    "image": "valkyr.png"
+  },
+  {
+    "name": "Valkyr Prime",
+    "image": "valkyr-prime.png"
+  },
+  {
+    "name": "Vauban",
+    "image": "vauban.png"
+  },
+  {
+    "name": "Vauban Prime",
+    "image": "vauban-prime.png"
+  },
+  {
+    "name": "Voidrig",
+    "image": "voidrig.png"
+  },
+  {
+    "name": "Volt",
+    "image": "volt.png"
+  },
+  {
+    "name": "Volt Prime",
+    "image": "volt-prime.png"
+  },
+  {
+    "name": "Voruna",
+    "image": "voruna.png"
+  },
+  {
+    "name": "Wisp",
+    "image": "wisp.png"
+  },
+  {
+    "name": "Wisp Prime",
+    "image": "wisp-prime.png"
+  },
+  {
+    "name": "Wukong",
+    "image": "wukong.png"
+  },
+  {
+    "name": "Wukong Prime",
+    "image": "wukong-prime.png"
+  },
+  {
+    "name": "Xaku",
+    "image": "xaku.png"
+  },
+  {
+    "name": "Yareli",
+    "image": "yareli.png"
+  },
+  {
+    "name": "Zephyr",
+    "image": "zephyr.png"
+  },
+  {
+    "name": "Zephyr Prime",
+    "image": "zephyr-prime.png"
+  }
+]
