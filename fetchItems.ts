@@ -10,6 +10,7 @@ const Links = {
     "secondary": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Secondary.json",
     "warframe": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Warframes.json",
     "mods": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Mods.json"
+    "mods": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Mods.json",
 }
 
 function structureItem(item: any) {
