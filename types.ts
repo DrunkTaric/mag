@@ -18,3 +18,10 @@ export interface MetaData {
     name: string
     description: string
 }
+
+export interface File {
+    metadata: MetaData
+    command?: any
+    commands?: any[]
+    callbacks?: any[]
+}
