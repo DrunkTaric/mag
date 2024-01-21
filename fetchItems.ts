@@ -16,7 +16,9 @@ const Links = {
 function structureItem(item: any) {
     return {
         name: item.name,
-        image: item.imageName,
+        market_name: item.name.replace(" ", "_").toLowerCase(),
+        image: `https://cdn.warframestat.us/img/${item.imageName}`,
+        drops: item.drops
     }
 }
 
