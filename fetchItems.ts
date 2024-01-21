@@ -31,6 +31,22 @@ async function fetch() {
 
             data.forEach((item: any) => {
                 if (item.name.toLowerCase() != "arcane") { 
+                    let drops: { location: any; chance: any; rarity: any }[] = []
+                    data.forEach((item2: any) => {
+                        if (item2.drops) {
+                            for (let i = 0; i < item2.drops.length; i++) {
+                                let drop = item2.drops[i]
+                                if (drop.type == item.name) {
+                                    drops.push({
+                                        location: drop.location,
+                                        chance: drop.chance,
+                                        rarity: drop.rarity
+                                    })
+                                }
+                            }   
+                        }
+                    })
+                    item.drops = drops
                     items.push(structureItem(item))
                 }
             })
