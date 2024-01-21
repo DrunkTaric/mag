@@ -9,8 +9,8 @@ const Links = {
     "primary": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Primary.json",
     "secondary": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Secondary.json",
     "warframe": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Warframes.json",
-    "mods": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Mods.json"
     "mods": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Mods.json",
+    "relics": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json"
 }
 
 function structureItem(item: any) {
@@ -36,7 +36,8 @@ async function fetch() {
             .sort((a: any, b: any) => a.name - b.name)
             let file = path.join(__dirname, "public", "items",`${key}.json`)
             fs.writeFileSync(file, JSON.stringify(items, null, 2))
-        }catch(_) {
+        }catch(err) {
+            console.log(err)
             continue
         }
     }
