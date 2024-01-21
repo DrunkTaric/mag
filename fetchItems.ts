@@ -1,7 +1,6 @@
 import fs from "fs"
 import path from "path"
 import axios from "axios"
-import Items from "warframe-items"
 
 const Links = {
     "arcanes": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Arcanes.json",
