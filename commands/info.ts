@@ -23,6 +23,6 @@ module.exports = {
                     )
         ),
     async execute(interaction: any) {
-        await interaction.reply('porn hub');
+        await interaction.reply(interaction.options.getString("type"));
     }
 }
