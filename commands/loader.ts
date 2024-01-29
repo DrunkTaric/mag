@@ -75,11 +75,11 @@ export async function getCallbacks() {
 			callbacks[key] = {
 				name: value.metadata.name,
 				callback: value.command.execute
-			})
+			}
 			continue
 		}
 		for (const command of value.commands) {
-			callbacks[key].push({
+			(callbacks[key] as { name: string, callback: any }[]).push({
 				name: command.data.name,
 				callback: command.execute
 			})
@@ -118,15 +118,18 @@ export async function handleCommmands(client: Client) {
 		try {
 			subcommand = interaction.options.getSubcommand()
 		}catch (error) {
-			subcommand = interaction.options
+			subcommand = null
 		}
 
 		console.log(subcommand)
-
-		for (const callback of callbacks[interaction.commandName]) {
-			if (subcommand == callback.name) {
-				await callback.callback(interaction)
+		if (callbacks[interaction.commandName] instanceof Array) {
+			for (const callback of callbacks[interaction.commandName] as Array<{ name: string, callback: any }>) {
+				if (subcommand == callback.name) {
+					await callback.callback(interaction)
+				}
 			}
+			return
 		}
+		await (callbacks[interaction.commandName] as { name: string, callback: any }).callback(interaction)
 	})
 }
