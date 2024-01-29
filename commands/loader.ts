@@ -72,7 +72,7 @@ export async function getCallbacks() {
 		if (callbacks[key] == undefined) callbacks[key] = []
 		
 		if (value.commands == undefined) {
-			callbacks[key].push({
+			callbacks[key] = {
 				name: value.metadata.name,
 				callback: value.command.execute
 			})
