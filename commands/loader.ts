@@ -66,7 +66,7 @@ export async function getCommands() {
 
 export async function getCallbacks() {
 	let files = await PullFiles()
-	let callbacks: { [key: string]: { name: string, callback: any }[] } = {};
+	let callbacks: { [key: string]: { name: string, callback: any } | { name: string, callback: any }[]} = {};
 
 	for (const [key, value] of Object.entries(files)) {
 		if (callbacks[key] == undefined) callbacks[key] = []
