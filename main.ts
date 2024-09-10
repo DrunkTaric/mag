@@ -11,17 +11,19 @@ if (!process.env.SUPABASE_URL) { throw new Error('Missing SUPABASE_URL in .env')
 if (!process.env.SUPABASE_ANON) { throw new Error('Missing SUPABASE_ANON in .env') }
 
 const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_ANON)
-const client = new Client({ intents: [
-	GatewayIntentBits.Guilds, 
-	GatewayIntentBits.GuildMessages, 
-	GatewayIntentBits.MessageContent
-]});
+const client = new Client({
+	intents: [
+		GatewayIntentBits.Guilds,
+		GatewayIntentBits.GuildMessages,
+		GatewayIntentBits.MessageContent
+	]
+});
 
 client.on('ready', async () => {
 	console.log(`Logged in as ${client.user?.tag}!`);
 	handleCommmands(client)
 	await clearChannel(client.channels.cache.get(process.env.CHANNEL_ID || "") as TextChannel | undefined);
-	await LoadEvents(client.channels.cache.get(process.env.CHANNEL_ID || "") as TextChannel | undefined); 
+	await LoadEvents(client.channels.cache.get(process.env.CHANNEL_ID || "") as TextChannel | undefined);
 });
 
 async function main() {
